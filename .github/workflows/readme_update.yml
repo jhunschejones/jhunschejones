@@ -1,0 +1,35 @@
+name: Readme Update
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '0 14 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1.1'
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Install ChromeDriver
+      run: |
+          CHROMEDRIVER_RELEASE=$(curl --location --fail --retry 3 http://chromedriver.storage.googleapis.com/LATEST_RELEASE) \
+          && curl --silent --show-error --location --fail --retry 3 --output /tmp/chromedriver_linux64.zip "http://chromedriver.storage.googleapis.com/$CHROMEDRIVER_RELEASE/chromedriver_linux64.zip" \
+          && cd /tmp \
+          && unzip chromedriver_linux64.zip \
+          && rm -rf chromedriver_linux64.zip \
+          && sudo mv chromedriver /usr/local/bin/chromedriver \
+          && sudo chmod +x /usr/local/bin/chromedriver \
+          && chromedriver --version --no-sandbox
+    - name: Update README
+      run: bundle exec ruby wotd.rb
+    - name: Commit changes
+      run: |
+        git commit README.md -m 'Update README' || echo "No changes to commit"
+        git push origin || echo "No changes to commit"
