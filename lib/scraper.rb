@@ -7,7 +7,7 @@ class Scraper
               :sentence_audio_url
 
   def get_wotd
-    service = Selenium::WebDriver::Service.chrome(path: "bin/chromedriver")
+    service = Selenium::WebDriver::Service.chrome(path: chromedriver_path)
     driver_args = ["--headless"]
     options = Selenium::WebDriver::Chrome::Options.new(args: driver_args)
     driver = Selenium::WebDriver.for(:chrome, service: service, capabilities: options)
