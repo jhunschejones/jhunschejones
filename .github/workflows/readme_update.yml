@@ -22,7 +22,7 @@ jobs:
       run: |
           CHROMEDRIVER_RELEASE=$(curl --location --fail --retry 3 http://chromedriver.storage.googleapis.com/LATEST_RELEASE) \
           && echo WE ARE HERE \
-          && echo pwd \
+          && echo "$(pwd)" \
           && curl --silent --show-error --location --fail --retry 3 --output /tmp/chromedriver_linux64.zip "http://chromedriver.storage.googleapis.com/$CHROMEDRIVER_RELEASE/chromedriver_linux64.zip" \
           && cd /tmp \
           && unzip chromedriver_linux64.zip \
