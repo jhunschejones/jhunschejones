@@ -1,0 +1,9 @@
+#!/bin/bash
+
+LOCAL_CHROME_MAJOR_VERSION=$(/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version | cut -d ' ' -f3 | cut -d '.' -f1)
+LATEST_CHROMEDRIVER_RELEASE=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$LOCAL_CHROME_MAJOR_VERSION")
+
+echo "Installing chromedriver..."
+curl -sL "https://chromedriver.storage.googleapis.com/$LATEST_CHROMEDRIVER_RELEASE/chromedriver_mac64.zip" > tmp/chromedriver.zip
+unzip -q -o tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
+rm tmp/chromedriver.zip
