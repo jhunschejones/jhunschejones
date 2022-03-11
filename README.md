@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00070.mp3">🔊</a></td><td>つらい</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>つらい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>tough, hard, painful, bitter</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00436.mp3">🔊</a></td><td>うるさい音をいつも聞くのはつらいですね。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>うるさいおとをいつもきくのはつらいですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is painful for everyone to hear the constant neighborhood commotion.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00071.mp3">🔊</a></td><td>駐車場</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ちゅうしゃじょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>parking space, parking lot</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00437.mp3">🔊</a></td><td>駐車場でスピーカーの音がうるさいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ちゅうしゃじょうですぴぃかぁのおとがうるさいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The noise from the speaker in the parking lot is very loud.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
