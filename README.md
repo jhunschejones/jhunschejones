@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00079.mp3">🔊</a></td><td>大雑把な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おおざっぱな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>cursory, rough, broad, loose</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00445.mp3">🔊</a></td><td>伊藤さんはしつけの定義が大雑把ならしいです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>いとうさんはしつけのていぎがおおざっぱならしいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Ito-san has a loose definition of what discipline means.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00080.mp3">🔊</a></td><td>目が合う</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>めがあう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to meet eyes, to catch one's eye</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00446.mp3">🔊</a></td><td>近所の人と目が合ったら、挨拶をすると礼儀正しいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>きんじょのひととめがあったら、あいさつするとれいぎただしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is polite to exchange a greeting with your neighbor if you meet eyes.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
