@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00081.mp3">🔊</a></td><td>連絡先</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>れんらくさき</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>contact information</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00447.mp3">🔊</a></td><td>連絡先を教えてもらったほうがいいですよ。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>れんらくさきをおしえてもらったほうがいいですよ。</td></tr>
-  <tr><td><strong>English:</strong></td><td>You should ask for their contact information.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00082.mp3">🔊</a></td><td>いざという時</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>いざというとき</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>at a critical moment, when the need arises, in an emergency</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00448.mp3">🔊</a></td><td>いざという時、連絡先を知っているといいですね。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>いざというとき、れんらくさきをしっているといいですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It would be good to have their contact information in an emergency.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
