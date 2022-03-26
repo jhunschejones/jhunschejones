@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00085.mp3">🔊</a></td><td>考慮する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>こうりょする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to take into consideration, to bear in mind, to consider</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00451.mp3">🔊</a></td><td>全て鈴木さんの意見だということを、考慮しなければなりません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>すべてすずきさんのいけんだということを、こうりょしなければなりません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Bear in mind, this is all in Suzuki-san's opinion.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00086.mp3">🔊</a></td><td>噂話</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>うわさばなし</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>gossip</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00452.mp3">🔊</a></td><td>噂話が好きなお年寄りが多いです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>うわさばなしがすきなおとしよりがおおいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Many elderly people love to listen to neighborhood gossip.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
