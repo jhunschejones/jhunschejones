@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00086.mp3">🔊</a></td><td>噂話</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>うわさばなし</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>gossip</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00452.mp3">🔊</a></td><td>噂話が好きなお年寄りが多いです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>うわさばなしがすきなおとしよりがおおいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Many elderly people love to listen to neighborhood gossip.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00087.mp3">🔊</a></td><td>積極的な</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>せっきょくてきな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>active, aggressive, assertive, constructive</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00453.mp3">🔊</a></td><td>噂話に積極的な人がいます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>うわさばなしにせっきょくてきなひとがいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Some people are active gossipers.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
