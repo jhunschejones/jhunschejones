@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00089.mp3">🔊</a></td><td>程々に</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ほどほどに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>moderately, in moderation</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00455.mp3">🔊</a></td><td>鈴木さんと話す時は程々にするつもりです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>すずきさんとはなすときはほどほどにするつもりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I talk with Suzuki-san in moderation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00090.mp3">🔊</a></td><td>愚痴</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ぐち</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>moan, complaint</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00456.mp3">🔊</a></td><td>鈴木さんに愚痴を言ってはいけません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>すずきさんにぐちをいってはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Don't make any complaints to Suzuki-san.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
