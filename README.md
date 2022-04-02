@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00092.mp3">🔊</a></td><td>苦手な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>にがてな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be bad at, to be poor at, weak</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00458.mp3">🔊</a></td><td>日本人はエイプリルフールに嘘をつくのが好きですが、嘘は苦手だと思います。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>にほんじんはえいぷりるふぅるにうそをつくのがすきですが、うそはにがてだとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The Japanese like to lie on April Fools' Day, but they are typically bad at lying.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00093.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>company party, corporate gathering</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00459.mp3">🔊</a></td><td>日本人は楽しいことが好きですし、宴会をするのも大好きです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>にほんじんはたのしいことがすきですし、えんかいをするのもだいすきです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The Japanese love to have fun and host company parties.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
