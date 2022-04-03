@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00093.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00094.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>company party, corporate gathering</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00459.mp3">🔊</a></td><td>日本人は楽しいことが好きですし、宴会をするのも大好きです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>にほんじんはたのしいことがすきですし、えんかいをするのもだいすきです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The Japanese love to have fun and host company parties.</td></tr>
+  <tr><td><strong>English:</strong></td><td>a new business/school year, a new fiscal year</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00460.mp3">🔊</a></td><td>日本では、新年度は四月からです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>にほんでは、しんねんどはしがつからです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In Japan, the new fiscal year starts in April.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
