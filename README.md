@@ -8,13 +8,13 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00101.mp3">🔊</a></td><td>口出しする</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>くちだしする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to stick one's nose into something, to interfere with</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00467.mp3">🔊</a></td><td>新しい上司に口出しをしないつもりです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あたらしいじょうしにくちだしをしないつもりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>­I would avoid sticking your nose into the new boss' business.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00102.mp3">🔊</a></td><td>話の腰を折る</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>はなしのこしをおる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to interrupt a conversation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00468.mp3">🔊</a></td><td>上司はしょっちゅう話の腰を折ります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょうしはしょっちゅうはなしのこしをおります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Our boss interrupts our conversation all the time.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 
