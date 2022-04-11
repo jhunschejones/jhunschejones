@@ -17,6 +17,3 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
   <tr><td><strong>English:</strong></td><td>Our boss interrupts our conversation all the time.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
-
-## Another section
-This shouldn't change either.
