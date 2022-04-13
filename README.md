@@ -20,7 +20,7 @@
 - :headphones: &nbsp;I mix rock and heavy music and sometimes [teach about it](https://www.musiclikeyoumeanit.com/)
 - :seedling: &nbsp;I'm [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
 - :cat: &nbsp;My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈
-- :walking: &nbsp;we love taking urban hikes through the Chicago area neighborhoods and searching for the best Thai food we can find
+- :walking: &nbsp;we love taking urban hikes through the Chicago area neighborhoods
 - :fire: &nbsp;we are on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
 
 
