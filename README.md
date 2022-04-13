@@ -26,7 +26,9 @@ Please don't hesitate to reach out if you are interested in working on a project
 </a>
 -->
 
-## 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
+<br/>
+
+### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
 
 <!-- START WORD OF THE DAY -->
 <table>
