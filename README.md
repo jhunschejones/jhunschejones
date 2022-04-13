@@ -15,7 +15,7 @@
 ### I am a software engineer based out of Chicago, IL
 
 - :office: &nbsp;I'm currently working at GitHub
-- :headphones: &nbsp;I mix rock and heavy music and sometimes [teach about it](https://www.musiclikeyoumeanit.com/)
+- :headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)
 - :seedling: &nbsp;I'm [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
 - :cat: &nbsp;My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈
 - :walking: &nbsp;we love taking urban hikes through the Chicago area neighborhoods
