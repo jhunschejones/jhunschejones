@@ -9,7 +9,7 @@ Please don't hesitate to reach out if you are interested in working on a project
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" name="My code" height="47" style="vertical-align: top; margin: 8px; text-decoration: none;">
   </a>
   <a href="https://www.linkedin.com/in/jhunschejones">
-    <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin: 8px; text-decoration: none;">
+    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/linkedin_logo.png" alt="LinkedIn" height="50" style="vertical-align:top; margin: 8px; text-decoration: none;">
   </a>
   <a href="https://jhunschejones.medium.com">
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/medium_logo.png" alt="Medium" name="My blog" height="47" style="vertical-align: top; margin: 8px; text-decoration: none;">
