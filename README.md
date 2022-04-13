@@ -28,6 +28,8 @@ Please don't hesitate to reach out if you are interested in working on a project
 
 <br/>
 
+<div align="center"> 
+  
 ### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
 
 <!-- START WORD OF THE DAY -->
@@ -41,3 +43,4 @@ Please don't hesitate to reach out if you are interested in working on a project
   <tr><td><strong>English:</strong></td><td>Davis-san might join the boss's faction.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
+</div>
