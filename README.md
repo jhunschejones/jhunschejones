@@ -5,6 +5,9 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL. When
 Please don't hesitate to reach out if you are interested in working on a project together or if you just want to say hi! 👋🏻
 
 <p align="center" style="padding-bottom:50px"> 
+  <a href="https://www.github.com/jhunschejones">
+    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" height="47" style="vertical-align:top; margin:8px">
+  </a>
   <a href="https://www.linkedin.com/in/jhunschejones">
     <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:8px">
   </a>
