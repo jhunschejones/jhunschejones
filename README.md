@@ -1,5 +1,3 @@
-# Hi, I'm Josh Jones 🙇🏼‍♂️
-
 <div align="right"> 
   <a href="https://www.github.com/jhunschejones">
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" name="My code" height="27" style="vertical-align: top; margin: 8px; text-decoration: none;">
@@ -12,9 +10,9 @@
   </a>
 </div>
 
+# Hi, I'm Josh Jones 🙇🏼‍♂️
+
 ### I am a software engineer based out of Chicago, IL
-
-
 
 - :office: &nbsp;I'm currently working at GitHub
 - :headphones: &nbsp;I mix rock and heavy music and sometimes [teach about it](https://www.musiclikeyoumeanit.com/)
@@ -22,8 +20,6 @@
 - :cat: &nbsp;My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈
 - :walking: &nbsp;we love taking urban hikes through the Chicago area neighborhoods
 - :fire: &nbsp;we are on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
-
-
 
 <!--
 ## Experience
@@ -35,11 +31,9 @@
 </a>
 -->
 
-<br/>
-
-#### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
+#### Get your 🇯🇵 Japanese word of the day below, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
 <details>
-  <summary>See more</summary>
+  <summary>See todays!</summary>
   
 <!-- START WORD OF THE DAY -->
 <table>
