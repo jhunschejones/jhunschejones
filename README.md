@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Josh Jones and I'm a software engineer based out of Chicago, IL. When I'm not writing Ruby at work, I [**mix rock songs**](https://www.musiclikeyoumeanit.com/) and enjoy [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning). My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈 and we love taking urban hikes through the Chicago area neighborhoods. We are also on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
+My name is Josh Jones and I'm a software engineer based out of Chicago, IL. 🏙️ When I'm not writing Ruby ❤️ at GitHub, I [**mix rock songs**](https://www.musiclikeyoumeanit.com/) and work on [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning). My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈 and we love taking urban hikes through the Chicago area neighborhoods. 🚶🏼🚶🏼‍♀️ We are on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
 
 Please don't hesitate to reach out if you are interested in working on a project together or if you just want to say hi! 👋🏻
 
