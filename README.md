@@ -18,7 +18,7 @@
 - :headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)
 - :seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
 - :cat: &nbsp;My partner and I live with two, rather vocal cats 🐈‍⬛ 🐈  and love doing urban hikes :walking:
-- :book: &nbsp;I love audio books and am always looking for new suggestions!
+- :book: &nbsp;I listen to lots of audio books and am always looking for new suggestions!
 
 <!--
 ## Experience
@@ -30,9 +30,11 @@
 </a>
 -->
 
-#### Get your 🇯🇵 Japanese word of the day below, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
-<details>
-  <summary>See todays!</summary>
+<br/>
+
+<div align="center">
+  
+### Get your 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
   
 <!-- START WORD OF THE DAY -->
 <table>
@@ -45,5 +47,4 @@
   <tr><td><strong>English:</strong></td><td>Davis-san might join the boss's faction.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
-  
-</details>
+</div>
