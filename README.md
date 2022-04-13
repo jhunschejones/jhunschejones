@@ -32,7 +32,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   
 ### Get your 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
   
