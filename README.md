@@ -16,10 +16,9 @@
 
 - :office: &nbsp;I'm currently working at GitHub
 - :headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)
-- :seedling: &nbsp;I'm [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
-- :cat: &nbsp;My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈
-- :walking: &nbsp;we love taking urban hikes through the Chicago area neighborhoods
-- :fire: &nbsp;we are on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
+- :seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
+- :cat: &nbsp;My partner and I live with two, rather vocal cats 🐈‍⬛ 🐈  and love doing urban hikes :walking:
+- :book: &nbsp;I love audio books and am always looking for new suggestions!
 
 <!--
 ## Experience
