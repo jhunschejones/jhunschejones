@@ -8,12 +8,12 @@ Please don't hesitate to reach out if you are interested in working on a project
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00103.mp3">🔊</a></td><td>空気を読む</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>くうきをよむ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to read the situation, to sense the mood</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00469.mp3">🔊</a></td><td>デイビスさんは空気を読むのが上手です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>でいびすさんはくうきをよむのがじょうずです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san is good at reading a situation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00104.mp3">🔊</a></td><td>派閥</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>はばつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>faction</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00470.mp3">🔊</a></td><td>デイビスさんは上司の派閥に入ったかもしれません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>でいびすさんはじょうしのはばつにはいったかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Davis-san might join the boss's faction.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
