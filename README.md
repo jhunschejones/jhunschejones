@@ -1,20 +1,29 @@
-## About Me
+# Hi, I'm Josh Jones 🙇🏼‍♂️
 
-My name is Josh Jones and I'm a software engineer based out of Chicago, IL. 🏙️ When I'm not writing Ruby ❤️ at GitHub, I [**mix rock songs**](https://www.musiclikeyoumeanit.com/) and work on [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning). My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈 and we love taking urban hikes through the Chicago area neighborhoods. 🚶🏼🚶🏼‍♀️ We are on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
-
-Please don't hesitate to reach out if you are interested in working on a project together or if you just want to say hi! 👋🏻
-
-<p align="center"> 
+<div align="right"> 
   <a href="https://www.github.com/jhunschejones">
-    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" name="My code" height="47" style="vertical-align: top; margin: 8px; text-decoration: none;">
+    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" name="My code" height="27" style="vertical-align: top; margin: 8px; text-decoration: none;">
   </a>
   <a href="https://www.linkedin.com/in/jhunschejones">
-    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/linkedin_logo.png" alt="LinkedIn" height="50" style="vertical-align:top; margin: 8px; text-decoration: none;">
+    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/linkedin_logo.png" alt="LinkedIn" height="30" style="vertical-align:top; margin: 8px; text-decoration: none;">
   </a>
   <a href="https://jhunschejones.medium.com">
-    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/medium_logo.png" alt="Medium" name="My blog" height="47" style="vertical-align: top; margin: 8px; text-decoration: none;">
+    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/medium_logo.png" alt="Medium" name="My blog" height="27" style="vertical-align: top; margin: 8px; text-decoration: none;">
   </a>
-</p>
+</div>
+
+### I am a software engineer based out of Chicago, IL
+
+
+
+- :office: &nbsp;I'm currently working at GitHub
+- :headphones: &nbsp;I mix rock and heavy music and sometimes [teach about it](https://www.musiclikeyoumeanit.com/)
+- :seedling: &nbsp;I'm [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
+- :cat: &nbsp;My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈
+- :walking: &nbsp;we love taking urban hikes through the Chicago area neighborhoods and searching for the best Thai food we can find
+- :fire: &nbsp;we are on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
+
+
 
 <!--
 ## Experience
@@ -28,10 +37,10 @@ Please don't hesitate to reach out if you are interested in working on a project
 
 <br/>
 
-<div align="center"> 
+#### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
+<details>
+  <summary>See more</summary>
   
-### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
-
 <!-- START WORD OF THE DAY -->
 <table>
   <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00104.mp3">🔊</a></td><td>派閥</td></tr>
@@ -43,4 +52,5 @@ Please don't hesitate to reach out if you are interested in working on a project
   <tr><td><strong>English:</strong></td><td>Davis-san might join the boss's faction.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
-</div>
+  
+</details>
