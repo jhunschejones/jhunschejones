@@ -4,6 +4,12 @@ My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. 
 
 Please don't hesitate to reach out if you are interested in working on a project together or if you just want to say hi! 👋🏻
 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/jhunschejones">
+    <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
 #### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
 
 <!-- START WORD OF THE DAY -->
