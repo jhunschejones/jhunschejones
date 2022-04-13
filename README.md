@@ -1,16 +1,29 @@
-# Hi there! 🙇🏼‍♂️
+## About Me
 
-My name is Josh Jones and I'm a software engineer based out of Chicago, IL USA. When I'm not writing Ruby at work (❤️), I love [mixing rock songs](https://www.musiclikeyoumeanit.com/) and working on [tools for Japanese language learning](https://github.com/stars/jhunschejones/lists/japanese-language-learning). My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈 and we try to tackle as many urban hikes through the Chicago area neighborhoods as we can. We are also on a continuous quest for the best Thai food we can find, and all recomendations are welcome. 
+My name is Josh Jones and I'm a software engineer based out of Chicago, IL. When I'm not writing Ruby at work, I [mix rock songs](https://www.musiclikeyoumeanit.com/) and enjoy [learning Japanese](https://github.com/stars/jhunschejones/lists/japanese-language-learning). My partner and I live with two, quite vocal cats 🐈‍⬛ 🐈 and we try to tackle as many urban hikes through the Chicago area neighborhoods as we can. We are also on a continuous quest for the best Thai food we can find, and all recomendations are welcome.
 
 Please don't hesitate to reach out if you are interested in working on a project together or if you just want to say hi! 👋🏻
 
-<p align="center"> 
+<p align="center" style="padding-bottom:50px"> 
   <a href="https://www.linkedin.com/in/jhunschejones">
-    <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px">
+    <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:8px">
+  </a>
+  <a href="https://jhunschejones.medium.com">
+    <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/medium_logo.png" alt="Medium" name="My blog" height="47" style="vertical-align:top; margin:8px">
   </a>
 </p>
 
-#### 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
+<!--
+## Experience
+<a href="https://github.com/jhunschejones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhunschejones&hide=issues&show_icons=true" />
+</a><br/>
+<a href="https://github.com/jhunschejones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhunschejones&hide=scss,less&layout=compact" />
+</a>
+-->
+
+## 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
 
 <!-- START WORD OF THE DAY -->
 <table>
