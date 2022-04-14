@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00104.mp3">🔊</a></td><td>派閥</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>はばつ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>faction</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00470.mp3">🔊</a></td><td>デイビスさんは上司の派閥に入ったかもしれません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>でいびすさんはじょうしのはばつにはいったかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san might join the boss's faction.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00105.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>sociable, outgoing, gregarious, socialized</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00471.mp3">🔊</a></td><td>ジョーンズさんはデイビスさんが社交的だと言っていました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんはでいびすさんがしゃこうてきだといっていました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Jones-san said Davis-san is very sociable.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
