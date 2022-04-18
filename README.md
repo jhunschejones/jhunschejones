@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00108.mp3">🔊</a></td><td>否定的な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ひていてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>negative, unfavorable</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00474.mp3">🔊</a></td><td>ジョーンズさんに否定的なことを言ってはいけません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんにひていてきなことをいってはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I should not be too negative around Jones-san.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00109.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>sincereness, conscience, honesty, integrity</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00475.mp3">🔊</a></td><td>ジョーンズさんに誠実だと思って欲しいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんにせいじつだとおもってほしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to show Jones-san that I have integrity.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
