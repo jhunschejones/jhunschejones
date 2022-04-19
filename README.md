@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00109.mp3">🔊</a></td><td></td></tr>
-  <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>sincereness, conscience, honesty, integrity</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00475.mp3">🔊</a></td><td>ジョーンズさんに誠実だと思って欲しいです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんにせいじつだとおもってほしいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to show Jones-san that I have integrity.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00110.mp3">🔊</a></td><td>以心伝心</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>いしんでんしん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>tacit understanding, telepathy</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00476.mp3">🔊</a></td><td>ジョーンズさんと以心伝心の仲になりたいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんといしんでんしんのなかになりたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to build a close relationship where we can have a tacit understanding of each other.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
