@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00112.mp3">🔊</a></td><td></td></tr>
-  <tr><td><strong>Kana:</strong></td><td>音：ム、ブ 訓：な（い）</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>prefix</td></tr>
-  <tr><td><strong>English:</strong></td><td>non-, un-</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00478.mp3">🔊</a></td><td>やっぱり、新しい上司を好きになるのは無理です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>やっぱり、あたらしいじょうしをすきになるのはむりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>After all, it is impossible for me to like my new boss.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00113.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td></td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00479.mp3">🔊</a></td><td>上司はしょっちゅう仕事の指示を変えます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょうしはしょっちゅうしごとのしじをかえます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My boss frequently changes our instructions for assignments.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
