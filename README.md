@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00113.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00114.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
   <tr><td><strong>English:</strong></td><td></td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00479.mp3">🔊</a></td><td>上司はしょっちゅう仕事の指示を変えます。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じょうしはしょっちゅうしごとのしじをかえます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My boss frequently changes our instructions for assignments.</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00480.mp3">🔊</a></td><td>上司はいつも私たちを振り回します。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょうしはいつもわたしたちをふりまわします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My boss always manipulates things to get their way.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
