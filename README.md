@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00116.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00117.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to become reliable</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00482.mp3">🔊</a></td><td>ジョーンズさんがチームの中でも頼りになる人だと言ってくれました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんがちぃむのなかでもたよりになるひとだといってくれました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Jones-san said I have become a reliable employee on the team.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to prioritize</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00483.mp3">🔊</a></td><td>大事な案件を優先するように努力します。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>だいじなあんけんをゆうせんするようにどりょくします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I have improved my ability to prioritize tasks.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
