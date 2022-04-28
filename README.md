@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00118.mp3">🔊</a></td><td>人のせいにする</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ひとのせいにする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to blame somebody else</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00484.mp3">🔊</a></td><td>失敗を人のせいにしてはいけません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>しっぱいをひとのせいにしてはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>We must not blame others for our failure.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00119.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>authoritative, overbearing, high-handed</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00485.mp3">🔊</a></td><td>上司が高圧的でも引き続き頑張ります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょうしがこうあつてきでもひきつづきがんばります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Even if my boss is overbearing, I must continue to do my best.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
