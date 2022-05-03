@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00123.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00124.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
   <tr><td><strong>English:</strong></td><td></td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00489.mp3">🔊</a></td><td>連続して休めるのは贅沢です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>れんぞくしてやすめるのはぜいたくです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It will be luxurious for me to have several days off.</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00490.mp3">🔊</a></td><td>平日忙しくて見逃しがちだった映画を見ようと思います。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>へいじついそがしくてみのがしがちだったえいがをみようとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I think I will watch some of the movies I usually miss out on watching during the week.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
