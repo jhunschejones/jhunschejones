@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00127.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00128.mp3">🔊</a></td><td>うっかり</td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>consecutive holidays</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00493.mp3">🔊</a></td><td>連休に帰省して家族と過ごすのはいい考えです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>れんきゅうにきせいしてかぞくとすごすのはいいかんがえです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It was a good idea to return home to enjoy the consecutive holidays with my family.</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>accidentally, carelessly, inadvertently</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00494.mp3">🔊</a></td><td>年末にもうっかり帰りませんでした。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>I inadvertently didn't return home last year for the holidays.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
