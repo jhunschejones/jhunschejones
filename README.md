@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00129.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00130.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>budget</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00495.mp3">🔊</a></td><td>この時期は移動手段にもお金がかかりますが、予算がほとんどありません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>このじきはいどうしゅだんにもおかねがかかりますが、よさんがほとんどありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Although transportation costs a lot during this time, I didn't budget well beforehand.</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td></td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00496.mp3">🔊</a></td><td>何かお得な旅行プランを見つけなければいけません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>なにかおとくなりょこうぷらんをみつけなければいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I have to find something, like a cheap travel tour.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
