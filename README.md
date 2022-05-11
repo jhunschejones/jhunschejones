@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00131.mp3">🔊</a></td><td>荷作り</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>にづくり</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>packing</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00497.mp3">🔊</a></td><td>でも、荷作りする時間もありませんでした。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>でも、にづくりするじかんもありませんでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>However, I didn't have time for packing, either.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00132.mp3">🔊</a></td><td>鑑賞する</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かんしょうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to appreciate</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00498.mp3">🔊</a></td><td>代わりに、たくさんの映画を鑑賞する時間を取ります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かわりに、たくさんのえいがをかんしょうするじかんをとります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Instead, I will take the time to appreciate many good movies.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
