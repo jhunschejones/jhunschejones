@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00137.mp3">🔊</a></td><td>利用する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>りようする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to use, to apply, to take, to leverage</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00503.mp3">🔊</a></td><td>デイビスさんは手ごろな旅行プランを利用して、海外へ行きました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>でいびすさんはてごろなりょこうぷらんをりようして、かいがいへいきました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san was able to use affordable travel tours to go overseas.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00139.mp3">🔊</a></td><td>日本語が通じる</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>にほんごがつうじる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>Japanese-speaking countries/areas</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00505.mp3">🔊</a></td><td>日本語が通じる国だったら、行きたいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>にほんごがつうじるくにだったら、いきたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to go somewhere where most people understand some Japanese.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
