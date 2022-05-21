@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00141.mp3">🔊</a></td><td>圧倒的な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あっとうてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>irresistibly, massive, commanding</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00507.mp3">🔊</a></td><td>まさに圧倒的な迫力でした。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>まさにあっとうてきなはくりょくでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Certainly, it was an irresistibly beautiful view.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00142.mp3">🔊</a></td><td>眺める</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ながめる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to view, to regard</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00508.mp3">🔊</a></td><td>実際にその風景を眺めたいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じっさいにそのふうけいをながめたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to view that landscape in person.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
