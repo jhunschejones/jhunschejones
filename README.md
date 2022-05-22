@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00142.mp3">🔊</a></td><td>眺める</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ながめる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to view, to regard</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00508.mp3">🔊</a></td><td>実際にその風景を眺めたいです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じっさいにそのふうけいをながめたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to view that landscape in person.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00143.mp3">🔊</a></td><td>充実感</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じゅうじつかん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>a sense of fulfillment</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00509.mp3">🔊</a></td><td>旅行に行くと、充実感があります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>りょこうにいくと、じゅうじつかんがあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Whenever I travel, I feel a sense of fulfillment.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
