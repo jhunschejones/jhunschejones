@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00147.mp3">🔊</a></td><td>庶民的な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>しょみんてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>plebian, folksy, ordinary</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00513.mp3">🔊</a></td><td>比較すると、私の休暇は庶民的です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ひかくすると、わたしのきゅうかはしょみんてきです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My vacation seems so ordinary in comparison.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00148.mp3">🔊</a></td><td>欲</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>音：ヨク 訓：ほっ（する）ほ（しい）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to want, to desire</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00514.mp3">🔊</a></td><td>欲しい物がたくさんあって、お金が足りません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ほしいものがたくさんあって、おかねがたりません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I have a lot of things I want, but I don't have enough money.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
