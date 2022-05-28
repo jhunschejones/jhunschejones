@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00148.mp3">🔊</a></td><td>欲</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>音：ヨク 訓：ほっ（する）ほ（しい）</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to want, to desire</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00514.mp3">🔊</a></td><td>欲しい物がたくさんあって、お金が足りません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ほしいものがたくさんあって、おかねがたりません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I have a lot of things I want, but I don't have enough money.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00149.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>decluttering, minimalism</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00515.mp3">🔊</a></td><td>家の中が狭くなったので、断捨離します。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>いえのなかがせまくなったので、だんしゃりします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My room has become so messy that it's time to do some decluttering.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
