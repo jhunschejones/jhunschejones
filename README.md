@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00152.mp3">🔊</a></td><td>満喫する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>まんきつする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to fully enjoy oneself, to get the most enjoyment</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00518.mp3">🔊</a></td><td>私もゴールデンウィークを満喫できました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>わたしもごぉるでんうぃぃくをまんきつできました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I fully enjoyed myself during Golden Week.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00153.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td>つゆ（ばいう）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>rainy season</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00519.mp3">🔊</a></td><td>私の嫌いな梅雨がやってきます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>わたしのきらいなつゆがやってきます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The rainy season, which I hate, is coming.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
