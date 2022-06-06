@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00157.mp3">🔊</a></td><td>災害</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>さいがい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>disaster</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00523.mp3">🔊</a></td><td>雨が多いと、災害も多くなります。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あめがおおいと、さいがいもおおくなります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The more it rains, the more disasters occur.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00158.mp3">🔊</a></td><td>備蓄する</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>びちくする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to build a stockpile, to stockpile</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00524.mp3">🔊</a></td><td>災害のために、色々と備蓄しなければいけません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>さいがいのために、いろいろとびちくしなければいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We have to stockpile various things for disasters.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
