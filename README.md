@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00166.mp3">🔊</a></td><td></td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じゅうでんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to charge, to recharge</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00532.mp3">🔊</a></td><td>携帯電話が充電できないかもしれません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>けいたいでんわがじゅうでんできないかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>We might not be able to charge our cell phones.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00167.mp3">🔊</a></td><td>梅雨前線</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ばいうぜんせん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>rainy season front</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00533.mp3">🔊</a></td><td>梅雨前線は南から北に移動します。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ばいうぜんせんはみなみからきたにいどうします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The rainy season front moves from south to north.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
