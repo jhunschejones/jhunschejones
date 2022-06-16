@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00167.mp3">🔊</a></td><td>梅雨前線</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ばいうぜんせん</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00168.mp3">🔊</a></td><td>買い置き</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かいおき</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>rainy season front</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00533.mp3">🔊</a></td><td>梅雨前線は南から北に移動します。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ばいうぜんせんはみなみからきたにいどうします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The rainy season front moves from south to north.</td></tr>
+  <tr><td><strong>English:</strong></td><td>a stock of goods, a reserve of supplies</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00534.mp3">🔊</a></td><td>買い置きをいくつか準備した方がいいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かいおきをいくつかじゅんびしたほうがいいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We should prepare a stock of goods in case of an emergency.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
