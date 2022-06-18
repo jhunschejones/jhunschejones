@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00169.mp3">🔊</a></td><td></td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ゆれる</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00170.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to shake</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00535.mp3">🔊</a></td><td>地震では建物がグラグラと揺れます。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じしんではたてものがぐらぐらとゆれます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>During an earthquake, buildings are shaken pretty badly.</td></tr>
+  <tr><td><strong>English:</strong></td><td></td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00536.mp3">🔊</a></td><td>家具が転倒するかもしれません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かぐがてんとうするかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It's possible some buildings might fall down.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
