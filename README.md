@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00170.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00171.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td></td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00536.mp3">🔊</a></td><td>家具が転倒するかもしれません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>かぐがてんとうするかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It's possible some buildings might fall down.</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>valuables</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00537.mp3">🔊</a></td><td>津波の場合、貴重品を取りに戻ってはいけません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>つなみのばあい、きちょうひんをとりにもどってはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In the case of a tsunami, you cannot go back to get your valuables.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
