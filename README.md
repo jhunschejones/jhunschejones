@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00182.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00183.mp3">🔊</a></td><td></td></tr>
   <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to feel relieved, to experience relief, to feel secure</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00548.mp3">🔊</a></td><td>災害がなくてホッとしました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>さいがいがなくてほっとしました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I am so relieved there were no disasters.</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>aid, help, assistance, care</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00549.mp3">🔊</a></td><td>昨年の夏、山田先生にはお世話になりました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>きょねんのなつ、やまだせんせいにはおせわになりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Last summer, Professor Yamada gave me a lot of help with my school work.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
