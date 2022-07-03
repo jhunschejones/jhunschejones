@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00184.mp3">🔊</a></td><td>お中元</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おちゅうげん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>summer gift, mid-year gift</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00550.mp3">🔊</a></td><td>今年の夏も、山田先生にお中元を贈ります。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ことしのなつも、やまだせんせいにおちゅうげんをおくります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>This year, I will send Professor Yamada a summer gift again.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00186.mp3">🔊</a></td><td>気がひける</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>きがひける</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to feel ashamed, to feel small</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00552.mp3">🔊</a></td><td>ささやかすぎて、気がひけます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ささやかすぎて、きがひけます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I feel ashamed I got such a small gift.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
