@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00187.mp3">🔊</a></td><td>のし紙</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>のしがみ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>wrapping paper with noshi</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00553.mp3">🔊</a></td><td>のし紙を忘れてはいけません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>のしがみをわすれてはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Don't forget to use the wrapping paper with noshi on it for the gift.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00188.mp3">🔊</a></td><td>なかなか</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>not easily, rather, exceedingly</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00554.mp3">🔊</a></td><td>山田先生にはなかなか直接お会いできません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>It is difficult to gain access to Professor Yamada directly.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
