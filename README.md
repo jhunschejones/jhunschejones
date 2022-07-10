@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00192.mp3">🔊</a></td><td>休暇</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>きゅうか</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>vacation</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00558.mp3">🔊</a></td><td>夏は休暇の季節ですね。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>なつはきゅうかのきせつですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Summer is usually the season to take a vacation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00193.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td>音：シュ 訓：と（る）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to take, to obtain</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00559.mp3">🔊</a></td><td>長期休暇が取れたらいいですね。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ちょうききゅうかがとれたらいいですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I hope we can take a long vacation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
