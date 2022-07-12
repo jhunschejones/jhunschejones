@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00194.mp3">🔊</a></td><td>週休二日</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>しゅうきゅうふつか</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>five-day workweek system</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00560.mp3">🔊</a></td><td>私の会社は週休二日なので、週末は休みです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>わたしのかいしゃはしゅうきゅうふつかなので、しゅうまつはやすみです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My company follows a five-day workweek system, so we have weekends off.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00195.mp3">🔊</a></td><td></td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かんせんする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to watch games or sports</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00561.mp3">🔊</a></td><td>週末の休みはたいてい野球を観戦します。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>しゅうまつのやすみはたいていやきゅうをかんせんします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>On my days off, I usually watch baseball games.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
