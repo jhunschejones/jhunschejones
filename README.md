@@ -38,13 +38,13 @@
   
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00205.mp3">🔊</a></td><td>穴埋めする</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あなうめする</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00206.mp3">🔊</a></td><td>長引く</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ながびく</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to make up for, to fill in for</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00571.mp3">🔊</a></td><td>必要だったら、スミスさんの穴埋めするつもりです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ひつようだったら、すみすさんのあなうめするつもりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>If needed, I can fill in for Smith-san.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be prolonged</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00572.mp3">🔊</a></td><td>スミスさんの休暇は長引くかもしれません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>すみすさんのきゅうかはながびくかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san's leave might be prolonged.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
