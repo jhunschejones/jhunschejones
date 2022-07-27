@@ -10,15 +10,13 @@
   </a>
 </div>
 
-# Hi, I'm Josh Jones 🙇🏼‍♂️
+# Hi there, I'm Josh Jones 🙇🏼‍♂️
 
-### I am a software engineer based out of Chicago, IL
-
-- :office: &nbsp;I'm currently working at GitHub
-- :headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)
-- :seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)
-- :cat: &nbsp;My partner and I live with two, rather vocal cats 🐈‍⬛ 🐈  and love doing urban hikes :walking:
-- :book: &nbsp;I listen to lots of audio books and am always looking for new suggestions!
+:office: &nbsp;I am a software engineer based out of Chicago, IL, currently working at GitHub<br/>
+:seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)<br/>
+:headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)<br/>
+:cat: &nbsp;My partner and I live with two, very vocal cats 🐈‍⬛ 🐈 <br/>
+:book: &nbsp;I listen to lots of audio books and am always looking for new suggestions!<br/>
 
 <!--
 ## Experience
@@ -27,10 +25,8 @@
 </a><br/>
 <a href="https://github.com/jhunschejones">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhunschejones&hide=scss,less&layout=compact" />
-</a>
+</a><br/>
 -->
-
-<br/>
 
 <div align="left">
 
