@@ -4,14 +4,6 @@ require "pry"
 require "rss"
 require_relative "lib/scraper"
 
-# response = HTTParty.get("https://feeds.feedblitz.com/japanese-word-of-the-day")
-# rss = RSS::Parser.parse(response.body)
-# title = rss.items.first.title
-# details_table = rss.items.first.description.gsub("\r", "").gsub("\n", "")
-# date = Time.parse(rss.items.first.pubDate.to_s).strftime("%m/%-d/%Y")
-
-# binding.pry
-
 scraper = Scraper.new.get_wotd
 readme = File.read("README.md")
 wotd = <<-WOTD

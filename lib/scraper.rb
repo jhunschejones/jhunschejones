@@ -13,6 +13,8 @@ class Scraper
     driver = Selenium::WebDriver.for(:chrome, service: service, capabilities: options)
     driver.get("https://wotd.transparent.com/widget/?lang=japanese")
 
+    sleep 5
+
     @word = driver.find_element(:css, ".js-wotd-wordsound-plus").text
     @kana = driver.find_element(:css, ".js-wotd-word-transliterated").text
     @translation = driver.find_element(:css, ".js-wotd-translation").text

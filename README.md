@@ -1,4 +1,4 @@
-<div align="right"> 
+<div align="right">
   <a href="https://www.github.com/jhunschejones">
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" name="My code" height="27" style="vertical-align: top; margin: 8px; text-decoration: none;">
   </a>
@@ -33,15 +33,15 @@
 <br/>
 
 <div align="left">
-  
+
 ### Get your 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
-  
+
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00210.mp3">🔊</a></td><td></td></tr>
-  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00210.mp3">🔊</a></td><td>有給休暇</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ゆうきゅうきゅうか</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>paid vacation</td></tr>
   <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00576.mp3">🔊</a></td><td>有給休暇を使った方がいいです。</td></tr>
   <tr><td><strong>Kana:</strong></td><td>ゆうきゅうきゅうかをつかったほうがいいです。</td></tr>
   <tr><td><strong>English:</strong></td><td>It is better to take paid vacations.</td></tr>
