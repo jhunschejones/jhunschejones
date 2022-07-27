@@ -13,7 +13,7 @@
 # Hi there, I'm Josh Jones 🙇🏼‍♂️
 
 :office: &nbsp;I am a software engineer based out of Chicago, IL, currently working at GitHub<br/>
-:seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning)<br/>
+:seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning) 🇯🇵 <br/>
 :headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)<br/>
 :cat: &nbsp;My partner and I live with two, very vocal cats 🐈‍⬛ 🐈 <br/>
 :book: &nbsp;I listen to lots of audio books and am always looking for new suggestions!<br/>
@@ -28,9 +28,11 @@
 </a><br/>
 -->
 
+<br/>
+
 <div align="left">
 
-### Get your 🇯🇵 Japanese word of the day, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
+#### Get your Japanese word of the day here, [updated daily](https://github.com/jhunschejones/jhunschejones/blob/main/wotd.rb) with [GitHub actions](https://github.com/jhunschejones/jhunschejones/blob/main/.github/workflows/readme_update.yml) ❤️
 
 <!-- START WORD OF THE DAY -->
 <table>
