@@ -12,10 +12,11 @@
 
 # Hi there, I'm Josh Jones 🙇🏼‍♂️
 
-:office: &nbsp;I am a software engineer based out of Chicago, IL, currently working at GitHub<br/>
+:office: &nbsp;I am a software engineer based out of Chicago, IL and I work at GitHub<br/>
 :seedling: &nbsp;I'm currently [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning) 🇯🇵 <br/>
-:headphones: &nbsp;I mix rock and heavy music and sometimes [**teach about it**](https://www.musiclikeyoumeanit.com/blog)<br/>
+:headphones: &nbsp;I mix rock and heavy music from time to time and I also [**teach about it**](https://www.musiclikeyoumeanit.com/blog)<br/>
 :cat: &nbsp;My partner and I live with two, very vocal cats 🐈‍⬛ 🐈 <br/>
+:walking: &nbsp;I like going on long urban hikes _(5+ miles)_<br/>
 :book: &nbsp;I listen to lots of audio books and am always looking for new suggestions!<br/>
 
 <!--
