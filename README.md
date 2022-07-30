@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00212.mp3">🔊</a></td><td>病気休暇</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>びょうききゅうか</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>sick leave</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00578.mp3">🔊</a></td><td>スミスさんは具体的には病気休暇を取ったそうです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>すみすさんはぐたいてきにはびょうききゅうかをとったそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I heard that Smith-san specifically took sick leave.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00213.mp3">🔊</a></td><td>労わる</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>いたわる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to care for, to pity</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00579.mp3">🔊</a></td><td>ゆっくり休んで、体を労わってください。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ゆっくりやすんで、からだをいたわってください。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Please get lots of rest and take care of yourself.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
