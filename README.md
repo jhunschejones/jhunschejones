@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00213.mp3">🔊</a></td><td>労わる</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>いたわる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to care for, to pity</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00579.mp3">🔊</a></td><td>ゆっくり休んで、体を労わってください。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ゆっくりやすんで、からだをいたわってください。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Please get lots of rest and take care of yourself.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00214.mp3">🔊</a></td><td>お盆</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おぼん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>Festival of the Dead</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00580.mp3">🔊</a></td><td>お盆で八月中旬に家族が集まります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おぼんではちがつちゅうじゅんにかぞくがあつまります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Families get together in mid-August to celebrate the Festival of the Dead.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
