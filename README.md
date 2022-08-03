@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00216.mp3">🔊</a></td><td>様々な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>さまざまな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>all kinds of, various</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00582.mp3">🔊</a></td><td>行事のやり方は地方によって様々です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ぎょうじのやりかたはちほうによってさまざまです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>There are all kinds of practices done during the festival depending on the region.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00217.mp3">🔊</a></td><td>基本的に</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>きほんてきに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>basically</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00583.mp3">🔊</a></td><td>基本的に、お墓参りをしたり仏壇をそうじしたりします。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>きほんてきに、おはかまいりをしたりぶつだんをそうじしたりします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Basically, people visit their family's graves, clean the Buddhist altar, and so on.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
