@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00217.mp3">🔊</a></td><td>基本的に</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>きほんてきに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>basically</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00583.mp3">🔊</a></td><td>基本的に、お墓参りをしたり仏壇をそうじしたりします。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>きほんてきに、おはかまいりをしたりぶつだんをそうじしたりします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Basically, people visit their family's graves, clean the Buddhist altar, and so on.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00218.mp3">🔊</a></td><td>送り火</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おくりび</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>ceremonial bonfire</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00584.mp3">🔊</a></td><td>ご先祖が帰る時に、送り火を焚く所もあります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ごせんぞがかえるときに、おくりびをたくところもあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Some areas send back the spirits of their ancestors with a ceremonial bonfire.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
