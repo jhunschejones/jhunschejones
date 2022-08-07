@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00220.mp3">🔊</a></td><td>軽々しい</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>かるがるしい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>flippant, thoughtless, careless</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00586.mp3">🔊</a></td><td>年上の人は若い人の見本ですから、軽々しい振る舞いをしてはいけません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>だから、としうえのひとはかるがるしいふるまいをしてはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The elderly serve as a role model to young Japanese people, so they avoid being flippant.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00221.mp3">🔊</a></td><td>なんとなく</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>vaguely, for no specific reason</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00587.mp3">🔊</a></td><td>私は毎日をなんとなく過ごしてしまいます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>Regretfully, I spend everyday only vaguely having an idea of what I will do.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
