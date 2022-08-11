@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00224.mp3">🔊</a></td><td>敬意</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>けいい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>respect, honor, deference</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00590.mp3">🔊</a></td><td>それから、後輩に敬意をもって接したいです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>それから、こうはいにけいいをもってせっしたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Moreover, I want to also treat my junior colleagues with respect.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00225.mp3">🔊</a></td><td>＃代</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>～だい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>counters</td></tr>
+  <tr><td><strong>English:</strong></td><td>indicates order of succession</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00591.mp3">🔊</a></td><td>アイゼンハワーは三十四代大統領です。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>あいぜんはわぁはさんじゅうよんだいだいとうりょうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Eisenhower was the 34th President.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
