@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00225.mp3">🔊</a></td><td>＃代</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>～だい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>counters</td></tr>
-  <tr><td><strong>English:</strong></td><td>indicates order of succession</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00591.mp3">🔊</a></td><td>アイゼンハワーは三十四代大統領です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あいぜんはわぁはさんじゅうよんだいだいとうりょうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Eisenhower was the 34th President.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00226.mp3">🔊</a></td><td>保つ</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>たもつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to keep, to maintain</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00592.mp3">🔊</a></td><td>日本に空爆することを反対した一人なので、アイゼンハワーは日本で高い人気を保っています。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>にほんにくうばくすることをはんたいしたひとりなので、あいぜんはわぁはにほんでたかいにんきをたもっています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Eisenhower was one of the few who opposed the bombing of Japan in WWII, making him popular among the Japanese.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
