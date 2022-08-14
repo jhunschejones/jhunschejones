@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00227.mp3">🔊</a></td><td>困難な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>こんなんな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>hard, difficult, complicated</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00593.mp3">🔊</a></td><td>冷戦は困難な問題でした。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>れいせんはこんなんなもんだいでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The Cold War was a complicated time.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00228.mp3">🔊</a></td><td>対応する</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>たいおうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to deal with, to correspond</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00594.mp3">🔊</a></td><td>アイゼンハワーは軍人だったので、冷戦にも対応できたのかもしれません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>あいぜんはわぁはぐんじんだったので、れいせんにもたいおうできたのかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Eisenhower's military experience gave him more ability to handle the issues from the Cold War.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
