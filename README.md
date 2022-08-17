@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00230.mp3">🔊</a></td><td>激しい</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>はげしい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>intense, furious, fierce</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00596.mp3">🔊</a></td><td>激しい争いがたくさんありました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>はげしいあらそいがたくさんありました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Many fierce battles took place during the Cold War.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00231.mp3">🔊</a></td><td>発明</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>はつめい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>invention</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00597.mp3">🔊</a></td><td>エジソンは生涯でたくさんの発明をしました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>えじそんはしょうがいでたくさんのはつめいをしました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Thomas Edison created many inventions during his lifetime.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
