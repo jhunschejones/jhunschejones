@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00231.mp3">🔊</a></td><td>発明</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>はつめい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>invention</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00597.mp3">🔊</a></td><td>エジソンは生涯でたくさんの発明をしました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>えじそんはしょうがいでたくさんのはつめいをしました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Thomas Edison created many inventions during his lifetime.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00232.mp3">🔊</a></td><td>貧しい</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>まずしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>poor, deprived</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00598.mp3">🔊</a></td><td>子供の時、エジソンはとても貧しかったそうです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>こどものとき、えじそんはとてもまずしかったそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard that Edison was very poor when he was a child.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
