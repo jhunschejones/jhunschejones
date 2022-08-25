@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00238.mp3">🔊</a></td><td>思い立ったらすぐ</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おもいたったらすぐ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to set one's mind on doing something</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00604.mp3">🔊</a></td><td>ジョーダンは思い立ったらすぐに筋トレをしたそうです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じょぉだんはおもいたったらすぐにきんとれをしたそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Once Jordan set his mind on doing more strength training, he started immediately.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00239.mp3">🔊</a></td><td>裕福な</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ゆうふくな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>financially successful, affluent</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00605.mp3">🔊</a></td><td>ジョーダンはとても裕福なセレブリティとして有名です。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょぉだんはとてもゆうふくなせれぶりてぃとしてゆうめいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Michael Jordan is a famous, affluent celebrity.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
