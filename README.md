@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00239.mp3">🔊</a></td><td>裕福な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ゆうふくな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>financially successful, affluent</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00605.mp3">🔊</a></td><td>ジョーダンはとても裕福なセレブリティとして有名です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じょぉだんはとてもゆうふくなせれぶりてぃとしてゆうめいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Michael Jordan is a famous, affluent celebrity.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00240.mp3">🔊</a></td><td>影響</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>えいきょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>influence, impact</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00606.mp3">🔊</a></td><td>ジョーダンは、スラムダンクなどの日本の漫画にも影響を与えました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょぉだんは、すらむだんくなどのにほんのまんがにもえいきょうをあたえました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>His influence is so universal, he even inspired a Japanese comic called "Slam Dunk".</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
