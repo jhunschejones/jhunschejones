@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00250.mp3">🔊</a></td><td>吸収する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>きゅうしゅうする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to absorb</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00616.mp3">🔊</a></td><td>まだまだ、年上の人の良いところを吸収しようと思います。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>まだまだ、としうえのひとのよいところをきゅうしゅうしようとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>While I still have time, I will absorb as much wisdom as I can from my elderly relatives.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00251.mp3">🔊</a></td><td>研修会</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>けんしゅうかい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>workshop</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00617.mp3">🔊</a></td><td>前回の研修会の講師はすごかったです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ぜんかいのけんしゅうかいのこうしはすごかったです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The instructor of the previous workshop was fantastic.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
