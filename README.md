@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00251.mp3">🔊</a></td><td>研修会</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>けんしゅうかい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>workshop</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00617.mp3">🔊</a></td><td>前回の研修会の講師はすごかったです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ぜんかいのけんしゅうかいのこうしはすごかったです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The instructor of the previous workshop was fantastic.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00252.mp3">🔊</a></td><td>幅広い</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>はばひろい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>variety, wide-ranging</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00618.mp3">🔊</a></td><td>幅広い認識と技術を学べました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>はばひろいにんしきとぎじゅつをまなべました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to learn more about their wide-ranging knowledge and techniques.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
