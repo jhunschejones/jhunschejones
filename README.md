@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00252.mp3">🔊</a></td><td>幅広い</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>はばひろい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>variety, wide-ranging</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00618.mp3">🔊</a></td><td>幅広い認識と技術を学べました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>はばひろいにんしきとぎじゅつをまなべました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to learn more about their wide-ranging knowledge and techniques.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00253.mp3">🔊</a></td><td>実力</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じつりょく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>real ability, capability, capacity</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00619.mp3">🔊</a></td><td>前の研修会の講師のように、実力がある専門家になりたいです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>まえのけんしゅうかいのこうしのように、じつりょくがあるせんもんかになりたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to have the same capabilities as the workshop instructor.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
