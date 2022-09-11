@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00255.mp3">🔊</a></td><td>実施する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じっしする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to implement, to conduct</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00621.mp3">🔊</a></td><td>今度の金曜日に、会社が研修会を実施します。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>こんどのきんようびに、かいしゃがけんしゅうかいをじっしします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My company will conduct another workshop next Friday.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00256.mp3">🔊</a></td><td>今後</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>こんご</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>from now on</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00622.mp3">🔊</a></td><td>これから研修会で、会社の今後の方針を学びます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>これからけんしゅうかいで、かいしゃのこんごのほうしんをまなびます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>From now on, I will be learning about my company's future policies.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
