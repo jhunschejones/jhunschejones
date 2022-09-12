@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00256.mp3">🔊</a></td><td>今後</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>こんご</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>from now on</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00622.mp3">🔊</a></td><td>これから研修会で、会社の今後の方針を学びます。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>これからけんしゅうかいで、かいしゃのこんごのほうしんをまなびます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>From now on, I will be learning about my company's future policies.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00257.mp3">🔊</a></td><td>拡大する</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かくだいする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to expand, to extend, to widen</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00623.mp3">🔊</a></td><td>会社は世界に向けてビジネスを拡大するつもりです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かいしゃはせかいにむけてびじねすをかくだいするつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My company intends to expand its business worldwide.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
