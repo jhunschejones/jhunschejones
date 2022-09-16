@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00260.mp3">🔊</a></td><td>焦る</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あせる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to fret, to feel frustrated</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00626.mp3">🔊</a></td><td>報告書にどう書くか、焦っています。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ほうこくしょにどうかくか、あせっています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I am so frustrated as to what I should write about in my report.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00261.mp3">🔊</a></td><td>プレゼン</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ぷれぜん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>presentation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00627.mp3">🔊</a></td><td>前回の研修会の内容をプレゼンするよう上司が言っています。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ぜんかいのけんしゅうかいのないようをぷれぜんするよじょうしがいっています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My boss told me to make a presentation about the previous workshop.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
