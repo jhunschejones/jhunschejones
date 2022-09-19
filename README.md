@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00263.mp3">🔊</a></td><td>明確な</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>めいかくな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>definite, concrete, clear</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00629.mp3">🔊</a></td><td>明確なプレゼンができるでしょうか。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>めいかくなぷれぜんができるでしょうか。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I wonder if I will be able to give a clear presentation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00264.mp3">🔊</a></td><td>頭が真っ白になる</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>あたまがまっしろになる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to feel numb, to blank out</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00630.mp3">🔊</a></td><td>多くの人の前で話すことを考えると、頭が真っ白になります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おおくのひとのまえではなすことをかんがえると、あたまがまっしろになります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Whenever I imagine giving a speech in front of many people, I completely blank out.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
