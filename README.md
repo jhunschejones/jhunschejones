@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00264.mp3">🔊</a></td><td>頭が真っ白になる</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あたまがまっしろになる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to feel numb, to blank out</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00630.mp3">🔊</a></td><td>多くの人の前で話すことを考えると、頭が真っ白になります。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おおくのひとのまえではなすことをかんがえると、あたまがまっしろになります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever I imagine giving a speech in front of many people, I completely blank out.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00265.mp3">🔊</a></td><td>圧倒的に</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>あっとうてきに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>overwhelmingly, predominantly</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00631.mp3">🔊</a></td><td>しかし、私は人前で話す経験が圧倒的に足りません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>しかし、わたしはひとまえではなすけいけんがあっとうてきにたりません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>However, overwhelmingly, my experiences with public speaking have been positive.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
