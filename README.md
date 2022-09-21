@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00265.mp3">🔊</a></td><td>圧倒的に</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あっとうてきに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>overwhelmingly, predominantly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00631.mp3">🔊</a></td><td>しかし、私は人前で話す経験が圧倒的に足りません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>しかし、わたしはひとまえではなすけいけんがあっとうてきにたりません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>However, overwhelmingly, my experiences with public speaking have been positive.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00266.mp3">🔊</a></td><td>比べる</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>くらべる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to compare, to measure</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00632.mp3">🔊</a></td><td>他人と自分を比べてはいけません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>たにんとじぶんをくらべてはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We must not compare ourselves to others.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
