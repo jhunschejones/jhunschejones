@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00266.mp3">🔊</a></td><td>比べる</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>くらべる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to compare, to measure</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00632.mp3">🔊</a></td><td>他人と自分を比べてはいけません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>たにんとじぶんをくらべてはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>We must not compare ourselves to others.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00267.mp3">🔊</a></td><td>取引先</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>とりひきさき</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>business partner, client company, customer</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00633.mp3">🔊</a></td><td>このプレゼンは取引先のためではなく、社内用です。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>このぷれぜんはとりひきさきのためでなく、しゃないようです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>This presentation is not for our business partners, only company employees.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
