@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00269.mp3">🔊</a></td><td>具体的に</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ぐたいてきに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>specifically, concretely</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00635.mp3">🔊</a></td><td>聴き手がよく分かるように、具体的に話します。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ききてがよくわかるように、ぐたいてきにはなします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I will speak concretely so the listeners will be able to easily understand.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00270.mp3">🔊</a></td><td>配分</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>はいぶん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>distribution, allocation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00636.mp3">🔊</a></td><td>時間の配分を正しく計画します。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じかんのはいぶんをただしくけいかくします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I will plan out the distribution of our time wisely.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
