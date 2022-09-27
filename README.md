@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00271.mp3">🔊</a></td><td>中断する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ちゅうだんする</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00272.mp3">🔊</a></td><td>忘れる</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>音：ボウ 訓：わす（れる）</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to discontinue, to suspend, to interrupt</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00637.mp3">🔊</a></td><td>間違えても話を中断しないつもりです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>まちがえてもはなしをちゅうだんしないつもりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I don't want to interrupt the flow of the presentation, even if I make a mistake.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to forget</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00638.mp3">🔊</a></td><td>度忘れしないように練習しました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>どわすれしないようにれんしゅうしました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I have practiced diligently so I do not forget anything.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
