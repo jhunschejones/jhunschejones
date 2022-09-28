@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00272.mp3">🔊</a></td><td>忘れる</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>音：ボウ 訓：わす（れる）</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00273.mp3">🔊</a></td><td>邪魔する</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じゃまする</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to forget</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00638.mp3">🔊</a></td><td>度忘れしないように練習しました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>どわすれしないようにれんしゅうしました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I have practiced diligently so I do not forget anything.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to disrupt, to interrupt</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00639.mp3">🔊</a></td><td>デイビスさんは邪魔できませんでした。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>でいびすさんはじゃまできませんでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Davis-san did not disrupt the presentation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
