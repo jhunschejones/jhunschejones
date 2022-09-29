@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00273.mp3">🔊</a></td><td>邪魔する</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>じゃまする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to disrupt, to interrupt</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00639.mp3">🔊</a></td><td>デイビスさんは邪魔できませんでした。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>でいびすさんはじゃまできませんでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san did not disrupt the presentation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00274.mp3">🔊</a></td><td>完璧に</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かんぺきに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>completely, perfectly</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00640.mp3">🔊</a></td><td>ついにプレゼンで完璧に話せました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ついにぷれぜんでかんぺきにはなせました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In the end, I delivered the presentation perfectly.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
