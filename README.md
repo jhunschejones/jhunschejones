@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00276.mp3">🔊</a></td><td>あからさまに</td></tr>
-  <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>obviously, bluntly, openly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00642.mp3">🔊</a></td><td>中学生の時、あからさまに失敗しました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>When I was a middle school student, I openly failed at public speaking.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00277.mp3">🔊</a></td><td>お腹を抱えて笑う</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おなかをかかえてわらう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to burst into laughter</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00643.mp3">🔊</a></td><td>みんなが私のプレゼンを、あからさまにお腹を抱えて笑いました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>みんながわたしのぷれぜんを、あからあさまにおなかをかかえてわらいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Everyone very bluntly burst into laughter at my presentation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
