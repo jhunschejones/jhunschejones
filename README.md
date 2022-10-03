@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00277.mp3">🔊</a></td><td>お腹を抱えて笑う</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おなかをかかえてわらう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to burst into laughter</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00643.mp3">🔊</a></td><td>みんなが私のプレゼンを、あからさまにお腹を抱えて笑いました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>みんながわたしのぷれぜんを、あからあさまにおなかをかかえてわらいました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Everyone very bluntly burst into laughter at my presentation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00278.mp3">🔊</a></td><td>トラウマ</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>とらうま</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>trauma</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00644.mp3">🔊</a></td><td>その経験のせいで、トラウマになりました。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>そのけいけんのせいで、とらうまになりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>That experience caused me a lot of psychological trauma.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
