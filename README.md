@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00278.mp3">🔊</a></td><td>トラウマ</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>とらうま</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>trauma</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00644.mp3">🔊</a></td><td>その経験のせいで、トラウマになりました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>そのけいけんのせいで、とらうまになりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>That experience caused me a lot of psychological trauma.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00279.mp3">🔊</a></td><td>一つや二つ</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ひとつやふたつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>one or two, a few</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00645.mp3">🔊</a></td><td>誰でもトラウマの一つや二つ持っていると思います。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>だれでもとらうまのひとつやふたつもっているとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I think everyone has had one or two traumatic experiences.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
