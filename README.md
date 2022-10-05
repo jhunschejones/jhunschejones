@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00279.mp3">🔊</a></td><td>一つや二つ</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ひとつやふたつ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>one or two, a few</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00645.mp3">🔊</a></td><td>誰でもトラウマの一つや二つ持っていると思います。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>だれでもとらうまのひとつやふたつもっているとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I think everyone has had one or two traumatic experiences.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00280.mp3">🔊</a></td><td>速</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>音：ソク 訓：はや（い）はや（まる）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>fast</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00646.mp3">🔊</a></td><td>ジョーンズさんは速度の速い乗り物が怖いそうです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>じょぉんずさんはそくどのはやいのりものがこわいそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard Jones-san is afraid of riding in vehicles that are moving too fast.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
