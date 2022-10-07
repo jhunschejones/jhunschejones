@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00281.mp3">🔊</a></td><td>恐怖心</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>きょうふしん</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00284.mp3">🔊</a></td><td>ペーパードライバー</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ぺぇぱぁどらいばぁ</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>fear, scary emotions</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00647.mp3">🔊</a></td><td>高速道路の運転も恐怖心を覚えるそうです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>こうそくどうろのうんてんもきょうふしんをおぼえるそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I also heard they fear having to drive on the highway.</td></tr>
+  <tr><td><strong>English:</strong></td><td>paper driver</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00650.mp3">🔊</a></td><td>日本では車を運転しなくていいので、ペーパードライバーもよくあります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>にほんではくるまをうんてんしなくていいので、ぺぇぱぱどらいばぁもよくあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It's common to be a "paper driver" in Japan since the public transportation is so good.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
