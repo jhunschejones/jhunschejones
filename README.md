@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00285.mp3">🔊</a></td><td>物好きな</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ものずきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>unnecessarily curious</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00651.mp3">🔊</a></td><td>物好きなんですが、みんなの怖いものを聞きました。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ものずきなんですが、みんなのこわいものをききました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Because I'm unnecessarily curious, I asked everyone what they are afraid of.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00286.mp3">🔊</a></td><td>高所恐怖症</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>こうしょきょうふしょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>acrophobia</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00652.mp3">🔊</a></td><td>スミスさんは高所恐怖症です。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>すみすさんはこうしょきょうふしょうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san said he has acrophobia.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
