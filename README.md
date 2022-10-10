@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00286.mp3">🔊</a></td><td>高所恐怖症</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>こうしょきょうふしょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>acrophobia</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00652.mp3">🔊</a></td><td>スミスさんは高所恐怖症です。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>すみすさんはこうしょきょうふしょうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san said he has acrophobia.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00287.mp3">🔊</a></td><td>とんでもない</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>outrageous, relentless, ridiculous</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00653.mp3">🔊</a></td><td>バンジージャンプなんて、とんでもないです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>Things such as bungee jumping, are ridiculous.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
