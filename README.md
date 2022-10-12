@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00288.mp3">🔊</a></td><td>身の毛がよだつ</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>みのけがよだつ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to have one's hair stand on end</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00654.mp3">🔊</a></td><td>想像するだけで身の毛がよだつそうです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>そうぞうするだけでみのけがよだつそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Even just imagining it makes Smith-san's hair stand on end.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00289.mp3">🔊</a></td><td>屋上</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おくじょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>roof floor, a roof terrace, rooftop</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00655.mp3">🔊</a></td><td>会社の屋上も行きたくありません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>かいしゃのおくじょうもいきたくありません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>They don't even like going to the rooftop of the office building.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
