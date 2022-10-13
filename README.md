@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00289.mp3">🔊</a></td><td>屋上</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おくじょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>roof floor, a roof terrace, rooftop</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00655.mp3">🔊</a></td><td>会社の屋上も行きたくありません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>かいしゃのおくじょうもいきたくありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>They don't even like going to the rooftop of the office building.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00290.mp3">🔊</a></td><td>グラグラする</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ぐらぐらする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to wobble</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00656.mp3">🔊</a></td><td>足元がグラグラするともう歩けません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>あしもとがぐらぐらするともうあるけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>They can't even walk because their knees start wobbling.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
