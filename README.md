@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00290.mp3">🔊</a></td><td>グラグラする</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ぐらぐらする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to wobble</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00656.mp3">🔊</a></td><td>足元がグラグラするともう歩けません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あしもとがぐらぐらするともうあるけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>They can't even walk because their knees start wobbling.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00291.mp3">🔊</a></td><td>柵</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>さく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>rail, fence</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00657.mp3">🔊</a></td><td>柵があっても、高い所に行きたくないそうです。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>さくがあっても、たかいところにいきたくないそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Even if there are protective fences, it seems they still don't want to go to any high places.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
