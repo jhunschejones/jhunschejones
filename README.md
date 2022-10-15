@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00291.mp3">🔊</a></td><td>柵</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>さく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>rail, fence</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00657.mp3">🔊</a></td><td>柵があっても、高い所に行きたくないそうです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>さくがあっても、たかいところにいきたくないそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Even if there are protective fences, it seems they still don't want to go to any high places.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00292.mp3">🔊</a></td><td>吠える</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>ほえる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to bark</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00658.mp3">🔊</a></td><td>柵といえば、伊藤さんの犬は檻の中でよく吠えます。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>さくといえば、いとうさんのいぬはおりのなかでよくほえます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Speaking of fences, Ito-san's dog often barks in its cage.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
