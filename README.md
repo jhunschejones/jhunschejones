@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00292.mp3">🔊</a></td><td>吠える</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>ほえる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to bark</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00658.mp3">🔊</a></td><td>柵といえば、伊藤さんの犬は檻の中でよく吠えます。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>さくといえば、いとうさんのいぬはおりのなかでよくほえます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Speaking of fences, Ito-san's dog often barks in its cage.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00293.mp3">🔊</a></td><td>狭い</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>せまい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>narrow, contracted, confined</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00659.mp3">🔊</a></td><td>檻が狭くて、怖いのかもしれません。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>おりがせまくて、こわいのかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The cage is so confined that the dog might be scared.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
