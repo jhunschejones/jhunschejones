@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00293.mp3">🔊</a></td><td>狭い</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>せまい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>narrow, contracted, confined</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00659.mp3">🔊</a></td><td>檻が狭くて、怖いのかもしれません。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おりがせまくて、こわいのかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The cage is so confined that the dog might be scared.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00294.mp3">🔊</a></td><td>圧迫感</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>あっぱくかん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>a feeling of oppression, oppressive feeling</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00660.mp3">🔊</a></td><td>狭い所は圧迫感があります。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>せまいところはあっぱくかんがあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Many people get a feeling of oppression in small spaces.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
