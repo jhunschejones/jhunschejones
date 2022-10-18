@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00294.mp3">🔊</a></td><td>圧迫感</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>あっぱくかん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>a feeling of oppression, oppressive feeling</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00660.mp3">🔊</a></td><td>狭い所は圧迫感があります。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>せまいところはあっぱくかんがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Many people get a feeling of oppression in small spaces.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00295.mp3">🔊</a></td><td>意外な</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>いがいな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>surprising, unforeseen, eye-opening</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00661.mp3">🔊</a></td><td>デイビットさんの怖いものは意外です。</td></tr>
+  <tr><td><strong>Kana:</strong></td><td>でいびっとさんのこわいものはいがいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>David-san is scared of some surprising things.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
