@@ -38,11 +38,11 @@
 <!-- START WORD OF THE DAY -->
 <table>
   <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00296.mp3">🔊</a></td><td>お化け</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>おばけ</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おばけ</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
   <tr><td><strong>English:</strong></td><td>ghost</td></tr>
   <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00662.mp3">🔊</a></td><td>デイビットさんはお化けが怖いです。</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>でいびっとさんはおばけがこわいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でいびっとさんはおばけがこわいです。</td></tr>
   <tr><td><strong>English:</strong></td><td>David-san is scared of ghosts.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->

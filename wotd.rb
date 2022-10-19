@@ -9,11 +9,11 @@ readme = File.read("README.md")
 wotd = <<-WOTD
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="#{scraper.word_audio_url}">🔊</a></td><td>#{scraper.word}</td></tr>#{scraper.word != scraper.kana ? "\n  <tr><td><strong>Kana:</strong></td><td>#{scraper.kana}</td></tr>" : ""}
+  <tr><td><strong>Japanese:</strong> <a href="#{scraper.word_audio_url}">🔊</a></td><td>#{scraper.word}</td></tr>#{scraper.word != scraper.kana ? "\n  <tr><td><strong>Reading:</strong></td><td>#{scraper.kana}</td></tr>" : ""}
   <tr><td><strong>Part of speech:</strong></td><td>#{scraper.part_of_speach}</td></tr>
   <tr><td><strong>English:</strong></td><td>#{scraper.translation}</td></tr>
   <tr><td><strong>Example sentence:</strong> <a href="#{scraper.sentence_audio_url}">🔊</a></td><td>#{scraper.example_sentence}</td></tr>
-  <tr><td><strong>Kana:</strong></td><td>#{scraper.example_sentence_kana}</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>#{scraper.example_sentence_kana}</td></tr>
   <tr><td><strong>English:</strong></td><td>#{scraper.example_sentence_translation}</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
