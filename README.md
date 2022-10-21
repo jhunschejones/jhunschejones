@@ -2,10 +2,10 @@
   <a href="https://www.github.com/jhunschejones">
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/github_logo.png" alt="GitHub" name="My code" height="27" style="vertical-align: top; margin: 8px; text-decoration: none;">
   </a>
-  <a href="https://www.linkedin.com/in/jhunschejones">
+  <a href="https://www.linkedin.com/in/jhunschejones" target="_blank">
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/linkedin_logo.png" alt="LinkedIn" height="30" style="vertical-align:top; margin: 8px; text-decoration: none;">
   </a>
-  <a href="https://jhunschejones.medium.com">
+  <a href="https://jhunschejones.medium.com" target="_blank">
     <img src="https://github.com/jhunschejones/jhunschejones/blob/main/images/medium_logo.png" alt="Medium" name="My blog" height="27" style="vertical-align: top; margin: 8px; text-decoration: none;">
   </a>
 </div>
