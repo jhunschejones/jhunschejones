@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00312.mp3">🔊</a></td><td>足がつる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あしがつる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to have one's leg cramp</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00678.mp3">🔊</a></td><td>足がつらないように、私も運動しなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あしがつらないように、わたしもうんどうしなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>To prevent my leg from cramping, I have to frequently exercise.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00313.mp3">🔊</a></td><td>糖尿病</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>とうにょうびょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>diabetes</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00679.mp3">🔊</a></td><td>肥満は糖尿病を起こします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひまんはとうにょうびょうをおこします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Obesity causes diabetes.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
