@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00320.mp3">🔊</a></td><td>千歳飴</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ちとせあめ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>Seven-Five-Three Festival candy</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00686.mp3">🔊</a></td><td>長生きを祈って、千歳飴も食べます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ながきをいのって、ちとせあめもたべます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Children also eat the Seven-Five-Three Festival candy to pray for a long life.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00321.mp3">🔊</a></td><td>足りる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たりる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be sufficient, to suffice, to be enough</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00687.mp3">🔊</a></td><td>昔は栄養が足りなかったのかもしれません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>むかしはえいようがたりなかったのかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In the past, nourishment might have been insufficient.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
