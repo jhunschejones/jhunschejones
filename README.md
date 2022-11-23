@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00330.mp3">🔊</a></td><td>見直す</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>みなおす</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to go back over, to rethink, to revise, to review</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00696.mp3">🔊</a></td><td>生活習慣を見直すつもりです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せいかつしゅうかんをみなおすつもりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I am going to rethink my lifestyle choices.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00331.mp3">🔊</a></td><td>番</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：バン</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>counters</td></tr>
+  <tr><td><strong>English:</strong></td><td>order, number</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00697.mp3">🔊</a></td><td>日本では警察の電話番号が110番、救急車の番号が119番です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんではけいさつのでんわばんごうがひゃくとおばん、きゅうきゅうしゃのばんごうがひゃくじゅうきゅうばんです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In Japan, the telephone number for the police is 110, and the phone number for an ambulance is 119.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
