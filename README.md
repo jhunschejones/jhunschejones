@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00332.mp3">🔊</a></td><td>癌</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>がん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>cancer</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00698.mp3">🔊</a></td><td>癌も生活習慣の問題です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>がんもせいかつしゅうかんのもんだいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Cancer can also be caused by poor lifestyle choices.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00333.mp3">🔊</a></td><td>ダラダラする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>だらだらする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be lazy, to stagnate</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00699.mp3">🔊</a></td><td>ダラダラしていてはいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>だらだらしていてはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We must not be lazy.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
