@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00340.mp3">🔊</a></td><td>やることが山のよう</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>やることがやまのよう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>a mountain of things to do</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00706.mp3">🔊</a></td><td>年末はいつもやることが山のようにあります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ねんまつはいつもやることがやまのようにあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I always have a mountain of things to do at the end of the year.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00341.mp3">🔊</a></td><td>こなす</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to manage, to complete all of something</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00707.mp3">🔊</a></td><td>やることを忘れずにこなします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>I won't forget anything and I will complete all of my tasks.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
