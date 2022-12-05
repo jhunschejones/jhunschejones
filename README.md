@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00342.mp3">🔊</a></td><td>忘年会</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぼうねんかい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>a year-end party</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00708.mp3">🔊</a></td><td>年末にはクリスマスや忘年会があります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ねんまつにはくりすますやぼうねんかいがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>At the end of the year, we celebrate Christmas and have year-end parties.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00343.mp3">🔊</a></td><td>迷う</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まよう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to have no clue, to not have any idea</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00709.mp3">🔊</a></td><td>ジョーンズさんに何をあげるか迷っています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんになにをあげるかまよっています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I have no clue what I am going to give Jones-san.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
