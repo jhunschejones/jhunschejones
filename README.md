@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00350.mp3">🔊</a></td><td>ふさわしい</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>adequate, appropriate</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00716.mp3">🔊</a></td><td>ジョーンズさんにふさわしい物をあげたいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to give something appropriate to Jones-san.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00351.mp3">🔊</a></td><td>日常生活</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にちじょうせいかつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>daily life</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00717.mp3">🔊</a></td><td>日常生活で使えるものはどうでしょうか。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にちじょうせいかつでつかえるものはどうでしょうか。</td></tr>
+  <tr><td><strong>English:</strong></td><td>How about something that they can use in their daily life?</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
