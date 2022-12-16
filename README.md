@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00353.mp3">🔊</a></td><td>気を遣う</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きをつかう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to pay careful attention to something</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00719.mp3">🔊</a></td><td>ジョーンズさんへのプレゼントには気を遣います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんへのぷれぜんとにはきをつかいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I am paying careful attention to what kind of gift I will get for Jones-san.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00354.mp3">🔊</a></td><td>おすすめ</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>recommendation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00720.mp3">🔊</a></td><td>誰かおすすめを教えてください。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>Please, give me a recommendation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
