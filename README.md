@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00355.mp3">🔊</a></td><td>予め</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あらかじめ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>beforehand, in advance</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00721.mp3">🔊</a></td><td>予め予算を決めておけばよかったです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あらかじめよさんをきめておけばよかったです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I should have decided on my budget beforehand.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00356.mp3">🔊</a></td><td>過ごす</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すごす</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to spend time</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00722.mp3">🔊</a></td><td>日本では、家族より恋人とクリスマスイブを過ごす人が多いです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんでは、かぞくよりこいびととくりすますいぶをすごすひとがおおいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It's more common to spend Christmas Eve with your sweetheart than with your family.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
