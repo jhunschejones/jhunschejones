@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00358.mp3">🔊</a></td><td>役所</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>やくしょ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>a government office</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00724.mp3">🔊</a></td><td>役所に書類を提出しなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>やくしょにしょるいをていしゅつしなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I have to submit some documents to the government office.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00359.mp3">🔊</a></td><td>盛り上がる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>もりあがる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to liven up, to be really excited, to get into the swing of things</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00725.mp3">🔊</a></td><td>日本では、クリスマスイブに盛り上がります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんでは、くりすますいぶにもりあがります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Japanese people really liven up on Christmas Eve.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
