@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00359.mp3">🔊</a></td><td>盛り上がる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>もりあがる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to liven up, to be really excited, to get into the swing of things</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00725.mp3">🔊</a></td><td>日本では、クリスマスイブに盛り上がります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんでは、くりすますいぶにもりあがります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Japanese people really liven up on Christmas Eve.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00360.mp3">🔊</a></td><td>ぬくぬくと</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>warm, comfortably</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00726.mp3">🔊</a></td><td>メリークリスマス。私は家でぬくぬくと過ごします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>Merry Christmas! I am spending time at home comfortably today.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
