@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00366.mp3">🔊</a></td><td>大晦日</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おおみそか</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00001.mp3">🔊</a></td><td>元旦</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>がんたん</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>New Year's Eve</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00732.mp3">🔊</a></td><td>とうとう大晦日です。今年も有難うございました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とうとうおおみそかです。ことしもありがとうございました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>At last, it is New Year's Eve. Thank you again for this year.</td></tr>
+  <tr><td><strong>English:</strong></td><td>New Year's Day</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00367.mp3">🔊</a></td><td>今日は元旦ですので、皆さん、明けましておめでとうございます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きょうはがんたんですので、みなさん、あけましておめでとうございます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Today is New Year's Day, so Happy New Year everyone!</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
