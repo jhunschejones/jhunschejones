@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00008.mp3">🔊</a></td><td>やせる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to lose weight</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00374.mp3">🔊</a></td><td>新しい目標は五キロやせることです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>My new goal is to lose 5 kg.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00009.mp3">🔊</a></td><td>健康的な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けんこうてきな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>healthy</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00375.mp3">🔊</a></td><td>家庭料理のほうが外食より健康的です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かていりょうりのほうががいしょくよりけんこうてきです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Cooking at home is healthier than eating at a restaurant.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
