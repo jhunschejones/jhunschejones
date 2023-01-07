@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00009.mp3">🔊</a></td><td>健康的な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>けんこうてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>healthy</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00375.mp3">🔊</a></td><td>家庭料理のほうが外食より健康的です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かていりょうりのほうががいしょくよりけんこうてきです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Cooking at home is healthier than eating at a restaurant.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00010.mp3">🔊</a></td><td>階段</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かいだん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>stairs</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00376.mp3">🔊</a></td><td>会社では階段を使いました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かいしゃではかいだんをつかいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I used the stairs at work.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
