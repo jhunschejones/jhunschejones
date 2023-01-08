@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00010.mp3">🔊</a></td><td>階段</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かいだん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>stairs</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00376.mp3">🔊</a></td><td>会社では階段を使いました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かいしゃではかいだんをつかいました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I used the stairs at work.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00011.mp3">🔊</a></td><td>クタクタな</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>くたくたな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be exhausted, to be worn out</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00377.mp3">🔊</a></td><td>階段をたくさん上って、クタクタになりました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かいだんをたくさんのぼって、くたくたになりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I climbed up a lot of stairs and got so exhausted.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
