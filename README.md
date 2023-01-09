@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00011.mp3">🔊</a></td><td>クタクタな</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>くたくたな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be exhausted, to be worn out</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00377.mp3">🔊</a></td><td>階段をたくさん上って、クタクタになりました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かいだんをたくさんのぼって、くたくたになりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I climbed up a lot of stairs and got so exhausted.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00012.mp3">🔊</a></td><td>貯める</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ためる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to save up</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00378.mp3">🔊</a></td><td>お金を貯めるので、コーヒーを買わないつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おかねをためるので、こおひいをかわないつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>To save up money, I won't buy coffee.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
