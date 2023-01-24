@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00026.mp3">🔊</a></td><td>効率的に</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうりつてきに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>effectively, efficiently</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00392.mp3">🔊</a></td><td>効率的に勉強しようと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうりつてきにべんきょうしようとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I will study efficiently.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00027.mp3">🔊</a></td><td>温</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：オン 訓：あたた（かい）、あたた（まる）、あたた（める）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>warm, gentle</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00393.mp3">🔊</a></td><td>温かい飲み物が欲しいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あたたかいのみものがほしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want a warm drink.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
