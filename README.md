@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00032.mp3">🔊</a></td><td>節分</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せつぶん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>the first day of spring</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00398.mp3">🔊</a></td><td>節分の広告を見ると、春が来ると思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せつぶんのこうこくをみると、はるがくるとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever I see signs of Setsubun, I know spring is coming.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00033.mp3">🔊</a></td><td>煎る</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>いる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to roast</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00399.mp3">🔊</a></td><td>節分に使う大豆をフライパンで煎ります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>せつぶんにつかうだいずをふらいぱんでいります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I roasted the soybeans that will be used on Setsubun day.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
