@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00033.mp3">🔊</a></td><td>煎る</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to roast</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00399.mp3">🔊</a></td><td>節分に使う大豆をフライパンで煎ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せつぶんにつかうだいずをふらいぱんでいります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I roasted the soybeans that will be used on Setsubun day.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00034.mp3">🔊</a></td><td>つまみ食い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>つまみぐい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>nibble</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00400.mp3">🔊</a></td><td>せっかく準備した豆を、家族がつまみ食いしてしまいました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>せっかくじゅんびしたまめを、かぞくがつまみぐいしてしまいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Regretfully, my family had taken a nibble from the beans I prepared for the event.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
