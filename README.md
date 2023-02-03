@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00036.mp3">🔊</a></td><td>豆まき</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まめまき</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00037.mp3">🔊</a></td><td>鬼</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おに</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>bean-throwing</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00402.mp3">🔊</a></td><td>春分の節句に、豆まきをして、一年間の幸せを祈ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しゅんぶんのせっくに、まめまきをして、いちねんかんのしあわせをいのります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>On the first day of spring, we have a bean-throwing festival to pray for happiness all year.</td></tr>
+  <tr><td><strong>English:</strong></td><td>ogre</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00403.mp3">🔊</a></td><td>豆まきで、「鬼は外、福は内」と言います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まめまきで、「おきはそと、ふくはうち」といいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>During the Setsubun bean-throwing ceremony, we say "the evil ogre goes out, happiness comes in".</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
