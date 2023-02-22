@@ -10,7 +10,7 @@ class Scraper
     service = Selenium::WebDriver::Service.chrome(path: chromedriver_path)
     driver_args = ["--headless"]
     options = Selenium::WebDriver::Chrome::Options.new(args: driver_args)
-    driver = Selenium::WebDriver.for(:chrome, service: service, capabilities: options)
+    driver = Selenium::WebDriver.for(:chrome, service: service, options: options)
     driver.get("https://wotd.transparent.com/widget/?lang=japanese")
 
     sleep 5

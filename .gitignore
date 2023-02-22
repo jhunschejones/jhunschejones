@@ -1,4 +1,5 @@
 bin/chromedriver
+bin/LICENSE.chromedriver
 vendor/
 .bundle/
 .DS_Store
