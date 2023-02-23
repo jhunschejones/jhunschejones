@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00056.mp3">🔊</a></td><td>待</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：タイ 訓：ま（つ）</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00057.mp3">🔊</a></td><td>やりがいがある</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to wait</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00422.mp3">🔊</a></td><td>ジョーンズさんと会うのを楽しみに待っています。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんとあうのをたのしみにまっています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I can't wait to see Jones-san again.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be rewarding, to be worthwhile</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00423.mp3">🔊</a></td><td>楽しい夕食を準備するのはやりがいがあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>It will be worthwhile to prepare a fun dinner.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
