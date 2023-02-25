@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00058.mp3">🔊</a></td><td>束</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たば</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>counter</td></tr>
-  <tr><td><strong>English:</strong></td><td>counter for something tied together</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00424.mp3">🔊</a></td><td>十五本のバラの花束を一束買いました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じゅうごほんのばらのはなたばをひとたばかいました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I bought a bouquet of 15 roses.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00059.mp3">🔊</a></td><td>取り消す</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>とりけす</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to cancel, to back down, to take back</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00425.mp3">🔊</a></td><td>予約を取り消さなくてよかったです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よやくをとりけさなくてよかったです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I'm glad that I didn't cancel the reservation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
