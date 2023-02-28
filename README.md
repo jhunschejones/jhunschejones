@@ -15,8 +15,8 @@
 :office: &nbsp;I am a software engineer, currently working at GitHub<br/>
 :seedling: &nbsp;I'm [**learning Japanese**](https://github.com/stars/jhunschejones/lists/japanese-language-learning) 🇯🇵 and I often [**build my own learning tools**](https://github.com/stars/jhunschejones/lists/japanese-language-learning) for fun<br/>
 :headphones: &nbsp;I sometimes mix rock and heavy music and I've [**taught about it online**](https://www.musiclikeyoumeanit.com/blogs)<br/>
-:cat: &nbsp;My partner and I live with two, very vocal cats in Chicago, IL 🐈‍⬛ 🐈 <br/>
-:walking: &nbsp;I enjoy coming up with long, urban hikes to get some time away from screens<br/>
+:cat: &nbsp;My partner and I live alongside our two cats in Chicago, IL 🐈‍⬛ 🐈 <br/>
+:walking: &nbsp;I enjoy finding long, urban hikes to take some time away from screens<br/>
 :book: &nbsp;I listen to lots of audio books and am always looking for new suggestions!<br/>
 
 <!--
