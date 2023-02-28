@@ -1,7 +1,5 @@
 require "httparty"
 require "json"
-require "pry"
-require "rss"
 require_relative "lib/scraper"
 
 scraper = Scraper.new.get_wotd
