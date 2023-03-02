@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00063.mp3">🔊</a></td><td>ひな人形</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひなにんぎょう</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00064.mp3">🔊</a></td><td>顔見知り</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かおみしり</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>special doll set</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00429.mp3">🔊</a></td><td>ひな祭りのための特別な人形を「ひな人形」といいます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひなまつりのためのとくべつなにんぎょうを「ひなにんぎょう」といいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The special doll sets put out for the Doll Festival are called "hina-ningyo".</td></tr>
+  <tr><td><strong>English:</strong></td><td>acquaintance</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00430.mp3">🔊</a></td><td>鈴木さんはただの顔見知りだったので、招待してもらえて嬉しいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すずきさんはただのかおみしりだったので、しょうたいしてもらえてうれしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I'm happy to be invited to see Suzuki-san even though we are only acquaintances.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
