@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00110.mp3">🔊</a></td><td>以心伝心</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いしんでんしん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>tacit understanding, telepathy</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00476.mp3">🔊</a></td><td>ジョーンズさんと以心伝心の仲になりたいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんといしんでんしんのなかになりたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to build a close relationship where we can have a tacit understanding of each other.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00111.mp3">🔊</a></td><td>肯定的な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こうていてきな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>positive, affirmative</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00477.mp3">🔊</a></td><td>でも、デイビスさんについて肯定的なことを言いたくありません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でも、でいびすさんについてこうていてきなことをいいたくありません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>However, I refuse to say anything positive about Davis-san.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
