@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00122.mp3">🔊</a></td><td>ゴールデンウィーク</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ごぉるでんうぃぃく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>Golden Week</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00488.mp3">🔊</a></td><td>ゴールデンウィークで久し振りに家でゆっくりします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ごぉるでんうぃぃくでひさしぶりにいえでゆっくりします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>During Golden Week, I am going to relax at home for a while.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00123.mp3">🔊</a></td><td>贅沢な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぜいたくな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>luxurious, extravagant</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00489.mp3">🔊</a></td><td>連続して休めるのは贅沢です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>れんぞくしてやすめるのはぜいたくです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It will be luxurious for me to have several days off.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
