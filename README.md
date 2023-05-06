@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00128.mp3">🔊</a></td><td>うっかり</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>accidentally, carelessly, inadvertently</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00494.mp3">🔊</a></td><td>年末にもうっかり帰りませんでした。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>I inadvertently didn't return home last year for the holidays.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00129.mp3">🔊</a></td><td>予算</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よさん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>budget</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00495.mp3">🔊</a></td><td>この時期は移動手段にもお金がかかりますが、予算がほとんどありません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>このじきはいどうしゅだんにもおかねがかかりますが、よさんがほとんどありません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Although transportation costs a lot during this time, I didn't budget well beforehand.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
