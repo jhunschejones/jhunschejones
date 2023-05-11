@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00132.mp3">🔊</a></td><td>鑑賞する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんしょうする</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00134.mp3">🔊</a></td><td>リフレッシュする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>りふれっしゅする</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to appreciate</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00498.mp3">🔊</a></td><td>代わりに、たくさんの映画を鑑賞する時間を取ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かわりに、たくさんのえいがをかんしょうするじかんをとります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Instead, I will take the time to appreciate many good movies.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to refresh</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00500.mp3">🔊</a></td><td>良い映画を見ると、リフレッシュします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よいえいがをみると、りふれっしゅします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Whenever I watch a good movie, I feel refreshed afterward.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
