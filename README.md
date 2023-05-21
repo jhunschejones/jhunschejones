@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00143.mp3">🔊</a></td><td>充実感</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じゅうじつかん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>a sense of fulfillment</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00509.mp3">🔊</a></td><td>旅行に行くと、充実感があります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>りょこうにいくと、じゅうじつかんがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever I travel, I feel a sense of fulfillment.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00144.mp3">🔊</a></td><td>有意義な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆういぎな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>worthwhile, meaningful, valuable</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00510.mp3">🔊</a></td><td>デイビスさんの休暇は有意義な経験となりました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でいびすさんのきゅうかはゆういぎなけいけんとなりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Davis-san's vacation was a very valuable experience for him.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
