@@ -30,7 +30,7 @@ jobs:
           && sudo chmod +x /usr/local/bin/chromedriver \
           && chromedriver --version --no-sandbox
     - name: Update README
-      run: bundle exec ruby wotd.rb
+      run: ./bin/run
     - name: Commit changes
       run: |
         git config user.name github-actions
