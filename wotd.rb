@@ -2,7 +2,10 @@ require "httparty"
 require "json"
 require_relative "lib/scraper"
 
+puts "Running WOTD scraper..."
 scraper = Scraper.new.get_wotd
+
+puts "Updating README.md..."
 readme = File.read("README.md")
 wotd = <<-WOTD
 <!-- START WORD OF THE DAY -->
@@ -22,3 +25,5 @@ updated_readme = readme
   .gsub("\r", "\n")
 
 File.open("README.md", "w") { |file| file.puts(updated_readme) }
+
+puts "Done 🎉"
