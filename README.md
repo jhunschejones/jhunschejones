@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00174.mp3">🔊</a></td><td>鳴る</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>なる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to make noise</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00540.mp3">🔊</a></td><td>窓がガタガタと鳴ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まどががたがたとなります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The windows will rattle.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00175.mp3">🔊</a></td><td>警報</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けいほう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>alarm, alert, warning, warning signal</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00541.mp3">🔊</a></td><td>台風警報に気を付けなければいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たいほうけいほうにきをつけなければいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>You must pay attention if you see any typhoon warnings.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
