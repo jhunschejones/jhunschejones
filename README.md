@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00180.mp3">🔊</a></td><td>梅雨明け</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つゆあけ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>the end of the rainy season</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00546.mp3">🔊</a></td><td>とうとう梅雨明けが宣言されました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とうとうつゆあけがせんげんされました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The weather forecast finally says it is the end of the rainy season.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00181.mp3">🔊</a></td><td>まぶしい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>extremely bright, sparkling</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00547.mp3">🔊</a></td><td>今日はお天気がまぶしいほど良いです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>Today the weather is so bright and sunny.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
