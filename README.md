@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00189.mp3">🔊</a></td><td>頂く</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いただく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to accept gratefully, to receive gratefully</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00555.mp3">🔊</a></td><td>山田先生から、丁寧なお礼の手紙を頂きました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>やまだせんせいから、ていねいなおれいのてがみをいただきました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I gratefully received a kind "thank-you" letter from Professor Yamada.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00190.mp3">🔊</a></td><td>心遣い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こころづかい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>consideration, thoughtfulness, care</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00556.mp3">🔊</a></td><td>山田先生は心遣いのできる方です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>やまだせんせいはこころづかいのできるかたです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Professor Yamada put a lot of consideration into the letter.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
