@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00198.mp3">🔊</a></td><td>急な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きゅうな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>urgent, abrupt</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00564.mp3">🔊</a></td><td>スミスさんは急な用事があるそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはきゅうなようじがあるそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I heard that Smith-san has some urgent business to attend to.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00199.mp3">🔊</a></td><td>どうしましたか。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>expression</td></tr>
+  <tr><td><strong>English:</strong></td><td>What can I do for you?</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00565.mp3">🔊</a></td><td>「どうしましたか」と聞きました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>So, I asked, "what can I do for you?</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
