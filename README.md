@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00199.mp3">🔊</a></td><td>どうしましたか。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>expression</td></tr>
-  <tr><td><strong>English:</strong></td><td>What can I do for you?</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00565.mp3">🔊</a></td><td>「どうしましたか」と聞きました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>So, I asked, "what can I do for you?</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00200.mp3">🔊</a></td><td>半休</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はんきゅう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>a half-day off</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00566.mp3">🔊</a></td><td>スミスさんは明日、半休が必要だそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはあした、はんきゅうがひつようだそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard that Smith-san needs to take a half-day tomorrow.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
