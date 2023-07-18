@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00202.mp3">🔊</a></td><td>うまい具合に</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>うまいぐあいに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to go as planned</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00568.mp3">🔊</a></td><td>上司が「うまい具合に行くといいですね」と言っていました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょうしが「うまいぐあいにいくといいですね」といっていました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Our boss said, "I hope things go as planned."</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00203.mp3">🔊</a></td><td>差し支えない</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さしつかえない</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>no obstructions, no hindrances</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00569.mp3">🔊</a></td><td>スミスさんは業務に差し支えないように、明日の朝会社に来るそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはぎょうむにさしつかえないように、あしたのあさかいしゃにくるそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard that Smith-san will come to work tomorrow morning so there will be no hindrances.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
