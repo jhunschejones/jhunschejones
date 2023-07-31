@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00210.mp3">🔊</a></td><td>有給休暇</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうきゅうきゅうか</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>paid vacation</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00576.mp3">🔊</a></td><td>有給休暇を使った方がいいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうきゅうきゅうかをつかったほうがいいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is better to take paid vacations.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00216.mp3">🔊</a></td><td>様々な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さまざまな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>all kinds of, various</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00582.mp3">🔊</a></td><td>行事のやり方は地方によって様々です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぎょうじのやりかたはちほうによってさまざまです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>There are all kinds of practices done during the festival depending on the region.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
