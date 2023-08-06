@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00221.mp3">🔊</a></td><td>なんとなく</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>vaguely, for no specific reason</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00587.mp3">🔊</a></td><td>私は毎日をなんとなく過ごしてしまいます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>Regretfully, I spend everyday only vaguely having an idea of what I will do.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00222.mp3">🔊</a></td><td>尊敬する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>そんけいする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to respect, to revere</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00588.mp3">🔊</a></td><td>後輩は私を尊敬できないと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こうはいはわたしをそんけいできないとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I don't think my junior colleagues respect me.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
