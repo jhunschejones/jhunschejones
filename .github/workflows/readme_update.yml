@@ -23,7 +23,7 @@ jobs:
         DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "linux64").url') \
           && curl --silent --show-error --location --fail --retry 3 --output /tmp/chromedriver_linux64.zip "$DOWNLOAD_URL" \
           && cd /tmp \
-          && unzip chromedriver_linux64.zip \
+          && unzip -q -o -j chromedriver_linux64.zip \
           && rm -rf chromedriver_linux64.zip \
           && sudo mv chromedriver /usr/local/bin/chromedriver \
           && sudo chmod +x /usr/local/bin/chromedriver \
