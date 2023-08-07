@@ -12,17 +12,17 @@
 
 # Manual v114 install:
 #
-CHROMEDRIVER_114=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_114")
+# CHROMEDRIVER_114=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_114")
 
-echo "Installing chromedriver..."
-curl -sL "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_114/chromedriver_mac64.zip" > tmp/chromedriver.zip
-unzip -q -o tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
-rm tmp/chromedriver.zip
+# echo "Installing chromedriver..."
+# curl -sL "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_114/chromedriver_mac64.zip" > tmp/chromedriver.zip
+# unzip -q -o tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
+# rm tmp/chromedriver.zip
 
 # Post v115 steps:
 #
-# DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "mac-x64").url')
-# echo "Installing chromedriver..."
-# curl -s --show-error "$DOWNLOAD_URL" -o tmp/chromedriver.zip
-# unzip -q -o -j tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
-# rm tmp/chromedriver.zip
+DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "mac-x64").url')
+echo "Installing chromedriver..."
+curl -s --show-error "$DOWNLOAD_URL" -o tmp/chromedriver.zip
+unzip -q -o -j tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
+rm tmp/chromedriver.zip

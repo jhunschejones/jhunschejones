@@ -20,9 +20,8 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install ChromeDriver
       run: |
-        CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f3 | cut -d '.' -f1) \
-          && CHROMEDRIVER_RELEASE=$(curl --location --fail --retry 3 https://chromedriver.storage.googleapis.com/LATEST_RELEASE_114) \
-          && curl --silent --show-error --location --fail --retry 3 --output /tmp/chromedriver_linux64.zip "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_RELEASE/chromedriver_linux64.zip" \
+        DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "linux64").url') \
+          && curl --silent --show-error --location --fail --retry 3 --output /tmp/chromedriver_linux64.zip "$DOWNLOAD_URL" \
           && cd /tmp \
           && unzip chromedriver_linux64.zip \
           && rm -rf chromedriver_linux64.zip \
