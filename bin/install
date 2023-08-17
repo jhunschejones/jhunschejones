@@ -21,8 +21,24 @@
 
 # Post v115 steps:
 #
-DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "mac-x64").url')
+# DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | jq -r '.channels.Stable.downloads.chromedriver[] | select(.platform == "mac-x64").url')
+# echo "Installing chromedriver..."
+# curl -s --show-error "$DOWNLOAD_URL" -o tmp/chromedriver.zip
+# unzip -q -o -j tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
+# rm tmp/chromedriver.zip
+
+# Post v115 steps with version selection:
+#
+LOCAL_CHROME_MAJOR_VERSION=$(/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version | cut -d ' ' -f3 | cut -d '.' -f1)
+# Build up the parsing string for jq. We need "" around the number key for it to work
+# The final string should look like: '.milestones."115".downloads.chromedriver[] | select(.platform == "mac-x64").url'
+JQ_STRING='.milestones."'
+JQ_STRING+="${LOCAL_CHROME_MAJOR_VERSION}"
+JQ_STRING+='".downloads.chromedriver[] | select(.platform == "mac-x64").url'
+
+DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/latest-versions-per-milestone-with-downloads.json" | jq -r "$JQ_STRING")
+
 echo "Installing chromedriver..."
-curl -s --show-error "$DOWNLOAD_URL" -o tmp/chromedriver.zip
+curl -s --show-error $DOWNLOAD_URL -o tmp/chromedriver.zip
 unzip -q -o -j tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
 rm tmp/chromedriver.zip
