@@ -6,6 +6,7 @@ JQ_STRING+="${CHROME_VERSION}"
 JQ_STRING+='".downloads.chromedriver[] | select(.platform == "linux64").url'
 DOWNLOAD_URL=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/latest-versions-per-milestone-with-downloads.json" | jq -r "$JQ_STRING")
 
+echo "Installing chromedriver..."
 curl --silent --show-error --location --fail --retry 3 --output /tmp/chromedriver_linux64.zip "$DOWNLOAD_URL"
 cd /tmp
 unzip -q -o -j chromedriver_linux64.zip
@@ -13,3 +14,5 @@ rm -rf chromedriver_linux64.zip
 sudo mv chromedriver /usr/local/bin/chromedriver
 sudo chmod +x /usr/local/bin/chromedriver
 chromedriver --version --no-sandbox
+
+echo "Done ✅"
