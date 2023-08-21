@@ -42,3 +42,5 @@ echo "Installing chromedriver..."
 curl -s --show-error $DOWNLOAD_URL -o tmp/chromedriver.zip
 unzip -q -o -j tmp/chromedriver.zip -d ./bin # this will overwrite the existing ./bin/chromedriver binary with the file just downloaded
 rm tmp/chromedriver.zip
+
+echo "Done ✅"
