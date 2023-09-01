@@ -2,8 +2,12 @@
 
 if [[ $1 == "mac" ]]; then
   ./bin/install-mac
+  exit 0
 fi
 
 if [[ $1 == "linux" ]]; then
   ./bin/install-linux
+  exit 0
 fi
+
+echo "💁🏼‍♂️ Specify your platform as the first argument to the install command, i.e. './bin/install mac'"
