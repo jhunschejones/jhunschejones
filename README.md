@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00254.mp3">🔊</a></td><td>都合よく</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つごうよく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>at a good time, conveniently, handily</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00620.mp3">🔊</a></td><td>都合よく別の研修会の案内をもらいました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つごうよくべつのけんしゅうかいのあんないをもらいました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Conveniently, there are more workshops coming up!</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00255.mp3">🔊</a></td><td>実施する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じっしする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to implement, to conduct</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00621.mp3">🔊</a></td><td>今度の金曜日に、会社が研修会を実施します。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こんどのきんようびに、かいしゃがけんしゅうかいをじっしします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My company will conduct another workshop next Friday.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
