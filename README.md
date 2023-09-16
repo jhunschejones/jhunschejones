@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00262.mp3">🔊</a></td><td>あがる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to get stage fright</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00628.mp3">🔊</a></td><td>ジョーンズさんの前で話したら、あがってしまいます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>If Jones-san is in the audience, I know I will get stage fright.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00263.mp3">🔊</a></td><td>明確な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>めいかくな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>definite, concrete, clear</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00629.mp3">🔊</a></td><td>明確なプレゼンができるでしょうか。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>めいかくなぷれぜんができるでしょうか。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I wonder if I will be able to give a clear presentation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
