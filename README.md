@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00267.mp3">🔊</a></td><td>取引先</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とりひきさき</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>business partner, client company, customer</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00633.mp3">🔊</a></td><td>このプレゼンは取引先のためではなく、社内用です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>このぷれぜんはとりひきさきのためでなく、しゃないようです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>This presentation is not for our business partners, only company employees.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00268.mp3">🔊</a></td><td>正しい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ただしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>correct, exact, clean, right</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00634.mp3">🔊</a></td><td>プレゼンでは正しい内容を伝えましょう。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぷれぜんではただしいないようをつたえましょう。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Let's try to get the content of this presentation right.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
