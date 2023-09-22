@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00268.mp3">🔊</a></td><td>正しい</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ただしい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>correct, exact, clean, right</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00634.mp3">🔊</a></td><td>プレゼンでは正しい内容を伝えましょう。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぷれぜんではただしいないようをつたえましょう。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Let's try to get the content of this presentation right.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00269.mp3">🔊</a></td><td>具体的に</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぐたいてきに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>specifically, concretely</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00635.mp3">🔊</a></td><td>聴き手がよく分かるように、具体的に話します。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ききてがよくわかるように、ぐたいてきにはなします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I will speak concretely so the listeners will be able to easily understand.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
