@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00270.mp3">🔊</a></td><td>配分</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はいぶん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>distribution, allocation</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00636.mp3">🔊</a></td><td>時間の配分を正しく計画します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じかんのはいぶんをただしくけいかくします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I will plan out the distribution of our time wisely.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00271.mp3">🔊</a></td><td>中断する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ちゅうだんする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to discontinue, to suspend, to interrupt</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00637.mp3">🔊</a></td><td>間違えても話を中断しないつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まちがえてもはなしをちゅうだんしないつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I don't want to interrupt the flow of the presentation, even if I make a mistake.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
