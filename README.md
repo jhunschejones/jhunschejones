@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00275.mp3">🔊</a></td><td>人前</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひとまえ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>in public, in front of people</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00641.mp3">🔊</a></td><td>人前で話す技術は習得に時間がかかります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひとまえではなすぎじゅつはしゅうとくにじかんがかかります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The ability to speak in public is a skill that develops over time.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00276.mp3">🔊</a></td><td>あからさまに</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>obviously, bluntly, openly</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00642.mp3">🔊</a></td><td>中学生の時、あからさまに失敗しました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>When I was a middle school student, I openly failed at public speaking.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
