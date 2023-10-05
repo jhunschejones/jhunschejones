@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00281.mp3">🔊</a></td><td>恐怖心</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きょうふしん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>fear, scary emotions</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00647.mp3">🔊</a></td><td>高速道路の運転も恐怖心を覚えるそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうそくどうろのうんてんもきょうふしんをおぼえるそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I also heard they fear having to drive on the highway.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00282.mp3">🔊</a></td><td>ちっとも</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>by any means</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00648.mp3">🔊</a></td><td>変わったことに、電車や飛行機はちっとも怖くないそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td></td></tr>
+  <tr><td><strong>English:</strong></td><td>Weirdly, they aren't known to be scared of riding on trains or planes by any means.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
