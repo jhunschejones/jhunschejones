@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00282.mp3">🔊</a></td><td>ちっとも</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>by any means</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00648.mp3">🔊</a></td><td>変わったことに、電車や飛行機はちっとも怖くないそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
-  <tr><td><strong>English:</strong></td><td>Weirdly, they aren't known to be scared of riding on trains or planes by any means.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00283.mp3">🔊</a></td><td>体感する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たいかんする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to feel, to actually experience</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00649.mp3">🔊</a></td><td>速さを実際に体感すると怖くなるのだと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はやさをじっさいにたいかんするとこわくなるのだとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Perhaps, they are more afraid when they can actually feel the speed.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
