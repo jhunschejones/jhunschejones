@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00295.mp3">🔊</a></td><td>意外な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いがいな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>surprising, unforeseen, eye-opening</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00661.mp3">🔊</a></td><td>デイビットさんの怖いものは意外です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびっとさんのこわいものはいがいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>David-san is scared of some surprising things.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00296.mp3">🔊</a></td><td>お化け</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おばけ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>ghost</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00662.mp3">🔊</a></td><td>デイビットさんはお化けが怖いです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でいびっとさんはおばけがこわいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>David-san is scared of ghosts.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
