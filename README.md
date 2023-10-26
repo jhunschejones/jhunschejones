@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00302.mp3">🔊</a></td><td>奇抜な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きばつな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>extraordinary, eccentric, outrageous</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00668.mp3">🔊</a></td><td>奇抜なコスチュームが面白いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きばつなこすちゅぅむがおもしろいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Some of the costumes are so outrageous it's hysterical.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00303.mp3">🔊</a></td><td>練り歩く</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ねりあるく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to march along, to parade, to flaunt</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00669.mp3">🔊</a></td><td>奇抜なコスチュームで渋谷の街を練り歩きます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きばつなこすちゅぅむでしぶやのまちをねりあるきます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Many people parade through Shibuya with their extraordinary costumes.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
