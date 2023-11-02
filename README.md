@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00309.mp3">🔊</a></td><td>ズキズキと痛い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ずきずきといたい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>throbbing pain</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00675.mp3">🔊</a></td><td>ズキズキと体が痛かったそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ずきずきとからだがいたかったそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I heard that they had throbbing pain throughout their body.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00310.mp3">🔊</a></td><td>腫れる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はれる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to become swollen</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00676.mp3">🔊</a></td><td>ひどく腫れました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひどくはれました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>They become terribly swollen.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
