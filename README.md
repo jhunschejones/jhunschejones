@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00313.mp3">🔊</a></td><td>糖尿病</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とうにょうびょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>diabetes</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00679.mp3">🔊</a></td><td>肥満は糖尿病を起こします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひまんはとうにょうびょうをおこします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Obesity causes diabetes.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00314.mp3">🔊</a></td><td>お腹が張る</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おなかがはる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to feel bloated</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00680.mp3">🔊</a></td><td>友人は痩せたらお腹が張らなくなりました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆうじんはやせたらおなかがはらなくなりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>When my friend lost weight, they did not feel bloated anymore.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
