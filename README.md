@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00314.mp3">🔊</a></td><td>お腹が張る</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おなかがはる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to feel bloated</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00680.mp3">🔊</a></td><td>友人は痩せたらお腹が張らなくなりました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうじんはやせたらおなかがはらなくなりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>When my friend lost weight, they did not feel bloated anymore.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00315.mp3">🔊</a></td><td>治る</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>なおる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be cured, to get well</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00681.mp3">🔊</a></td><td>便秘もしっかり治りました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>べんぴもしっかりなおりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>They have also been cured of their constipation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
