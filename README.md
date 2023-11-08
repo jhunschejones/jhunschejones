@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00315.mp3">🔊</a></td><td>治る</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>なおる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be cured, to get well</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00681.mp3">🔊</a></td><td>便秘もしっかり治りました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>べんぴもしっかりなおりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>They have also been cured of their constipation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00316.mp3">🔊</a></td><td>長生き</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ながいき</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>longevity, long life</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00682.mp3">🔊</a></td><td>テクノロジーの進化に伴い、人々も長生きになりました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>てくのろじぃのしんかにともない、ひどびともながいきになりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>People's longevity has increased as technology has become more developed.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
