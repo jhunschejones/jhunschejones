@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00318.mp3">🔊</a></td><td>七五三</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しちごさん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>The Seven-Five-Three Festival</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00684.mp3">🔊</a></td><td>十一月十五日に七五三をして、子供の健康を祈ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じゅういちがつじゅうごにちにしちごさんをして、こどものけんこうをいのります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>We celebrate the Seven-Five-Three Festival on November 15th to pray for the health of children.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00319.mp3">🔊</a></td><td>お参りする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おまいりする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to visit a shrine</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00685.mp3">🔊</a></td><td>七五三に着物を着て、子供たちは神社にお参りします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しちごさんにきものをきて、こどもたちはじんじゃにおまいりします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>During the Seven-Five-Three Festival, children wear traditional Japanese clothing and visit shrines.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
