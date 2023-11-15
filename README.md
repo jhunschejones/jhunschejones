@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00322.mp3">🔊</a></td><td>鉄分</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>てつぶん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>nutritional iron, iron content</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00688.mp3">🔊</a></td><td>鉄分やカリウム、亜鉛のような無機質も大切です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>てつぶんやかりうむ、あえんのようなむきしつもたいせつです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Minerals, such as nutritional iron, potassium, and zinc, are also important to one's health.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00323.mp3">🔊</a></td><td>痺れる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しびれる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to become numb, to go to sleep</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00689.mp3">🔊</a></td><td>カリウムが足りないと、手足が痺れることがあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かりうむがたりないと、てあしがしびれることがあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>When you don't have enough potassium, you might experience numbness of the hands and feet.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
