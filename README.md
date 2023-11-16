@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00323.mp3">🔊</a></td><td>痺れる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しびれる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to become numb, to go to sleep</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00689.mp3">🔊</a></td><td>カリウムが足りないと、手足が痺れることがあります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かりうむがたりないと、てあしがしびれることがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>When you don't have enough potassium, you might experience numbness of the hands and feet.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00324.mp3">🔊</a></td><td>ピリピリと痛い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぴりぴりといたい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>tingling pain</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00690.mp3">🔊</a></td><td>ピリピリと痛くて、不快ですね。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぴりぴりといたくて、ふかいですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>When having tingling, it is uncomfortable, isn't it?</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
