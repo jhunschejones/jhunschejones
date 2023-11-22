@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00329.mp3">🔊</a></td><td>生活習慣</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せいかつしゅうかん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>lifestyle, daily habits</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00695.mp3">🔊</a></td><td>生活習慣が悪いと問題を起こします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せいかつしゅうかんがわるいともんだいをおこします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Poor lifestyle choices are often the cause of the problem.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00330.mp3">🔊</a></td><td>見直す</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>みなおす</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to go back over, to rethink, to revise, to review</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00696.mp3">🔊</a></td><td>生活習慣を見直すつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>せいかつしゅうかんをみなおすつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I am going to rethink my lifestyle choices.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
