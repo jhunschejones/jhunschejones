@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00331.mp3">🔊</a></td><td>番</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：バン</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>counters</td></tr>
-  <tr><td><strong>English:</strong></td><td>order, number</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00697.mp3">🔊</a></td><td>日本では警察の電話番号が110番、救急車の番号が119番です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんではけいさつのでんわばんごうがひゃくとおばん、きゅうきゅうしゃのばんごうがひゃくじゅうきゅうばんです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In Japan, the telephone number for the police is 110, and the phone number for an ambulance is 119.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00332.mp3">🔊</a></td><td>癌</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>がん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>cancer</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00698.mp3">🔊</a></td><td>癌も生活習慣の問題です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>がんもせいかつしゅうかんのもんだいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Cancer can also be caused by poor lifestyle choices.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
