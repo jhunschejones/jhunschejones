@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00334.mp3">🔊</a></td><td>脱水症</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>だっすいしょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>dehydration</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00700.mp3">🔊</a></td><td>運動する時は水を飲んで、脱水症を防ぎましょう。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>うんどうするときはみずをのんで、だっすいしょうをふせぎましょう。</td></tr>
-  <tr><td><strong>English:</strong></td><td>When you exercise, drink water to prevent dehydration.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00335.mp3">🔊</a></td><td>規則正しい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きそくただしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>regular, even, well-regulated</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00701.mp3">🔊</a></td><td>規則正しい生活を続けるのは苦手です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きそくただしいせいかつをつづけるのはにがてです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I struggle with keeping a well-regulated lifestyle.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
