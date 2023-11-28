@@ -38,11 +38,9 @@
 <!-- START WORD OF THE DAY -->
 <table>
   <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00336.mp3">🔊</a></td><td>とうとう</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
   <tr><td><strong>English:</strong></td><td>at last, after all</td></tr>
   <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00702.mp3">🔊</a></td><td>とうとう一年が終わります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td></td></tr>
   <tr><td><strong>English:</strong></td><td>At last, the year has come to an end.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
