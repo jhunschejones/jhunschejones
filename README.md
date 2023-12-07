@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00344.mp3">🔊</a></td><td>無難な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぶなんな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>acceptable, safe, innocuous</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00710.mp3">🔊</a></td><td>無難なものは面白くありません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぶなんなものはおもしろくありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>An innocuous gift is not interesting.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00345.mp3">🔊</a></td><td>趣味を押し付ける</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しゅみをおしつける</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to force one's tastes or preferences on another</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00711.mp3">🔊</a></td><td>趣味を押し付けたくありません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しゅみをおしつけたくありません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I don't want to force my preferences on them.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
