@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00345.mp3">🔊</a></td><td>趣味を押し付ける</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しゅみをおしつける</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to force one's tastes or preferences on another</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00711.mp3">🔊</a></td><td>趣味を押し付けたくありません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しゅみをおしつけたくありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I don't want to force my preferences on them.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00346.mp3">🔊</a></td><td>熟知する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じゅくちする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to totally know</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00712.mp3">🔊</a></td><td>相手の好みを熟知していないと、プレゼント選びは難しいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あいてのこのみをじゅくちしていないと、ぷれぜんとえらびはむずかしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Unless you totally know someone, it is difficult to chose a gift they will like.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
