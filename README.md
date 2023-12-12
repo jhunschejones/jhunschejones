@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00349.mp3">🔊</a></td><td>誤解する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ごかいする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to misunderstand, to misinterpret</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00715.mp3">🔊</a></td><td>女性が男性にネクタイをプレゼントすると、自分のことが好きだと誤解することがあります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょせいがだんせいにねくたいをぷれぜんとすると、じぶんのことがすきだとごかいすることがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>When a woman gives a man a necktie, he can misinterpret it as her showing romantic interest in him.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00350.mp3">🔊</a></td><td>ふさわしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>adequate, appropriate</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00716.mp3">🔊</a></td><td>ジョーンズさんにふさわしい物をあげたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to give something appropriate to Jones-san.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
