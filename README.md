@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00351.mp3">🔊</a></td><td>日常生活</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にちじょうせいかつ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>daily life</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00717.mp3">🔊</a></td><td>日常生活で使えるものはどうでしょうか。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にちじょうせいかつでつかえるものはどうでしょうか。</td></tr>
-  <tr><td><strong>English:</strong></td><td>How about something that they can use in their daily life?</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00352.mp3">🔊</a></td><td>センスが良い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>せんすがいい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>having good taste</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00718.mp3">🔊</a></td><td>ジョーンズさんがセンスが良いと喜ぶといいですね。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがせんすがいいとよろこぶといいですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I hope Jones-san thinks I have good taste and likes my gift.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
