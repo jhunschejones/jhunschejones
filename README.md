@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00352.mp3">🔊</a></td><td>センスが良い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せんすがいい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>having good taste</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00718.mp3">🔊</a></td><td>ジョーンズさんがセンスが良いと喜ぶといいですね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがせんすがいいとよろこぶといいですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I hope Jones-san thinks I have good taste and likes my gift.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00353.mp3">🔊</a></td><td>気を遣う</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きをつかう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to pay careful attention to something</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00719.mp3">🔊</a></td><td>ジョーンズさんへのプレゼントには気を遣います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんへのぷれぜんとにはきをつかいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I am paying careful attention to what kind of gift I will get for Jones-san.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
