@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00361.mp3">🔊</a></td><td>年始</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ねんし</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>the beginning of the new year</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00727.mp3">🔊</a></td><td>年末年始の準備で忙しいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ねんまつねんしのじゅんびでいそがしいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Everyone is busy preparing for the end of the year and the beginning of the new year.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00362.mp3">🔊</a></td><td>重要な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じゅうような</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>significant, important</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00728.mp3">🔊</a></td><td>日本文化ではお正月は重要です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんぶんかではおしょうがつはじゅうようです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In Japanese culture, the New Year's celebration is very significant.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
