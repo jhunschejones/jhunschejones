@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00362.mp3">🔊</a></td><td>重要な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じゅうような</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>significant, important</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00728.mp3">🔊</a></td><td>日本文化ではお正月は重要です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんぶんかではおしょうがつはじゅうようです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In Japanese culture, the New Year's celebration is very significant.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00363.mp3">🔊</a></td><td>休業</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きゅうぎょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>closure in business, taking a holiday</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00729.mp3">🔊</a></td><td>新年間近ですから、役所は休業でした。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しんねんまぢかですから、やくしょはきゅうぎょうでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The government office was closed because of New Year's.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
