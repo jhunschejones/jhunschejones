@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00363.mp3">🔊</a></td><td>休業</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きゅうぎょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>closure in business, taking a holiday</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00729.mp3">🔊</a></td><td>新年間近ですから、役所は休業でした。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しんねんまぢかですから、やくしょはきゅうぎょうでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The government office was closed because of New Year's.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00364.mp3">🔊</a></td><td>華やかな</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はなやかな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>brilliant, gorgeous</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00730.mp3">🔊</a></td><td>お正月飾りが華やかです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おしょうがつかざりがはなやかです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The New Year's decorations look gorgeous!</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
