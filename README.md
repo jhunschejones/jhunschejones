@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00012.mp3">🔊</a></td><td>貯める</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ためる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to save up</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00378.mp3">🔊</a></td><td>お金を貯めるので、コーヒーを買わないつもりです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おかねをためるので、こおひいをかわないつもりです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>To save up money, I won't buy coffee.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00013.mp3">🔊</a></td><td>冷</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：レイ 訓：つめ（たい）、ひ（える）、さ（める）、さ（ます）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>cold</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00379.mp3">🔊</a></td><td>今日は雪が降って、冷え込みました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きょうはゆきがふって、ひえこみました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It became cold after the snow storm.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
