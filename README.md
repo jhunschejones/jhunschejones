@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00016.mp3">🔊</a></td><td>止</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：シ 訓：と（める）、と（まる）、や（める）</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00017.mp3">🔊</a></td><td>焼く</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>やく</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to stop</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00382.mp3">🔊</a></td><td>悪い習慣を止めようと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>わるいしゅうかんをやめようとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I will stop my bad habits.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to bake, to broil, to burn</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00383.mp3">🔊</a></td><td>晩ご飯に鶏肉を焼きました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ばんごはんにとりにくをやきました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I baked some chicken for dinner.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
