@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00019.mp3">🔊</a></td><td>揚げる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あげる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to fry</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00385.mp3">🔊</a></td><td>鶏肉は揚げた方が美味しいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とりにくはあげたほうがおいしいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>When chicken is fried, it tastes better.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00020.mp3">🔊</a></td><td>一朝一夕</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>いっちょういっせき</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>in a short amount of time, in a day</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00386.mp3">🔊</a></td><td>目標は一朝一夕で達成しません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>もくひょうはいっちょういっせきでたっせいしません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Goals cannot be achieved in a day.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
