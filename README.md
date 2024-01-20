@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00022.mp3">🔊</a></td><td>合格する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ごうかくする</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00023.mp3">🔊</a></td><td>片付ける</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かたづけ</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to pass (a test), to get through</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00388.mp3">🔊</a></td><td>日本語能力試験に合格したいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんごのうりょくしけんにごうかくしたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to pass the Japanese-Language Proficiency Test.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to declutter, to tidy up, to straighten up</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00389.mp3">🔊</a></td><td>机の上をたくさん片付けました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>つくえのうえをたくさんかたづけました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I straightened up my desk a lot.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
