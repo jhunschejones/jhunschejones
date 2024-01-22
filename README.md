@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00024.mp3">🔊</a></td><td>良</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：リョウ 訓：よ（い）</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>good</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00390.mp3">🔊</a></td><td>良い習慣をつけるのは大変です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>よいしゅうかんをつけるのはたいへんです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is hard to develop good habits.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00025.mp3">🔊</a></td><td>覚える</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おぼえる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to memorize, to master, to learn</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00391.mp3">🔊</a></td><td>毎日日本語の単語を三個覚えるつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まいにちにほんごのたんごをさんこおぼえるつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I am going to memorize three Japanese vocabulary words every day.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
