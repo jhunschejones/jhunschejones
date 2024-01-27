@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00029.mp3">🔊</a></td><td>危険な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きけんな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>dangerous, risky, hazardous</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00395.mp3">🔊</a></td><td>雪がたくさん積もると、危険です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆきがたくさんつもると、きけんです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever a lot of snow builds up, it can be dangerous.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00030.mp3">🔊</a></td><td>苦労する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>くろうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to struggle</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00396.mp3">🔊</a></td><td>今年の目標を達成できるかもう苦労しています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ことしのもくひょうをたっせいできるかもうくろうしています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I am already struggling to complete my goals for this year.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
