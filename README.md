@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00035.mp3">🔊</a></td><td>味</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：ミ 訓：あじ、あじ（わう）</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00036.mp3">🔊</a></td><td>豆まき</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まめまき</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>taste</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00401.mp3">🔊</a></td><td>煎った豆はあまり味がなかったそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いったまめはあまりあじがなかったそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I heard roasted beans don't have any taste.</td></tr>
+  <tr><td><strong>English:</strong></td><td>bean-throwing</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00402.mp3">🔊</a></td><td>春分の節句に、豆まきをして、一年間の幸せを祈ります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しゅんぶんのせっくに、まめまきをして、いちねんかんのしあわせをいのります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>On the first day of spring, we have a bean-throwing festival to pray for happiness all year.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
