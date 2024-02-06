@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00039.mp3">🔊</a></td><td>行事</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぎょうじ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>event, observance</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00405.mp3">🔊</a></td><td>季節の行事をするのは楽しいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きせつのぎょうじをするのはたのしいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is fun to participate in seasonal events.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00040.mp3">🔊</a></td><td>心機一転</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しんきいってん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>a fresh start, a clean start, turning over a new leaf</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00406.mp3">🔊</a></td><td>もう春ですから、心機一転、頑張りましょう。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>もうはるですから、しんきいってん、がんばりましょう。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Because spring has come, let's make a fresh start and do our best.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
