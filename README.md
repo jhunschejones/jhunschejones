@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00041.mp3">🔊</a></td><td>期待する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きたいする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to expect, to await, to count on</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00407.mp3">🔊</a></td><td>スミスさんはバレンタインデーにたくさんのチョコレートを期待しています。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはばれんたいんでぇにたくさんのちょこれぇとをきたいしています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san is expecting a lot of chocolates on Valentine's day.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00042.mp3">🔊</a></td><td>ホワイトデー</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ほわいとでぇ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>White Day</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00408.mp3">🔊</a></td><td>たくさんチョコレートをもらったら、ホワイトデーにお返しが大変です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たくさんちょこれぇとをもらったら、ほわいとでぇにおかえしがたいへんです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>If you receive a lot of chocolates, it will be a pain to reciprocate on White Day.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
