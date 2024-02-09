@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00042.mp3">🔊</a></td><td>ホワイトデー</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ほわいとでぇ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>White Day</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00408.mp3">🔊</a></td><td>たくさんチョコレートをもらったら、ホワイトデーにお返しが大変です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たくさんちょこれぇとをもらったら、ほわいとでぇにおかえしがたいへんです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>If you receive a lot of chocolates, it will be a pain to reciprocate on White Day.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00043.mp3">🔊</a></td><td>高価な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こうかな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>expensive, costly, high-priced, precious</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00409.mp3">🔊</a></td><td>女の子はホワイトデーに高価なお返しを期待しています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おんなのこはほわいとでぇにこうかなおかえしをきたいしています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Girls are expecting to receive expensive gifts.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
