@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00045.mp3">🔊</a></td><td>商業的な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しょうぎょうてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>commercial</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00411.mp3">🔊</a></td><td>バレンタインデーはとても商業的になりましたね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ばれんたいんでぇはとてもしょうぎょうてきになりましたね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Valentine's Day has become very commercial, hasn’t it?</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00046.mp3">🔊</a></td><td>記念日</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きねんび</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>anniversary, commemoration day, memorial day</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00412.mp3">🔊</a></td><td>行事や記念日には高価なレストランで食事をしたいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぎょうじやきねんびにはこうかなれすとらんでしょくじがしたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I like to eat at expensive restaurants on special days like anniversaries.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
