@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00048.mp3">🔊</a></td><td>和食</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>わしょく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>Japanese cuisine</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00414.mp3">🔊</a></td><td>和食レストランだったら、ジョーンズさんも喜ぶと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>わしょくれすとらんだったら、じょぉんずさんもよろこぶとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I think Jones-san will be happy if it is an authentic Japanese restaurant.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00049.mp3">🔊</a></td><td>シックな</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しっくな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>chic, refined, fashionable</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00415.mp3">🔊</a></td><td>シックな新品の洋服も買おうと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>シックなしんぴんのようふくもかおうとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I'm going to purchase a chic, new outfit.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
