@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00051.mp3">🔊</a></td><td>前菜</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぜんさい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>appetizer, antipasto</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00417.mp3">🔊</a></td><td>前菜にたこの酢の物はどうですか。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぜんさいにたこのすのものはどうですか。</td></tr>
-  <tr><td><strong>English:</strong></td><td>How about some octopus with sweetened vinegar for an appetizer?</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00052.mp3">🔊</a></td><td>酸っぱい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すっぱい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>sour, tart, acerbic</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00418.mp3">🔊</a></td><td>ジョーンズさんは酸っぱいものもたこも好きじゃないそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんはすっぱいものもたこもすきじゃないそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard Jones-san doesn't like sour food or octopus.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
