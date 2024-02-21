@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00054.mp3">🔊</a></td><td>塩辛い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しおからい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>salty</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00420.mp3">🔊</a></td><td>日本の焼き肉は塩辛くありません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんのやくにくはしおからくありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Japanese grilled meats are not salty.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00055.mp3">🔊</a></td><td>断る</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ことわる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to refuse, to turn down, to repel</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00421.mp3">🔊</a></td><td>ジョーンズさんが断らなくてよかったです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがことわらなくてよかったです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I'm glad that Jones-san didn't turn me down.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
