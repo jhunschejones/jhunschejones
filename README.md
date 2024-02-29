@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00062.mp3">🔊</a></td><td>見学する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>けんがくする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to observe, to see, to watch</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00428.mp3">🔊</a></td><td>明日、近所の鈴木さんの人形を見学します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あした、きんじょのすずきさんのにんぎょうをけんがくします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Tomorrow, I will go and see my neighbor, Suzuki-san's, dolls.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00063.mp3">🔊</a></td><td>ひな人形</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひなにんぎょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>special doll set</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00429.mp3">🔊</a></td><td>ひな祭りのための特別な人形を「ひな人形」といいます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひなまつりのためのとくべつなにんぎょうを「ひなにんぎょう」といいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The special doll sets put out for the Doll Festival are called "hina-ningyo".</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
