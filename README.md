@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00073.mp3">🔊</a></td><td>深刻な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しんこくな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>serious, deep, heavy, severe</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00439.mp3">🔊</a></td><td>近所の騒音は深刻な問題です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きんじょのそうおんはしんこくなもんだいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The neighborhood noise is a serious problem.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00074.mp3">🔊</a></td><td>しつけ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>discipline, parenting</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00440.mp3">🔊</a></td><td>ペットを飼ったら、しつけも大事です。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Discipline is very important when owning a pet.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
