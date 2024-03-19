@@ -5,5 +5,6 @@ The word of the day script scrapes a webpage that contains a Japanese word of th
 
 ### Running the script locally
 1. `bundle install`
-2. `./bin/install mac`
-3. `./bin/run`
+2. `brew install jq` _(if you don't have it installed yet)_
+3. `./bin/install mac`
+4. `./bin/run`
