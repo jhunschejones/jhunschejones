@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00090.mp3">🔊</a></td><td>愚痴</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぐち</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>moan, complaint</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00456.mp3">🔊</a></td><td>鈴木さんに愚痴を言ってはいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すずきさんにぐちをいってはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Don't make any complaints to Suzuki-san.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00091.mp3">🔊</a></td><td>消極的な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しょうきょくてきな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>inactive, passive, negative</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00457.mp3">🔊</a></td><td>日本人はもっと消極的だと思っていました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんじんはもっとしょうきょくてきだとおもっていました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I thought the Japanese were more passive in nature.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
