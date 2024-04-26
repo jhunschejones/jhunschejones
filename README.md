@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00119.mp3">🔊</a></td><td>高圧的な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうあつてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>authoritative, overbearing, high-handed</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00485.mp3">🔊</a></td><td>上司が高圧的でも引き続き頑張ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょうしがこうあつてきでもひきつづきがんばります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Even if my boss is overbearing, I must continue to do my best.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00120.mp3">🔊</a></td><td>素直に</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すなおに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>genuinely, amenably</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00486.mp3">🔊</a></td><td>ジョーンズさんがほめてくれたので、素直にうれしいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがほめてくれたので、すなおにうれしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I am genuinely happy Jones-san praised my efforts.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
