@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00121.mp3">🔊</a></td><td>自慢する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じまんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to brag, to be proud</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00487.mp3">🔊</a></td><td>デイビスさんに自慢したくてしょうがないです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびすさんにじまんしたくてしょうがないです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I can't wait to brag to Davis-san about this.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00122.mp3">🔊</a></td><td>ゴールデンウィーク</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ごぉるでんうぃぃく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>Golden Week</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00488.mp3">🔊</a></td><td>ゴールデンウィークで久し振りに家でゆっくりします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ごぉるでんうぃぃくでひさしぶりにいえでゆっくりします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>During Golden Week, I am going to relax at home for a while.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
