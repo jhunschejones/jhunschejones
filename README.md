@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00144.mp3">🔊</a></td><td>有意義な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆういぎな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>worthwhile, meaningful, valuable</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00510.mp3">🔊</a></td><td>デイビスさんの休暇は有意義な経験となりました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびすさんのきゅうかはゆういぎなけいけんとなりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san's vacation was a very valuable experience for him.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00145.mp3">🔊</a></td><td>縦横無尽に</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じゅうおうむじんに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to the fullest, to one's complete satisfaction, freely, far and wide</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00511.mp3">🔊</a></td><td>デイビスさんの旅行は縦横無尽です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でいびすさんのりょこうはじゅうおうむじんです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Davis-san has traveled far and wide.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
