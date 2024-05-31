@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00154.mp3">🔊</a></td><td>豪雨</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ごうう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>heavy rain, heavy downpours</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00520.mp3">🔊</a></td><td>梅雨は台風ほど豪雨にはなりません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つゆはたいふうほどごううにはなりません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The heavy rains during this season are not as bad as during a typhoon.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00155.mp3">🔊</a></td><td>シトシトと</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しとしとと</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>pitter-patter</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00521.mp3">🔊</a></td><td>毎日シトシトと雨が降るのが聞こえます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まいにちしとしととあめがふるのがきこえます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>You can hear the rain going pitter-patter outside every day.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
