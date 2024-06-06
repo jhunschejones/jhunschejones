@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00160.mp3">🔊</a></td><td>肌寒い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はだざむい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>chilly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00526.mp3">🔊</a></td><td>毎日雨が降って、肌寒いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まいにちあめがふって、はだざむいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Every day, it's rainy and chilly.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00161.mp3">🔊</a></td><td>洪水</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こうずい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>flood, flooding</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00527.mp3">🔊</a></td><td>たくさん雨が降るので、洪水の危険があります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たくさんあめがふるので、こうずいのきけんがあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Because it rains a lot, there is a danger of flooding.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
