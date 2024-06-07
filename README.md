@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00161.mp3">🔊</a></td><td>洪水</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうずい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>flood, flooding</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00527.mp3">🔊</a></td><td>たくさん雨が降るので、洪水の危険があります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たくさんあめがふるので、こうずいのきけんがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Because it rains a lot, there is a danger of flooding.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00162.mp3">🔊</a></td><td>慌てる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あわてる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be flustered, to hurry, to panic</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00528.mp3">🔊</a></td><td>災害が起こっても、慌ててはいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さいがいがおこっても、あわててはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Even if a disaster occurs, you must not panic.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
