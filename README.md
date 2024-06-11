@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00165.mp3">🔊</a></td><td>乾電池</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんでんち</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>battery</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00531.mp3">🔊</a></td><td>乾電池がいくつかあったらいいですね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんでんちがいくつかあったらいいですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>We should have batteries too, right?</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00166.mp3">🔊</a></td><td>充電する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じゅうでんする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to charge, to recharge</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00532.mp3">🔊</a></td><td>携帯電話が充電できないかもしれません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けいたいでんわがじゅうでんできないかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We might not be able to charge our cell phones.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
