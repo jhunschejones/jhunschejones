@@ -8,14 +8,16 @@ GEM
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
+    logger (1.6.0)
     mini_mime (1.1.5)
     multi_xml (0.7.1)
       bigdecimal (~> 3.1)
-    rexml (3.2.9)
+    rexml (3.3.1)
       strscan
     rubyzip (2.3.2)
-    selenium-webdriver (4.21.1)
+    selenium-webdriver (4.22.0)
       base64 (~> 0.2)
+      logger (~> 1.4)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
