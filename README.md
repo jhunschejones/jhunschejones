@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00186.mp3">🔊</a></td><td>気がひける</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きがひける</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to feel ashamed, to feel small</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00552.mp3">🔊</a></td><td>ささやかすぎて、気がひけます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ささやかすぎて、きがひけます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I feel ashamed I got such a small gift.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00187.mp3">🔊</a></td><td>のし紙</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>のしがみ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>wrapping paper with noshi</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00553.mp3">🔊</a></td><td>のし紙を忘れてはいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>のしがみをわすれてはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Don't forget to use the wrapping paper with noshi on it for the gift.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
