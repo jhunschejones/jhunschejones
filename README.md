@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00215.mp3">🔊</a></td><td>滞在する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たいざいする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to visit, to remain</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00581.mp3">🔊</a></td><td>その間、ご先祖がやってきて、家族の家に滞在すると考えます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>そのあいだ、ごせんぞがやってきて、かぞくのいえにたいざいするとかんがえます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>During the Festival, one's ancestors are said to visit and stay at the family home.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00216.mp3">🔊</a></td><td>様々な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さまざまな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>all kinds of, various</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00582.mp3">🔊</a></td><td>行事のやり方は地方によって様々です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぎょうじのやりかたはちほうによってさまざまです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>There are all kinds of practices done during the festival depending on the region.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
