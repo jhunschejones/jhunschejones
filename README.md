@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00308.mp3">🔊</a></td><td>感染症</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんせんしょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>infection</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00674.mp3">🔊</a></td><td>スミスさんは感染症でした。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはかんせんしょうでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san had an infection.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00309.mp3">🔊</a></td><td>ズキズキと痛い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ずきずきといたい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>throbbing pain</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00675.mp3">🔊</a></td><td>ズキズキと体が痛かったそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ずきずきとからだがいたかったそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard that they had throbbing pain throughout their body.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
