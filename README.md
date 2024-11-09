@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00317.mp3">🔊</a></td><td>亡くなる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>なくなる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to die</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00683.mp3">🔊</a></td><td>七歳までに亡くなる子供が多かったです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ななさいまでになくなるこどもがおおかったです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>There were a lot of children who died before seven years old.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00318.mp3">🔊</a></td><td>七五三</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しちごさん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>The Seven-Five-Three Festival</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00684.mp3">🔊</a></td><td>十一月十五日に七五三をして、子供の健康を祈ります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じゅういちがつじゅうごにちにしちごさんをして、こどものけんこうをいのります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We celebrate the Seven-Five-Three Festival on November 15th to pray for the health of children.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
