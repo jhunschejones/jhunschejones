@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00319.mp3">🔊</a></td><td>お参りする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おまいりする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to visit a shrine</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00685.mp3">🔊</a></td><td>七五三に着物を着て、子供たちは神社にお参りします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しちごさんにきものをきて、こどもたちはじんじゃにおまいりします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>During the Seven-Five-Three Festival, children wear traditional Japanese clothing and visit shrines.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00320.mp3">🔊</a></td><td>千歳飴</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ちとせあめ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>Seven-Five-Three Festival candy</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00686.mp3">🔊</a></td><td>長生きを祈って、千歳飴も食べます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ながきをいのって、ちとせあめもたべます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Children also eat the Seven-Five-Three Festival candy to pray for a long life.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
