@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00339.mp3">🔊</a></td><td>年末</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ねんまつ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>end of the year</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00705.mp3">🔊</a></td><td>年末にはたくさん宴会の準備をしなくてはいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ねんまつにはたくさんえんかいのじゅんびをしなくてはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>At the end of the year, there are many corporate gatherings and parties to prepare for.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00340.mp3">🔊</a></td><td>やることが山のよう</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>やることがやまのよう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>a mountain of things to do</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00706.mp3">🔊</a></td><td>年末はいつもやることが山のようにあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ねんまつはいつもやることがやまのようにあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I always have a mountain of things to do at the end of the year.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
