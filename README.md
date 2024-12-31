@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00003.mp3">🔊</a></td><td>新</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：シン 訓：あたら（しい）、あらた、にい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>new</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00369.mp3">🔊</a></td><td>新しい年になったので、何か新しいことを始めたいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あたらしいとしになったので、なにかあたらしいことをはじめたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Because it's a new year, I want to start something new.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00004.mp3">🔊</a></td><td>郵便物</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆうびんぶつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>postal item, mail</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00370.mp3">🔊</a></td><td>郵便受けに郵便物を取りに行きました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆうびんうけにゆうびんぶつをとりにいきました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I went to the mailbox to get the mail.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
