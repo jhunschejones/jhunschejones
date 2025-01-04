@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00007.mp3">🔊</a></td><td>目標</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>もくひょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>goal, target</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00373.mp3">🔊</a></td><td>新しい目標を達成したいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あたらしいもくひょうをたっせいしたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to achieve a new goal.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00008.mp3">🔊</a></td><td>やせる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to lose weight</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00374.mp3">🔊</a></td><td>新しい目標は五キロやせることです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My new goal is to lose 5 kg.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
