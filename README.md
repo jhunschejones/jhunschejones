@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00014.mp3">🔊</a></td><td>寄る</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>よる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to stop by, to stop off at</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00380.mp3">🔊</a></td><td>体が冷えたので、帰りにスタバに寄りましょう。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>からだがひえたので、かえりにすたばによりましょう。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Because I'm cold, I will stop by Starbucks on my way home.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00015.mp3">🔊</a></td><td>余分な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よぶんな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>extra, redundant</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00381.mp3">🔊</a></td><td>余分な出費をしてしまいました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よぶんなしゅっぴをしてしまいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I regretfully spent extra money.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
