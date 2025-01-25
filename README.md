@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00028.mp3">🔊</a></td><td>雪崩</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>なだれ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>avalanche</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00394.mp3">🔊</a></td><td>ニュースによると、東北地方で雪崩が起きたそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にゅうすによると、とうほくちほうでなだれがおきたそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>According to the news, there was an avalanche in the Tohoku area.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00029.mp3">🔊</a></td><td>危険な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きけんな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>dangerous, risky, hazardous</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00395.mp3">🔊</a></td><td>雪がたくさん積もると、危険です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆきがたくさんつもると、きけんです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Whenever a lot of snow builds up, it can be dangerous.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
