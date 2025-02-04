@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00038.mp3">🔊</a></td><td>数える</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かぞえる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to count, to number</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00404.mp3">🔊</a></td><td>豆まきの後、自分の年と同じ分の豆を数えて食べます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まめまきのあと、じぶんのとしとおなじぶんのまめをかぞえてたべます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>After the bean-throwing ceremony, we count out our age in beans and eat them.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00039.mp3">🔊</a></td><td>行事</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぎょうじ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>event, observance</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00405.mp3">🔊</a></td><td>季節の行事をするのは楽しいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きせつのぎょうじをするのはたのしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is fun to participate in seasonal events.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
