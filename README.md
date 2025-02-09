@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00043.mp3">🔊</a></td><td>高価な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうかな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>expensive, costly, high-priced, precious</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00409.mp3">🔊</a></td><td>女の子はホワイトデーに高価なお返しを期待しています。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おんなのこはほわいとでぇにこうかなおかえしをきたいしています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Girls are expecting to receive expensive gifts.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00044.mp3">🔊</a></td><td>倍返し</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ばいがえし</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>double payback</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00410.mp3">🔊</a></td><td>半沢直樹は倍返しをしましたよ。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はんざわなおきはばいがえしをしましたよ。</td></tr>
+  <tr><td><strong>English:</strong></td><td>For White Day, Naoki Hanzawa will have to give a double payback.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
