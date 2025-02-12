@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00046.mp3">🔊</a></td><td>記念日</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きねんび</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>anniversary, commemoration day, memorial day</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00412.mp3">🔊</a></td><td>行事や記念日には高価なレストランで食事をしたいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぎょうじやきねんびにはこうかなれすとらんでしょくじがしたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I like to eat at expensive restaurants on special days like anniversaries.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00047.mp3">🔊</a></td><td>誘う</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さそう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to invite, to solicit, to court</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00413.mp3">🔊</a></td><td>今年こそ、ジョーンズさんを高価なレストランに誘おうと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ことしこそ、じょぉんずさんをこうかなれすとらんにさそおうとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>This year, I think I will invite Jones-san to go to an expensive restaurant.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
