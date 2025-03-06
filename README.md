@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00068.mp3">🔊</a></td><td>ルールを守る</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>るぅるをまもる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to follow the rules</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00434.mp3">🔊</a></td><td>近所の人と仲良くするために、ルールを守ろうと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きんじょのひととなかよくするために、るぅるをまもろうとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>To keep a good relationship with my neighbors, I will follow the rules.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00069.mp3">🔊</a></td><td>騒音</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>そうおん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>noise, din</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00435.mp3">🔊</a></td><td>田中さんはいつも騒音を出すみたいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たなかさんはいつもそうおんをだすみたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It sounds like her neighbor Tanaka-san always makes a lot of noise.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
