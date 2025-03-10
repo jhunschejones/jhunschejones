@@ -1,5 +1,6 @@
 bin/chromedriver
 bin/LICENSE.chromedriver
+bin/THIRD_PARTY_NOTICES.chromedriver
 vendor/
 .bundle/
 .DS_Store
