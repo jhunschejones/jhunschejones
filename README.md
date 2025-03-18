@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00074.mp3">🔊</a></td><td>しつけ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>discipline, parenting</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00440.mp3">🔊</a></td><td>ペットを飼ったら、しつけも大事です。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Discipline is very important when owning a pet.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00075.mp3">🔊</a></td><td>交流する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こうりゅうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to mingle, to interact</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00441.mp3">🔊</a></td><td>近所の犬はドックランで交流するそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きんじょのいぬはどっくらんでこうりゅうするそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard that some of the neighborhood dog owners mingle at the local dog park.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
