@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00144.mp3">🔊</a></td><td>有意義な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆういぎな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>worthwhile, meaningful, valuable</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00510.mp3">🔊</a></td><td>デイビスさんの休暇は有意義な経験となりました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびすさんのきゅうかはゆういぎなけいけんとなりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san's vacation was a very valuable experience for him.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00146.mp3">🔊</a></td><td>治安</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ちあん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>public order, security, civil order</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00512.mp3">🔊</a></td><td>デイビスさんは治安が良い所を旅行しているといいですね。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でいびすさんはちあんがよいところをりょこうしているといいですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I hope Davis-san travels somewhere where there is public order.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
