@@ -1,20 +1,20 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    base64 (0.2.0)
-    bigdecimal (3.1.9)
-    csv (3.3.4)
+    base64 (0.3.0)
+    bigdecimal (3.2.2)
+    csv (3.3.5)
     httparty (0.23.1)
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
     logger (1.7.0)
     mini_mime (1.1.5)
-    multi_xml (0.7.1)
+    multi_xml (0.7.2)
       bigdecimal (~> 3.1)
     rexml (3.4.1)
     rubyzip (2.4.1)
-    selenium-webdriver (4.31.0)
+    selenium-webdriver (4.33.0)
       base64 (~> 0.2)
       logger (~> 1.4)
       rexml (~> 3.2, >= 3.2.5)
