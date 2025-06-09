@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00156.mp3">🔊</a></td><td>ジメジメする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じめじめする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to get uncomfortably humid</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00522.mp3">🔊</a></td><td>今日はジメジメして気分が悪いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きょうはじめじめしてきぶんがわるいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The weather today is so uncomfortably humid.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00157.mp3">🔊</a></td><td>災害</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さいがい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>disaster</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00523.mp3">🔊</a></td><td>雨が多いと、災害も多くなります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あめがおおいと、さいがいもおおくなります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The more it rains, the more disasters occur.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
