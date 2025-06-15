@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00162.mp3">🔊</a></td><td>慌てる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あわてる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be flustered, to hurry, to panic</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00528.mp3">🔊</a></td><td>災害が起こっても、慌ててはいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>さいがいがおこっても、あわててはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Even if a disaster occurs, you must not panic.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00163.mp3">🔊</a></td><td>懐中電灯</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かいちゅうでんとう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>flashlight</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00529.mp3">🔊</a></td><td>事前に懐中電灯を準備した方がいいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じぜんにかいちゅうでんとうをじゅんびしたほうがいいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is smart to prepare flashlights ahead of time.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
