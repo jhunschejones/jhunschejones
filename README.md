@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00172.mp3">🔊</a></td><td>しょうがない</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>there's no way, cannot be helped, hopeless</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00538.mp3">🔊</a></td><td>貴重品はしょうがありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>There's no way to save your valuables.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00173.mp3">🔊</a></td><td>風</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：フウ、フ 訓：かぜ、かざ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>wind, tendency</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00539.mp3">🔊</a></td><td>台風の時、暴風になります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たいふうのとき、ぼうふうになります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>During a typhoon, the wind picks up a lot.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
