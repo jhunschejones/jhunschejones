@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00175.mp3">🔊</a></td><td>警報</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>けいほう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>alarm, alert, warning, warning signal</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00541.mp3">🔊</a></td><td>台風警報に気を付けなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たいほうけいほうにきをつけなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>You must pay attention if you see any typhoon warnings.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00176.mp3">🔊</a></td><td>対策する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たいさくする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to take measures, to take steps, to prepare</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00542.mp3">🔊</a></td><td>警報を聞いて、対策を立てた方がいいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けいほうをきいて、たいさくをたてたほうがいいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is always good to listen for the warnings and to be prepared for them.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
