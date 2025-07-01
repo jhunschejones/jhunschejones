@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00178.mp3">🔊</a></td><td>他人事</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たにんごと</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>somebody else's problem</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00544.mp3">🔊</a></td><td>災害を他人事だと思ってはいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>さいがいをたにんごとだとおもってはいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Don't think that disasters are somebody else's problem.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00179.mp3">🔊</a></td><td>用意する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よういする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to arrange, to fix, to prepare</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00545.mp3">🔊</a></td><td>飲み水も用意した方がいいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>のみみずもよういしたほうがいいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>You should also prepare some drinking water.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
