@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00206.mp3">🔊</a></td><td>長引く</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ながびく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be prolonged</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00572.mp3">🔊</a></td><td>スミスさんの休暇は長引くかもしれません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんのきゅうかはながびくかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san's leave might be prolonged.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00207.mp3">🔊</a></td><td>在宅勤務</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ざいたくきんむ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>working from home, home teleworking, telecommuting</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00573.mp3">🔊</a></td><td>スミスさんは数か月の間、在宅勤務をするかもしれません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはすうかげつのあいだ、ざいたくきんむをするかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san might be working from home for the next few months.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
