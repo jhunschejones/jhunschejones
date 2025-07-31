@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00209.mp3">🔊</a></td><td>迷惑がかかる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>めいわくがかかる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to cause someone trouble</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00575.mp3">🔊</a></td><td>スミスさんは自分の休みのせいで迷惑がかかっていないか心配しています。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはじぶんのやすみのせいでめいわくがかかっていないかしんぱいしています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san is worried that his leave is causing trouble for the other employees.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00210.mp3">🔊</a></td><td>有給休暇</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆうきゅうきゅうか</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>paid vacation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00576.mp3">🔊</a></td><td>有給休暇を使った方がいいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ゆうきゅうきゅうかをつかったほうがいいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is better to take paid vacations.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
