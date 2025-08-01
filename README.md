@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00210.mp3">🔊</a></td><td>有給休暇</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうきゅうきゅうか</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>paid vacation</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00576.mp3">🔊</a></td><td>有給休暇を使った方がいいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうきゅうきゅうかをつかったほうがいいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is better to take paid vacations.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00211.mp3">🔊</a></td><td>慌ただしい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あわただしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>busy, hurried, hectic</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00577.mp3">🔊</a></td><td>大事な人が休むと、会社が慌ただしくなります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>だいじなひとがやすむと、かいしゃがあわただしくなります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Whenever important people in the company take leave, our work becomes more hectic.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
