@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00218.mp3">🔊</a></td><td>送り火</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おくりび</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>ceremonial bonfire</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00584.mp3">🔊</a></td><td>ご先祖が帰る時に、送り火を焚く所もあります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ごせんぞがかえるときに、おくりびをたくところもあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Some areas send back the spirits of their ancestors with a ceremonial bonfire.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00219.mp3">🔊</a></td><td>尊重する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>そんちょうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to value, to respect</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00585.mp3">🔊</a></td><td>日本文化では、先祖や年上の人を尊重します。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんぶんかでは、せんぞやとしうえのひとをそんちょうします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In Japanese culture, people really respect their ancestors and the elderly.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
