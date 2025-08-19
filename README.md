@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00228.mp3">🔊</a></td><td>対応する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たいおうする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to deal with, to correspond</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00594.mp3">🔊</a></td><td>アイゼンハワーは軍人だったので、冷戦にも対応できたのかもしれません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あいぜんはわぁはぐんじんだったので、れいせんにもたいおうできたのかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Eisenhower's military experience gave him more ability to handle the issues from the Cold War.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00229.mp3">🔊</a></td><td>外交</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>がいこう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>foreign diplomacy</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00595.mp3">🔊</a></td><td>外交が困難な時代でした。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>がいこうがこんなんなじだいでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It was an era when foreign diplomacy was much more difficult.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
