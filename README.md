@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00229.mp3">🔊</a></td><td>外交</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>がいこう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>foreign diplomacy</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00595.mp3">🔊</a></td><td>外交が困難な時代でした。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>がいこうがこんなんなじだいでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It was an era when foreign diplomacy was much more difficult.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00230.mp3">🔊</a></td><td>激しい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はげしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>intense, furious, fierce</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00596.mp3">🔊</a></td><td>激しい争いがたくさんありました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はげしいあらそいがたくさんありました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Many fierce battles took place during the Cold War.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
