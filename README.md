@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00237.mp3">🔊</a></td><td>貢献する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうけんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to contribute</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00603.mp3">🔊</a></td><td>1990年代に、ジョーダンはNBAチャンピオンシップで、シカゴブルズの六回の優勝に貢献しました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>せんきゅうひゃくきゅうじゅうねんだいに、じょぉだんはえぬびぃえぇちゃんぴおんしっぷで、しかごぶるすのろっかいのゆうしょうにこうけんしました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In the 1990s, Jordan contributed to the Chicago Bulls' six NBA championship victories.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00238.mp3">🔊</a></td><td>思い立ったらすぐ</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おもいたったらすぐ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to set one's mind on doing something</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00604.mp3">🔊</a></td><td>ジョーダンは思い立ったらすぐに筋トレをしたそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉだんはおもいたったらすぐにきんとれをしたそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Once Jordan set his mind on doing more strength training, he started immediately.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
