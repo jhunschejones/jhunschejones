@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00274.mp3">🔊</a></td><td>完璧に</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんぺきに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>completely, perfectly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00640.mp3">🔊</a></td><td>ついにプレゼンで完璧に話せました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ついにぷれぜんでかんぺきにはなせました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In the end, I delivered the presentation perfectly.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00275.mp3">🔊</a></td><td>人前</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひとまえ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>in public, in front of people</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00641.mp3">🔊</a></td><td>人前で話す技術は習得に時間がかかります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひとまえではなすぎじゅつはしゅうとくにじかんがかかります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The ability to speak in public is a skill that develops over time.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
