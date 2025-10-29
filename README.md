@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00299.mp3">🔊</a></td><td>かび臭い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かびくさい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>musty, smelling of mold</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00665.mp3">🔊</a></td><td>暗くてかび臭いと、そこに住んでいそうなお化けを想像します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>くらくてかびくさいと、そこにすんでいそうなおばけをそうぞうします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever they are in a musty room, they think about the ghosts that might be inhabiting the building.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00300.mp3">🔊</a></td><td>ハロウィーン</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はろうぃぃん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>Halloween</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00666.mp3">🔊</a></td><td>にもかかわらず、デイビッドさんはハロウィーンは楽しめると言っていました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にもかかわらず、でいびっどさんははろうぃぃんはたのしめるといっていました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Despite this, David-san said he still enjoys Halloween.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
