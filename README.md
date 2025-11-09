@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00310.mp3">🔊</a></td><td>腫れる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はれる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to become swollen</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00676.mp3">🔊</a></td><td>ひどく腫れました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひどくはれました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>They become terribly swollen.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00311.mp3">🔊</a></td><td>肺炎</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はいえん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>pneumonia</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00677.mp3">🔊</a></td><td>コロナも感染症で、肺炎を起こします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ころなもかんせんしょうで、はいえんをおこします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>COVID-19 is also an infectious disease and causes pneumonia.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
