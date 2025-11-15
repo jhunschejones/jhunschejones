@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00316.mp3">🔊</a></td><td>長生き</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ながいき</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>longevity, long life</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00682.mp3">🔊</a></td><td>テクノロジーの進化に伴い、人々も長生きになりました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>てくのろじぃのしんかにともない、ひどびともながいきになりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>People's longevity has increased as technology has become more developed.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00317.mp3">🔊</a></td><td>亡くなる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>なくなる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to die</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00683.mp3">🔊</a></td><td>七歳までに亡くなる子供が多かったです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ななさいまでになくなるこどもがおおかったです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>There were a lot of children who died before seven years old.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
