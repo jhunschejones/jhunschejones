@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00321.mp3">🔊</a></td><td>足りる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たりる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be sufficient, to suffice, to be enough</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00687.mp3">🔊</a></td><td>昔は栄養が足りなかったのかもしれません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>むかしはえいようがたりなかったのかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In the past, nourishment might have been insufficient.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00322.mp3">🔊</a></td><td>鉄分</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>てつぶん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>nutritional iron, iron content</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00688.mp3">🔊</a></td><td>鉄分やカリウム、亜鉛のような無機質も大切です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>てつぶんやかりうむ、あえんのようなむきしつもたいせつです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Minerals, such as nutritional iron, potassium, and zinc, are also important to one's health.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
