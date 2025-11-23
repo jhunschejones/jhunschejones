@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00324.mp3">🔊</a></td><td>ピリピリと痛い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぴりぴりといたい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>tingling pain</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00690.mp3">🔊</a></td><td>ピリピリと痛くて、不快ですね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぴりぴりといたくて、ふかいですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>When having tingling, it is uncomfortable, isn't it?</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00325.mp3">🔊</a></td><td>貧血</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひんけつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>anemia</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00691.mp3">🔊</a></td><td>貧血で痺れることもあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひんけつでしびれることもあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Anemia might cause numbness.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
