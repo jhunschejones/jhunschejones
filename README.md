@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00356.mp3">🔊</a></td><td>過ごす</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すごす</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to spend time</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00722.mp3">🔊</a></td><td>日本では、家族より恋人とクリスマスイブを過ごす人が多いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんでは、かぞくよりこいびととくりすますいぶをすごすひとがおおいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It's more common to spend Christmas Eve with your sweetheart than with your family.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00357.mp3">🔊</a></td><td>たっぷり</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>plenty</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00723.mp3">🔊</a></td><td>クリスマスには、ケーキをたっぷり食べたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>On Christmas Day, I want to eat plenty of cake.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
