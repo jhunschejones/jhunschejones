@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00364.mp3">🔊</a></td><td>華やかな</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はなやかな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>brilliant, gorgeous</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00730.mp3">🔊</a></td><td>お正月飾りが華やかです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おしょうがつかざりがはなやかです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The New Year's decorations look gorgeous!</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00365.mp3">🔊</a></td><td>ウキウキする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>うきうきする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to be happy and excited</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00731.mp3">🔊</a></td><td>心がウキウキします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こころがうきうきします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My heart is happy and excited.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
