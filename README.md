@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00001.mp3">🔊</a></td><td>元旦</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>がんたん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>New Year's Day</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00367.mp3">🔊</a></td><td>今日は元旦ですので、皆さん、明けましておめでとうございます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きょうはがんたんですので、みなさん、あけましておめでとうございます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Today is New Year's Day, so Happy New Year everyone!</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00002.mp3">🔊</a></td><td>久し振りに</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひさしぶりに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>in a while, in ages, after a long time</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00368.mp3">🔊</a></td><td>久し振りに会った親戚が、子供にお年玉をくれました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひさしぶりにあったしんせきが、こどもにおとしだまをくれました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>A family member I have not seen in a long time gave my child New Year's gift money.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
