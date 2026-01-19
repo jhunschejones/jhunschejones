@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00015.mp3">🔊</a></td><td>余分な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>よぶんな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>extra, redundant</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00381.mp3">🔊</a></td><td>余分な出費をしてしまいました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>よぶんなしゅっぴをしてしまいました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I regretfully spent extra money.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00016.mp3">🔊</a></td><td>止</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：シ 訓：と（める）、と（まる）、や（める）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to stop</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00382.mp3">🔊</a></td><td>悪い習慣を止めようと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>わるいしゅうかんをやめようとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I will stop my bad habits.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
