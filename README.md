@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00018.mp3">🔊</a></td><td>苦い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にがい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>bitter</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00384.mp3">🔊</a></td><td>鶏肉を焼きすぎたので、苦いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とりにくをやきすぎたので、にがいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Because I overcooked the chicken, it tastes bitter.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00019.mp3">🔊</a></td><td>揚げる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あげる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to fry</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00385.mp3">🔊</a></td><td>鶏肉は揚げた方が美味しいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>とりにくはあげたほうがおいしいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>When chicken is fried, it tastes better.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
