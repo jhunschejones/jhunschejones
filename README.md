@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00021.mp3">🔊</a></td><td>改めて</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あらためて</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>afresh, anew</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00387.mp3">🔊</a></td><td>改めて新しい目標をたてました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あらためてあたらしいもくひょうをたてました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I will begin anew this year.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00022.mp3">🔊</a></td><td>合格する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ごうかくする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to pass (a test), to get through</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00388.mp3">🔊</a></td><td>日本語能力試験に合格したいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんごのうりょくしけんにごうかくしたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to pass the Japanese-Language Proficiency Test.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
