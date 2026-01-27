@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00023.mp3">🔊</a></td><td>片付ける</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かたづけ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to declutter, to tidy up, to straighten up</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00389.mp3">🔊</a></td><td>机の上をたくさん片付けました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つくえのうえをたくさんかたづけました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I straightened up my desk a lot.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00024.mp3">🔊</a></td><td>良</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：リョウ 訓：よ（い）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>good</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00390.mp3">🔊</a></td><td>良い習慣をつけるのは大変です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よいしゅうかんをつけるのはたいへんです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is hard to develop good habits.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
