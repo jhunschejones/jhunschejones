@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00037.mp3">🔊</a></td><td>鬼</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>ogre</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00403.mp3">🔊</a></td><td>豆まきで、「鬼は外、福は内」と言います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まめまきで、「おきはそと、ふくはうち」といいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>During the Setsubun bean-throwing ceremony, we say "the evil ogre goes out, happiness comes in".</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00038.mp3">🔊</a></td><td>数える</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かぞえる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to count, to number</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00404.mp3">🔊</a></td><td>豆まきの後、自分の年と同じ分の豆を数えて食べます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まめまきのあと、じぶんのとしとおなじぶんのまめをかぞえてたべます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>After the bean-throwing ceremony, we count out our age in beans and eat them.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
