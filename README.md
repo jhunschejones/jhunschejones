@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00040.mp3">🔊</a></td><td>心機一転</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しんきいってん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>a fresh start, a clean start, turning over a new leaf</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00406.mp3">🔊</a></td><td>もう春ですから、心機一転、頑張りましょう。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>もうはるですから、しんきいってん、がんばりましょう。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Because spring has come, let's make a fresh start and do our best.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00041.mp3">🔊</a></td><td>期待する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きたいする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to expect, to await, to count on</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00407.mp3">🔊</a></td><td>スミスさんはバレンタインデーにたくさんのチョコレートを期待しています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはばれんたいんでぇにたくさんのちょこれぇとをきたいしています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san is expecting a lot of chocolates on Valentine's day.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
