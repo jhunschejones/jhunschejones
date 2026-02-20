@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00047.mp3">🔊</a></td><td>誘う</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>さそう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to invite, to solicit, to court</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00413.mp3">🔊</a></td><td>今年こそ、ジョーンズさんを高価なレストランに誘おうと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ことしこそ、じょぉんずさんをこうかなれすとらんにさそおうとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>This year, I think I will invite Jones-san to go to an expensive restaurant.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00048.mp3">🔊</a></td><td>和食</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>わしょく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>Japanese cuisine</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00414.mp3">🔊</a></td><td>和食レストランだったら、ジョーンズさんも喜ぶと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>わしょくれすとらんだったら、じょぉんずさんもよろこぶとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I think Jones-san will be happy if it is an authentic Japanese restaurant.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
