@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00050.mp3">🔊</a></td><td>ワクワクする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>わくわくする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to get excited, to feel a thrill</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00416.mp3">🔊</a></td><td>ジョーンズさんと出かけるのを考えると、とてもワクワクします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんとでかけるのをかんがえると、とてもわくわくします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever I imagine going out with Jones-san, I get so excited.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00051.mp3">🔊</a></td><td>前菜</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぜんさい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>appetizer, antipasto</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00417.mp3">🔊</a></td><td>前菜にたこの酢の物はどうですか。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぜんさいにたこのすのものはどうですか。</td></tr>
+  <tr><td><strong>English:</strong></td><td>How about some octopus with sweetened vinegar for an appetizer?</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
