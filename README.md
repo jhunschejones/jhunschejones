@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00057.mp3">🔊</a></td><td>やりがいがある</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to be rewarding, to be worthwhile</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00423.mp3">🔊</a></td><td>楽しい夕食を準備するのはやりがいがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It will be worthwhile to prepare a fun dinner.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00058.mp3">🔊</a></td><td>束</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たば</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>counter</td></tr>
+  <tr><td><strong>English:</strong></td><td>counter for something tied together</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00424.mp3">🔊</a></td><td>十五本のバラの花束を一束買いました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じゅうごほんのばらのはなたばをひとたばかいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I bought a bouquet of 15 roses.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
