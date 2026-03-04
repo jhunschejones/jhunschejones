@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00059.mp3">🔊</a></td><td>取り消す</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とりけす</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to cancel, to back down, to take back</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00425.mp3">🔊</a></td><td>予約を取り消さなくてよかったです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>よやくをとりけさなくてよかったです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I'm glad that I didn't cancel the reservation.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00060.mp3">🔊</a></td><td>へそくり</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>a stash of money, pin money, secret savings</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00426.mp3">🔊</a></td><td>へそくりを全部使ってしまいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I had to unexpectedly used all of my secret savings.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
