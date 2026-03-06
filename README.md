@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00061.mp3">🔊</a></td><td>ひな祭り</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひなまつり</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>Doll Festival</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00427.mp3">🔊</a></td><td>ひな祭りには母娘いっしょにとても豪華な人形でひな飾りをします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひなまつりにはおやこいっしょにとてもごうかなにんぎょうでひなかざりをします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>During the Doll Festival, girls and their mothers decorate the hinakazari with gorgeous dolls.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00062.mp3">🔊</a></td><td>見学する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けんがくする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to observe, to see, to watch</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00428.mp3">🔊</a></td><td>明日、近所の鈴木さんの人形を見学します。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あした、きんじょのすずきさんのにんぎょうをけんがくします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Tomorrow, I will go and see my neighbor, Suzuki-san's, dolls.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
