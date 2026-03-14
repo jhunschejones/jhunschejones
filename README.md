@@ -37,13 +37,12 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00069.mp3">🔊</a></td><td>騒音</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>そうおん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>noise, din</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00435.mp3">🔊</a></td><td>田中さんはいつも騒音を出すみたいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たなかさんはいつもそうおんをだすみたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It sounds like her neighbor Tanaka-san always makes a lot of noise.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00070.mp3">🔊</a></td><td>つらい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>tough, hard, painful, bitter</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00436.mp3">🔊</a></td><td>うるさい音をいつも聞くのはつらいですね。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>うるさいおとをいつもきくのはつらいですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It is painful for everyone to hear the constant neighborhood commotion.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
