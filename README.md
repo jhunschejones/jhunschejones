@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00076.mp3">🔊</a></td><td>ビニール袋</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>びにぃるぶくろ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>plastic bag</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00442.mp3">🔊</a></td><td>犬の散歩のときには、糞を拾うビニール袋を持って行きます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いぬのさんぽのときには、ふんをひろうびにぃるぶくろをもっていきます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>They always remember to bring plastic bags on walks to clean up the dog droppings.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00077.mp3">🔊</a></td><td>助け合う</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たすけあう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to cooperate, to help one another, to stand up for each other</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00443.mp3">🔊</a></td><td>助け合って近所をきれいにしたいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たすけあってきんじょをきれいにしたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I hope we can continue to help one another in keeping the neighborhood clean.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
