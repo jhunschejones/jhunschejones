@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00088.mp3">🔊</a></td><td>付かず離れず</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つかずはなれず</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>to maintain a cautious distance from someone</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00454.mp3">🔊</a></td><td>そういう人とは付かず離れずの関係がいいでしょう。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>そういうひととはつかずはなれずのかんけいがいいでしょう。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is best to maintain a cautious distance from people like this.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00089.mp3">🔊</a></td><td>程々に</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ほどほどに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>moderately, in moderation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00455.mp3">🔊</a></td><td>鈴木さんと話す時は程々にするつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すずきさんとはなすときはほどほどにするつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I talk with Suzuki-san in moderation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
