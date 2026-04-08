@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00094.mp3">🔊</a></td><td>新年度</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しんねんど</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>a new business/school year, a new fiscal year</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00460.mp3">🔊</a></td><td>日本では、新年度は四月からです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんでは、しんねんどはしがつからです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In Japan, the new fiscal year starts in April.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00095.mp3">🔊</a></td><td>顔が広い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かおがひろい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>to have a large circle of acquaintances, to know a lot of people</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00461.mp3">🔊</a></td><td>スミスさんはとても顔が広いです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはとてもかおがひろいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san knows a lot of people.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
