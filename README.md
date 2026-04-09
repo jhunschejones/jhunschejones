@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00095.mp3">🔊</a></td><td>顔が広い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かおがひろい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>to have a large circle of acquaintances, to know a lot of people</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00461.mp3">🔊</a></td><td>スミスさんはとても顔が広いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはとてもかおがひろいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san knows a lot of people.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00096.mp3">🔊</a></td><td>人事異動</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じんじいどう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>internal transfer, personnel rotation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00462.mp3">🔊</a></td><td>スミスさんは人事異動のニュースを教えてくれました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはじんじいどうのにゅうすをおしえてくれました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san kindly told me the news that there will be a personnel rotation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
