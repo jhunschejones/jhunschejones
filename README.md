@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00099.mp3">🔊</a></td><td>不機嫌な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ふきげんな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>displeased, petulant, grumpy</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00465.mp3">🔊</a></td><td>新しい上司はいつも不機嫌そうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あたらしいじょうしはいつもふきげんそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My new boss always looks grumpy.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00100.mp3">🔊</a></td><td>パワハラ</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぱわはら</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>power harassment, harassment by a supervisor, workplace power harassment</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00466.mp3">🔊</a></td><td>パワハラをする人かもしれません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぱわはらをするひとかもしれません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I'm worried about an increase in workplace power harassment.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
