@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00100.mp3">🔊</a></td><td>パワハラ</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぱわはら</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>power harassment, harassment by a supervisor, workplace power harassment</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00466.mp3">🔊</a></td><td>パワハラをする人かもしれません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぱわはらをするひとかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I'm worried about an increase in workplace power harassment.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00101.mp3">🔊</a></td><td>口出しする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>くちだしする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to stick one's nose into something, to interfere with</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00467.mp3">🔊</a></td><td>新しい上司に口出しをしないつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あたらしいじょうしにくちだしをしないつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>­I would avoid sticking your nose into the new boss' business.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
