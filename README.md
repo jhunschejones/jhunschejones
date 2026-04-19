@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00105.mp3">🔊</a></td><td>社交的な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しゃこうてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>sociable, outgoing, gregarious, socialized</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00471.mp3">🔊</a></td><td>ジョーンズさんはデイビスさんが社交的だと言っていました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんはでいびすさんがしゃこうてきだといっていました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Jones-san said Davis-san is very sociable.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00106.mp3">🔊</a></td><td>人柄</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひとがら</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>character, a person's typical behavior and attitude</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00472.mp3">🔊</a></td><td>ジョーンズさんがデイビスさんは人柄がいいと言っています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがでいびすさんはひとがらがいいといっています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Jones-san says Davis-san has good character.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
