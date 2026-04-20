@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00106.mp3">🔊</a></td><td>人柄</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひとがら</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>character, a person's typical behavior and attitude</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00472.mp3">🔊</a></td><td>ジョーンズさんがデイビスさんは人柄がいいと言っています。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがでいびすさんはひとがらがいいといっています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Jones-san says Davis-san has good character.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00107.mp3">🔊</a></td><td>同調する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>どうちょうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to follow the crowd</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00473.mp3">🔊</a></td><td>私はデイビスさんはすぐに同調すると思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>わたしはでいびすさんはすぐにどうちょうするとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Davis-san seems to be a person who likes to follow the crowd.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
