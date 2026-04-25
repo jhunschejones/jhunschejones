@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00111.mp3">🔊</a></td><td>肯定的な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こうていてきな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>positive, affirmative</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00477.mp3">🔊</a></td><td>でも、デイビスさんについて肯定的なことを言いたくありません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でも、でいびすさんについてこうていてきなことをいいたくありません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>However, I refuse to say anything positive about Davis-san.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00112.mp3">🔊</a></td><td>無-</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：ム、ブ 訓：な（い）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>prefix</td></tr>
+  <tr><td><strong>English:</strong></td><td>non-, un-</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00478.mp3">🔊</a></td><td>やっぱり、新しい上司を好きになるのは無理です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>やっぱり、あたらしいじょうしをすきになるのはむりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>After all, it is impossible for me to like my new boss.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
