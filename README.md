@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00114.mp3">🔊</a></td><td>振り回す</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ふりまわす</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00116.mp3">🔊</a></td><td>頼りになる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たよりになる</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to sway someone, to manipulate</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00480.mp3">🔊</a></td><td>上司はいつも私たちを振り回します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょうしはいつもわたしたちをふりまわします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My boss always manipulates things to get their way.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to become reliable</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00482.mp3">🔊</a></td><td>ジョーンズさんがチームの中でも頼りになる人だと言ってくれました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがちぃむのなかでもたよりになるひとだといってくれました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Jones-san said I have become a reliable employee on the team.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
