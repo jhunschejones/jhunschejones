@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00117.mp3">🔊</a></td><td>優先する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうせんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to prioritize</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00483.mp3">🔊</a></td><td>大事な案件を優先するように努力します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>だいじなあんけんをゆうせんするようにどりょくします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I have improved my ability to prioritize tasks.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00118.mp3">🔊</a></td><td>人のせいにする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひとのせいにする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to blame somebody else</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00484.mp3">🔊</a></td><td>失敗を人のせいにしてはいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しっぱいをひとのせいにしてはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We must not blame others for our failure.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
