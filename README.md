@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00120.mp3">🔊</a></td><td>素直に</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すなおに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>genuinely, amenably</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00486.mp3">🔊</a></td><td>ジョーンズさんがほめてくれたので、素直にうれしいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんがほめてくれたので、すなおにうれしいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I am genuinely happy Jones-san praised my efforts.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00121.mp3">🔊</a></td><td>自慢する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じまんする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to brag, to be proud</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00487.mp3">🔊</a></td><td>デイビスさんに自慢したくてしょうがないです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でいびすさんにじまんしたくてしょうがないです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I can't wait to brag to Davis-san about this.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
