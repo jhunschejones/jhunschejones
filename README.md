@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00121.mp3">🔊</a></td><td>自慢する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じまんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to brag, to be proud</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00487.mp3">🔊</a></td><td>デイビスさんに自慢したくてしょうがないです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびすさんにじまんしたくてしょうがないです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I can't wait to brag to Davis-san about this.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00123.mp3">🔊</a></td><td>贅沢な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぜいたくな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>luxurious, extravagant</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00489.mp3">🔊</a></td><td>連続して休めるのは贅沢です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>れんぞくしてやすめるのはぜいたくです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It will be luxurious for me to have several days off.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
