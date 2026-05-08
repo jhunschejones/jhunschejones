@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00124.mp3">🔊</a></td><td>見逃す</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>みのがす</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to miss out, to lose out on</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00490.mp3">🔊</a></td><td>平日忙しくて見逃しがちだった映画を見ようと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>へいじついそがしくてみのがしがちだったえいがをみようとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I think I will watch some of the movies I usually miss out on watching during the week.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00125.mp3">🔊</a></td><td>実家</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じっか</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>parents' home</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00491.mp3">🔊</a></td><td>ジョーンズさんはこの休みに実家に帰りました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょぉんずさんはこのやすみにじっかにかえりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Jones-san went back to their parents' home during vacation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
