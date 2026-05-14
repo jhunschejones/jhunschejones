@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00130.mp3">🔊</a></td><td>お得な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おとくな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>good deal, bargain, cheap, reasonable</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00496.mp3">🔊</a></td><td>何かお得な旅行プランを見つけなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>なにかおとくなりょこうぷらんをみつけなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I have to find something, like a cheap travel tour.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00131.mp3">🔊</a></td><td>荷作り</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にづくり</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>packing</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00497.mp3">🔊</a></td><td>でも、荷作りする時間もありませんでした。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>でも、にづくりするじかんもありませんでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>However, I didn't have time for packing, either.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
