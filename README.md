@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00132.mp3">🔊</a></td><td>鑑賞する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんしょうする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to appreciate</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00498.mp3">🔊</a></td><td>代わりに、たくさんの映画を鑑賞する時間を取ります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かわりに、たくさんのえいがをかんしょうするじかんをとります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Instead, I will take the time to appreciate many good movies.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00133.mp3">🔊</a></td><td>感</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：カン</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>feeling, impression, emotion</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00499.mp3">🔊</a></td><td>良い映画は感性を刺激します。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よいえいがはかんせいをしげきします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Good movies stimulate our emotions.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
