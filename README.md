@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00134.mp3">🔊</a></td><td>リフレッシュする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>りふれっしゅする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to refresh</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00500.mp3">🔊</a></td><td>良い映画を見ると、リフレッシュします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>よいえいがをみると、りふれっしゅします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever I watch a good movie, I feel refreshed afterward.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00135.mp3">🔊</a></td><td>模様替え</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>もようがえ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>remodeling, rearranging</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00501.mp3">🔊</a></td><td>残りの休みは模様替えをします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>のこりのやすみはもようがえをします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>During the rest of the holidays, I will rearrange my room.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
