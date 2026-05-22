@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00138.mp3">🔊</a></td><td>自己投資</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じことうし</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>investment in oneself</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00504.mp3">🔊</a></td><td>海外旅行は自己投資として価値があるそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かいがいりょこうはじことうしのとしてかちがあるそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I have heard that traveling overseas is a good investment in yourself.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00139.mp3">🔊</a></td><td>日本語が通じる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんごがつうじる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>Japanese-speaking countries/areas</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00505.mp3">🔊</a></td><td>日本語が通じる国だったら、行きたいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんごがつうじるくにだったら、いきたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I want to go somewhere where most people understand some Japanese.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
