@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00140.mp3">🔊</a></td><td>絶景</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぜっけい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>lovely view, superb scenery, impressive sight</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00506.mp3">🔊</a></td><td>デイビスさんが送ってくれた写真は絶景でした。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびすさんがおくってくれたしゃしんはぜっけいでした。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Davis-san sent me a picture of a stunning view.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00141.mp3">🔊</a></td><td>圧倒的な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あっとうてきな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>irresistibly, massive, commanding</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00507.mp3">🔊</a></td><td>まさに圧倒的な迫力でした。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まさにあっとうてきなはくりょくでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Certainly, it was an irresistibly beautiful view.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
