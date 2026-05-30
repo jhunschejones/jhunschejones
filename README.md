@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00146.mp3">🔊</a></td><td>治安</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ちあん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>public order, security, civil order</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00512.mp3">🔊</a></td><td>デイビスさんは治安が良い所を旅行しているといいですね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>でいびすさんはちあんがよいところをりょこうしているといいですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I hope Davis-san travels somewhere where there is public order.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00147.mp3">🔊</a></td><td>庶民的な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しょみんてきな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>plebian, folksy, ordinary</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00513.mp3">🔊</a></td><td>比較すると、私の休暇は庶民的です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひかくすると、わたしのきゅうかはしょみんてきです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>My vacation seems so ordinary in comparison.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
