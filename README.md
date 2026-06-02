@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00149.mp3">🔊</a></td><td>断捨離</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>だんしゃり</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>decluttering, minimalism</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00515.mp3">🔊</a></td><td>家の中が狭くなったので、断捨離します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>いえのなかがせまくなったので、だんしゃりします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My room has become so messy that it's time to do some decluttering.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00150.mp3">🔊</a></td><td>すっかり</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>all, quite, totally, completely</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00516.mp3">🔊</a></td><td>家の中がすっかりきれいになりました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I got my house completely organized.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
