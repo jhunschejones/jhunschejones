@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00150.mp3">🔊</a></td><td>すっかり</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>all, quite, totally, completely</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00516.mp3">🔊</a></td><td>家の中がすっかりきれいになりました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I got my house completely organized.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00151.mp3">🔊</a></td><td>選択肢</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>せんたくし</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>option, choice, alternative</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00517.mp3">🔊</a></td><td>家の大掃除という選択肢もあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>いえのおおそうじというせんたくしもあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We have the option to just clean the entire house.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
