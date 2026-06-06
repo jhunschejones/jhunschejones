@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00153.mp3">🔊</a></td><td>梅雨</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>つゆ（ばいう）</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00154.mp3">🔊</a></td><td>豪雨</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ごうう</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>rainy season</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00519.mp3">🔊</a></td><td>私の嫌いな梅雨がやってきます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>わたしのきらいなつゆがやってきます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The rainy season, which I hate, is coming.</td></tr>
+  <tr><td><strong>English:</strong></td><td>heavy rain, heavy downpours</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00520.mp3">🔊</a></td><td>梅雨は台風ほど豪雨にはなりません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>つゆはたいふうほどごううにはなりません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The heavy rains during this season are not as bad as during a typhoon.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
