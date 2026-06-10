@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00156.mp3">🔊</a></td><td>ジメジメする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じめじめする</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00158.mp3">🔊</a></td><td>備蓄する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>びちくする</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to get uncomfortably humid</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00522.mp3">🔊</a></td><td>今日はジメジメして気分が悪いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>きょうはじめじめしてきぶんがわるいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The weather today is so uncomfortably humid.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to build a stockpile, to stockpile</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00524.mp3">🔊</a></td><td>災害のために、色々と備蓄しなければいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さいがいのために、いろいろとびちくしなければいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>We have to stockpile various things for disasters.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
