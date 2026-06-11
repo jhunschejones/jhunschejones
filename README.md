@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00158.mp3">🔊</a></td><td>備蓄する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>びちくする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to build a stockpile, to stockpile</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00524.mp3">🔊</a></td><td>災害のために、色々と備蓄しなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>さいがいのために、いろいろとびちくしなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>We have to stockpile various things for disasters.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00159.mp3">🔊</a></td><td>梅雨入り</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>つゆいり</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>the beginning of the rainy season</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00525.mp3">🔊</a></td><td>とうとうこの地域も梅雨入りしました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>とうとうこのちいきもつゆいりしました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Sadly, the beginning of the rainy season has started in this area.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
