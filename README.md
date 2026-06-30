@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00177.mp3">🔊</a></td><td>ずぶ濡れ</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ずぶぬれ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>soaking wet, dripping wet, thoroughly wet</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00543.mp3">🔊</a></td><td>台風の時に外に出ると、ずぶ濡れになってしまいます。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たいふうのときにそとにでると、ずぶぬれになってしまいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>If you go outside during a typhoon, you will get soaking wet.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00178.mp3">🔊</a></td><td>他人事</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たにんごと</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>somebody else's problem</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00544.mp3">🔊</a></td><td>災害を他人事だと思ってはいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さいがいをたにんごとだとおもってはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Don't think that disasters are somebody else's problem.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
