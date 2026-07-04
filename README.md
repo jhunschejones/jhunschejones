@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00181.mp3">🔊</a></td><td>まぶしい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>extremely bright, sparkling</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00547.mp3">🔊</a></td><td>今日はお天気がまぶしいほど良いです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Today the weather is so bright and sunny.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00182.mp3">🔊</a></td><td>ホッとする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ほっとする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to feel relieved, to experience relief, to feel secure</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00548.mp3">🔊</a></td><td>災害がなくてホッとしました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さいがいがなくてほっとしました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I am so relieved there were no disasters.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
