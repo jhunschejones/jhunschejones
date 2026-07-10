@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00188.mp3">🔊</a></td><td>なかなか</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>not easily, rather, exceedingly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00554.mp3">🔊</a></td><td>山田先生にはなかなか直接お会いできません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>It is difficult to gain access to Professor Yamada directly.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00189.mp3">🔊</a></td><td>頂く</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>いただく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to accept gratefully, to receive gratefully</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00555.mp3">🔊</a></td><td>山田先生から、丁寧なお礼の手紙を頂きました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>やまだせんせいから、ていねいなおれいのてがみをいただきました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I gratefully received a kind "thank-you" letter from Professor Yamada.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
