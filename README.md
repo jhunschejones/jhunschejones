@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00191.mp3">🔊</a></td><td>夏の風物詩</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>なつのふうぶつし</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>expression</td></tr>
-  <tr><td><strong>English:</strong></td><td>things that remind one of summer</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00557.mp3">🔊</a></td><td>お中元は夏の風物詩ですね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おちゅうげんはなつのふうぶつしですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Receiving a mid-year gift always reminds me of summer.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00192.mp3">🔊</a></td><td>休暇</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きゅうか</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>vacation</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00558.mp3">🔊</a></td><td>夏は休暇の季節ですね。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>なつはきゅうかのきせつですね。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Summer is usually the season to take a vacation.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
