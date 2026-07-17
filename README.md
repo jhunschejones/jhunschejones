@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00195.mp3">🔊</a></td><td>観戦する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんせんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to watch games or sports</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00561.mp3">🔊</a></td><td>週末の休みはたいてい野球を観戦します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しゅうまつのやすみはたいていやきゅうをかんせんします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>On my days off, I usually watch baseball games.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00196.mp3">🔊</a></td><td>振替</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ふりかえ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>substitute, transfer</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00562.mp3">🔊</a></td><td>今週は振替休日で月曜日も休みです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こんしゅうはふりかえでげつようびもやすみです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Due to the substitute holiday, Monday is also off this week.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
