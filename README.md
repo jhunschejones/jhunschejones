@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00196.mp3">🔊</a></td><td>振替</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ふりかえ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>substitute, transfer</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00562.mp3">🔊</a></td><td>今週は振替休日で月曜日も休みです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>こんしゅうはふりかえでげつようびもやすみです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Due to the substitute holiday, Monday is also off this week.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00197.mp3">🔊</a></td><td>ーで</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>particle</td></tr>
+  <tr><td><strong>English:</strong></td><td>indicating "reason"</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00563.mp3">🔊</a></td><td>「ここに休暇に来ました」と「ここに休暇で来ました」は意味が違います。</td></tr>
+  <tr><td><strong>English:</strong></td><td>There is a difference in meaning between "I came here during a vacation" and "I came here for vacation."</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
