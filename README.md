@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00201.mp3">🔊</a></td><td>柔軟に</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じゅうなんに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>flexibly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00567.mp3">🔊</a></td><td>上司が必要に対して柔軟に対応してくれるといいですね。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょうしがひつようにたいしてじゅうなんにたいおうしてくれるといいですね。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I hope our boss can flexibly adapt to the new work demands.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00202.mp3">🔊</a></td><td>うまい具合に</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>うまいぐあいに</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to go as planned</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00568.mp3">🔊</a></td><td>上司が「うまい具合に行くといいですね」と言っていました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>じょうしが「うまいぐあいにいくといいですね」といっていました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Our boss said, "I hope things go as planned."</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
