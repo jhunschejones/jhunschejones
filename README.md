@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00204.mp3">🔊</a></td><td>週報</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>しゅうほう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>weekly report</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00570.mp3">🔊</a></td><td>スミスさんは週報は必ず出すと言っていました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはしゅうほうはかならずだすといっていました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san said they would submit their weekly report without fail.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00205.mp3">🔊</a></td><td>穴埋めする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>あなうめする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to make up for, to fill in for</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00571.mp3">🔊</a></td><td>必要だったら、スミスさんの穴埋めするつもりです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひつようだったら、すみすさんのあなうめするつもりです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>If needed, I can fill in for Smith-san.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
