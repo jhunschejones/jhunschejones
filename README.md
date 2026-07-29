@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00207.mp3">🔊</a></td><td>在宅勤務</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ざいたくきんむ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>working from home, home teleworking, telecommuting</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00573.mp3">🔊</a></td><td>スミスさんは数か月の間、在宅勤務をするかもしれません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはすうかげつのあいだ、ざいたくきんむをするかもしれません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san might be working from home for the next few months.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00208.mp3">🔊</a></td><td>在</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>音：ザイ 訓：あ（る）</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to exist</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00574.mp3">🔊</a></td><td>お客様にスミスさんの不在を伝えました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おきゃくさまにすみすさんのふざいをつたえました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I informed our customers that Smith-san is on leave.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
