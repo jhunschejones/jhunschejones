@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00208.mp3">🔊</a></td><td>在</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>音：ザイ 訓：あ（る）</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00209.mp3">🔊</a></td><td>迷惑がかかる</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>めいわくがかかる</td></tr>
   <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to exist</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00574.mp3">🔊</a></td><td>お客様にスミスさんの不在を伝えました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おきゃくさまにすみすさんのふざいをつたえました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I informed our customers that Smith-san is on leave.</td></tr>
+  <tr><td><strong>English:</strong></td><td>to cause someone trouble</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00575.mp3">🔊</a></td><td>スミスさんは自分の休みのせいで迷惑がかかっていないか心配しています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはじぶんのやすみのせいでめいわくがかかっていないかしんぱいしています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san is worried that his leave is causing trouble for the other employees.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
