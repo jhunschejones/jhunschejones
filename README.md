@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00211.mp3">🔊</a></td><td>慌ただしい</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あわただしい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>busy, hurried, hectic</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00577.mp3">🔊</a></td><td>大事な人が休むと、会社が慌ただしくなります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>だいじなひとがやすむと、かいしゃがあわただしくなります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever important people in the company take leave, our work becomes more hectic.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00212.mp3">🔊</a></td><td>病気休暇</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>びょうききゅうか</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>sick leave</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00578.mp3">🔊</a></td><td>スミスさんは具体的には病気休暇を取ったそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはぐたいてきにはびょうききゅうかをとったそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard that Smith-san specifically took sick leave.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
