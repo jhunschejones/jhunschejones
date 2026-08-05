@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00214.mp3">🔊</a></td><td>お盆</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おぼん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>Festival of the Dead</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00580.mp3">🔊</a></td><td>お盆で八月中旬に家族が集まります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おぼんではちがつちゅうじゅんにかぞくがあつまります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Families get together in mid-August to celebrate the Festival of the Dead.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00215.mp3">🔊</a></td><td>滞在する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>たいざいする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to visit, to remain</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00581.mp3">🔊</a></td><td>その間、ご先祖がやってきて、家族の家に滞在すると考えます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>そのあいだ、ごせんぞがやってきて、かぞくのいえにたいざいするとかんがえます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>During the Festival, one's ancestors are said to visit and stay at the family home.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
