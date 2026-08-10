@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00219.mp3">🔊</a></td><td>尊重する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>そんちょうする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to value, to respect</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00585.mp3">🔊</a></td><td>日本文化では、先祖や年上の人を尊重します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にほんぶんかでは、せんぞやとしうえのひとをそんちょうします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>In Japanese culture, people really respect their ancestors and the elderly.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00220.mp3">🔊</a></td><td>軽々しい</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かるがるしい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>flippant, thoughtless, careless</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00586.mp3">🔊</a></td><td>年上の人は若い人の見本ですから、軽々しい振る舞いをしてはいけません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>だから、としうえのひとはかるがるしいふるまいをしてはいけません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The elderly serve as a role model to young Japanese people, so they avoid being flippant.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
