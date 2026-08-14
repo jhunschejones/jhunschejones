@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00223.mp3">🔊</a></td><td>ストイックに</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すといっくに</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>stoically</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00589.mp3">🔊</a></td><td>私は毎日ストイックに仕事をしなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>わたしはまいにちすといっくにしごとをしなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I try to work stoically every day to gain their respect.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00224.mp3">🔊</a></td><td>敬意</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けいい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>respect, honor, deference</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00590.mp3">🔊</a></td><td>それから、後輩に敬意をもって接したいです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>それから、こうはいにけいいをもってせっしたいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Moreover, I want to also treat my junior colleagues with respect.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
