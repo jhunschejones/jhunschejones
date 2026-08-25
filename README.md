@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00234.mp3">🔊</a></td><td>励ます</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はげます</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to encourage, to hearten</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00600.mp3">🔊</a></td><td>友人のフォードが自動車を発明した時、エジソンはとても喜んで、フォードを励ましたそうです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ゆうじんのふぉぉどがじどうしゃをはつめいしたとき、えじそんはとてもよろこんで、ふぉぉどをはげましたそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I heard that Edison was very pleased, and encouraged his friend Ford to continue inventing cars.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00235.mp3">🔊</a></td><td>不得手</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ふえて</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>weak point</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00601.mp3">🔊</a></td><td>エジソンは、発明に比べて、事業は不得手だったようです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>えじそんは、はつめいにくらべて、じぎょうはふえてだったようです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Edison had a weak point when it came to business.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
