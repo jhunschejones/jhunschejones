@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00236.mp3">🔊</a></td><td>目覚ましい</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>めざましい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>remarkable, outstanding</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00602.mp3">🔊</a></td><td>マイケル・ジョーダンはバスケットボール選手として、目覚ましいパフォーマンスを見せました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まいける・じょぉだんはばすけっとぼぉるせんしゅとして、めざましいぱふぉぉまんすをみせました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Michael Jordan was a remarkable basketball player.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00237.mp3">🔊</a></td><td>貢献する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こうけんする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to contribute</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00603.mp3">🔊</a></td><td>1990年代に、ジョーダンはNBAチャンピオンシップで、シカゴブルズの六回の優勝に貢献しました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>せんきゅうひゃくきゅうじゅうねんだいに、じょぉだんはえぬびぃえぇちゃんぴおんしっぷで、しかごぶるすのろっかいのゆうしょうにこうけんしました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In the 1990s, Jordan contributed to the Chicago Bulls' six NBA championship victories.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
