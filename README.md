@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00240.mp3">🔊</a></td><td>影響</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>えいきょう</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>influence, impact</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00606.mp3">🔊</a></td><td>ジョーダンは、スラムダンクなどの日本の漫画にも影響を与えました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じょぉだんは、すらむだんくなどのにほんのまんがにもえいきょうをあたえました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>His influence is so universal, he even inspired a Japanese comic called "Slam Dunk".</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00241.mp3">🔊</a></td><td>身近な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>みじかな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>familiar, closest to</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00607.mp3">🔊</a></td><td>身近な人では先輩のスミスさんを尊敬します。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>みじかなひとではせんぱいのすみすさんをそんけいします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Amongst the people closest to me, I admire Smith-san the most.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
