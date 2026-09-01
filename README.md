@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00241.mp3">🔊</a></td><td>身近な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>みじかな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>familiar, closest to</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00607.mp3">🔊</a></td><td>身近な人では先輩のスミスさんを尊敬します。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>みじかなひとではせんぱいのすみすさんをそんけいします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Amongst the people closest to me, I admire Smith-san the most.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00242.mp3">🔊</a></td><td>判断力</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はんだんりょく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>discernment, judgement</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00608.mp3">🔊</a></td><td>スミスさんは判断力があります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんははんだんりょくがあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san has excellent judgement.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
