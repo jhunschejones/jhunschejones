@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00242.mp3">🔊</a></td><td>判断力</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はんだんりょく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>discernment, judgement</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00608.mp3">🔊</a></td><td>スミスさんは判断力があります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんははんだんりょくがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san has excellent judgement.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00243.mp3">🔊</a></td><td>モタモタする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>もたもたする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to dawdle</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00609.mp3">🔊</a></td><td>スミスさんは判断するのにモタモタしません。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんははんだんするのにもたもたしません。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san never dawdles at work.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
