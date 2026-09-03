@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00243.mp3">🔊</a></td><td>モタモタする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>もたもたする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to dawdle</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00609.mp3">🔊</a></td><td>スミスさんは判断するのにモタモタしません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんははんだんするのにもたもたしません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san never dawdles at work.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00244.mp3">🔊</a></td><td>丁寧な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ていねいな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>courteous, polite, affable, careful</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00610.mp3">🔊</a></td><td>スミスさんの素晴らしいところは誰にでも敬語で話して丁寧なことです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんのすばらしいところはだれにでもけいごではなしてていねいなところです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>One of the best things about Smith-san is that they are always courteous to everyone.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
