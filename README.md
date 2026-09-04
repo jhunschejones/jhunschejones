@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00244.mp3">🔊</a></td><td>丁寧な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ていねいな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>courteous, polite, affable, careful</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00610.mp3">🔊</a></td><td>スミスさんの素晴らしいところは誰にでも敬語で話して丁寧なことです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんのすばらしいところはだれにでもけいごではなしてていねいなところです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>One of the best things about Smith-san is that they are always courteous to everyone.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00245.mp3">🔊</a></td><td>敬老の日</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>けいろうのひ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>Respect for the Aged Day</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00611.mp3">🔊</a></td><td>日本では、「敬老の日」は九月の第三月曜日です。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんでは、「けいろうのひ」はくがつのだいさんげつようびです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>In Japan, Respect for the Aged Day is on the third Monday in September.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
