@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00246.mp3">🔊</a></td><td>豊富な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ほうふな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>plentiful, abundant, rich</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00612.mp3">🔊</a></td><td>年上の人は経験が豊富です。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>としうえのひとはけいけんがほうふです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>The elderly are rich with life experiences.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00247.mp3">🔊</a></td><td>お祝いする</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>おいわいする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to celebrate</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00613.mp3">🔊</a></td><td>この日には、長寿をお祝いして、孫が贈り物をします。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>このひには、ちょうじゅをおいわいして、まごがおくりものをします。</td></tr>
+  <tr><td><strong>English:</strong></td><td>On this day, we celebrate the long lives of our elderly and their grandchildren give them gifts.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
