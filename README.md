@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00247.mp3">🔊</a></td><td>お祝いする</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>おいわいする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to celebrate</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00613.mp3">🔊</a></td><td>この日には、長寿をお祝いして、孫が贈り物をします。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>このひには、ちょうじゅをおいわいして、まごがおくりものをします。</td></tr>
-  <tr><td><strong>English:</strong></td><td>On this day, we celebrate the long lives of our elderly and their grandchildren give them gifts.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00248.mp3">🔊</a></td><td>特別な</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>とくべつな</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>special, particular</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00614.mp3">🔊</a></td><td>二十歳のように六十歳にも特別な名前があります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>はたちのようにろくじゅっさいにもとくべつななまえがあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Just as there is a special name to commemorate turning twenty years old, there is also a special name for turning sixty.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
