@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00248.mp3">🔊</a></td><td>特別な</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>とくべつな</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>na-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>special, particular</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00614.mp3">🔊</a></td><td>二十歳のように六十歳にも特別な名前があります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はたちのようにろくじゅっさいにもとくべつななまえがあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Just as there is a special name to commemorate turning twenty years old, there is also a special name for turning sixty.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00249.mp3">🔊</a></td><td>還暦</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かんれき</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>sixty years old</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00615.mp3">🔊</a></td><td>「六十歳です」という代わりに「還暦です」と言います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>「ろくじゅっさいです」というかわりに「かんれきです」といいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Instead of saying, "I am sixty years old", you say "I am kanreki."</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
