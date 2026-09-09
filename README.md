@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00249.mp3">🔊</a></td><td>還暦</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>かんれき</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>sixty years old</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00615.mp3">🔊</a></td><td>「六十歳です」という代わりに「還暦です」と言います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>「ろくじゅっさいです」というかわりに「かんれきです」といいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Instead of saying, "I am sixty years old", you say "I am kanreki."</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00250.mp3">🔊</a></td><td>吸収する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>きゅうしゅうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to absorb</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00616.mp3">🔊</a></td><td>まだまだ、年上の人の良いところを吸収しようと思います。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まだまだ、としうえのひとのよいところをきゅうしゅうしようとおもいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>While I still have time, I will absorb as much wisdom as I can from my elderly relatives.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
