@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00253.mp3">🔊</a></td><td>実力</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>じつりょく</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>real ability, capability, capacity</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00619.mp3">🔊</a></td><td>前の研修会の講師のように、実力がある専門家になりたいです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>まえのけんしゅうかいのこうしのように、じつりょくがあるせんもんかになりたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to have the same capabilities as the workshop instructor.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00254.mp3">🔊</a></td><td>都合よく</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>つごうよく</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
+  <tr><td><strong>English:</strong></td><td>at a good time, conveniently, handily</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00620.mp3">🔊</a></td><td>都合よく別の研修会の案内をもらいました。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>つごうよくべつのけんしゅうかいのあんないをもらいました。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Conveniently, there are more workshops coming up!</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
