@@ -37,11 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00258.mp3">🔊</a></td><td>しっかり</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>adverb</td></tr>
-  <tr><td><strong>English:</strong></td><td>tightly, firmly</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00624.mp3">🔊</a></td><td>企画書の上手な書き方もしっかりマスターしたいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>I want to firmly grasp how to write good reports.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00259.mp3">🔊</a></td><td>ちんぷんかんぷん</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>not making any sense, as clear as mud</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00625.mp3">🔊</a></td><td>内容が高度で、ちんぷんかんぷんでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>The contents were so advanced, it was about as clear as mud to me.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
