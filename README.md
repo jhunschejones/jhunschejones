@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00261.mp3">🔊</a></td><td>プレゼン</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぷれぜん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>presentation</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00627.mp3">🔊</a></td><td>前回の研修会の内容をプレゼンするよう上司が言っています。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぜんかいのけんしゅうかいのないようをぷれぜんするよじょうしがいっています。</td></tr>
-  <tr><td><strong>English:</strong></td><td>My boss told me to make a presentation about the previous workshop.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00262.mp3">🔊</a></td><td>あがる</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to get stage fright</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00628.mp3">🔊</a></td><td>ジョーンズさんの前で話したら、あがってしまいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>If Jones-san is in the audience, I know I will get stage fright.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
