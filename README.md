@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00283.mp3">🔊</a></td><td>体感する</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>たいかんする</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to feel, to actually experience</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00649.mp3">🔊</a></td><td>速さを実際に体感すると怖くなるのだと思います。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はやさをじっさいにたいかんするとこわくなるのだとおもいます。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Perhaps, they are more afraid when they can actually feel the speed.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00284.mp3">🔊</a></td><td>ペーパードライバー</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ぺぇぱぁどらいばぁ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>paper driver</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00650.mp3">🔊</a></td><td>日本では車を運転しなくていいので、ペーパードライバーもよくあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>にほんではくるまをうんてんしなくていいので、ぺぇぱぱどらいばぁもよくあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>It's common to be a "paper driver" in Japan since the public transportation is so good.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
