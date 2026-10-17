@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00287.mp3">🔊</a></td><td>とんでもない</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>outrageous, relentless, ridiculous</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00653.mp3">🔊</a></td><td>バンジージャンプなんて、とんでもないです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Things such as bungee jumping, are ridiculous.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00288.mp3">🔊</a></td><td>身の毛がよだつ</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>みのけがよだつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>to have one's hair stand on end</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00654.mp3">🔊</a></td><td>想像するだけで身の毛がよだつそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>そうぞうするだけでみのけがよだつそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Even just imagining it makes Smith-san's hair stand on end.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
