@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00297.mp3">🔊</a></td><td>暗い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>くらい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>dark</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00663.mp3">🔊</a></td><td>暗い所も苦手だと言っていました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>くらいところもにがてだといっていました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>They said they don't like to be in dark places either.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00298.mp3">🔊</a></td><td>豆電球</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>まめでんきゅう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>miniature bulb, nightlight</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00664.mp3">🔊</a></td><td>夜は豆電球をつけて寝るそうです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>よるはまめでんきゅうをつけてねるそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I heard they keep a nightlight on to go to sleep.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
