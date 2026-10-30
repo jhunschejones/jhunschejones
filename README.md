@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00300.mp3">🔊</a></td><td>ハロウィーン</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はろうぃぃん</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>Halloween</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00666.mp3">🔊</a></td><td>にもかかわらず、デイビッドさんはハロウィーンは楽しめると言っていました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>にもかかわらず、でいびっどさんははろうぃぃんはたのしめるといっていました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Despite this, David-san said he still enjoys Halloween.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00301.mp3">🔊</a></td><td>仮装する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かそうする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to masquerade, to disguise oneself as</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00667.mp3">🔊</a></td><td>渋谷には仮装した人がたくさんいます。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しぶやにはかそうしたひとがたくさんいます。</td></tr>
+  <tr><td><strong>English:</strong></td><td>A lot of people disguise themselves in costumes and go to Shibuya.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
