@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00304.mp3">🔊</a></td><td>ポイ捨て</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ぽいすて</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>littering</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00670.mp3">🔊</a></td><td>ハロウィーンの時、ポイ捨てがよく問題になります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>はろうぃぃんのとき、ぽいすてがよくもんだいになります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Unfortunately, littering is typically a problem on Halloween.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00305.mp3">🔊</a></td><td>克服する</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こくふくする</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
+  <tr><td><strong>English:</strong></td><td>to overcome, to conquer, to get rid of</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00671.mp3">🔊</a></td><td>怖いものは克服して、ハロウィーンを楽しみましょう。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>こわいものはこくふくして、はろうぃぃんをたのしみましょう。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Let's overcome something we are scared of and enjoy Halloween.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
