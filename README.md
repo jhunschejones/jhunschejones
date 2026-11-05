@@ -37,13 +37,11 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00306.mp3">🔊</a></td><td>済む</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すむ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to not need, to be able to avoid</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00672.mp3">🔊</a></td><td>スミスさんは入院しないで済みました。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>すみすさんはにゅういんしないですみました。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Thankfully, Smith-san was able to avoid being hospitalized.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00307.mp3">🔊</a></td><td>だるい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
+  <tr><td><strong>English:</strong></td><td>languid, sluggish, heavy</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00673.mp3">🔊</a></td><td>スミスさんはまだだるそうです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san still seems very sluggish though.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
