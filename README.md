@@ -37,11 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00307.mp3">🔊</a></td><td>だるい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>i-adjective</td></tr>
-  <tr><td><strong>English:</strong></td><td>languid, sluggish, heavy</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00673.mp3">🔊</a></td><td>スミスさんはまだだるそうです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Smith-san still seems very sluggish though.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00308.mp3">🔊</a></td><td>感染症</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>かんせんしょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>infection</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00674.mp3">🔊</a></td><td>スミスさんは感染症でした。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>すみすさんはかんせんしょうでした。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Smith-san had an infection.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
