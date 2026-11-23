@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.0'
+        ruby-version: '3.4.12'
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install ChromeDriver
       run: ./bin/install linux
