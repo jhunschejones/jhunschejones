@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00312.mp3">🔊</a></td><td>足がつる</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あしがつる</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>verb</td></tr>
-  <tr><td><strong>English:</strong></td><td>to have one's leg cramp</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00678.mp3">🔊</a></td><td>足がつらないように、私も運動しなければいけません。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>あしがつらないように、わたしもうんどうしなければいけません。</td></tr>
-  <tr><td><strong>English:</strong></td><td>To prevent my leg from cramping, I have to frequently exercise.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00325.mp3">🔊</a></td><td>貧血</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひんけつ</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>anemia</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00691.mp3">🔊</a></td><td>貧血で痺れることもあります。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>ひんけつでしびれることもあります。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Anemia might cause numbness.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
