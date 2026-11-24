@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00325.mp3">🔊</a></td><td>貧血</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひんけつ</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
-  <tr><td><strong>English:</strong></td><td>anemia</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00691.mp3">🔊</a></td><td>貧血で痺れることもあります。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>ひんけつでしびれることもあります。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Anemia might cause numbness.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00326.mp3">🔊</a></td><td>刺すように痛い</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>さすようにいたい</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
+  <tr><td><strong>English:</strong></td><td>stabbing pain</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00692.mp3">🔊</a></td><td>胸が刺すように痛いと怖いです。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>むねがさすようにいたいとこわいです。</td></tr>
+  <tr><td><strong>English:</strong></td><td>Whenever I feel a stabbing pain in my chest, I feel scared.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
