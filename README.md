@@ -37,13 +37,13 @@
 
 <!-- START WORD OF THE DAY -->
 <table>
-  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00326.mp3">🔊</a></td><td>刺すように痛い</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>さすようにいたい</td></tr>
-  <tr><td><strong>Part of speech:</strong></td><td>idiom</td></tr>
-  <tr><td><strong>English:</strong></td><td>stabbing pain</td></tr>
-  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00692.mp3">🔊</a></td><td>胸が刺すように痛いと怖いです。</td></tr>
-  <tr><td><strong>Reading:</strong></td><td>むねがさすようにいたいとこわいです。</td></tr>
-  <tr><td><strong>English:</strong></td><td>Whenever I feel a stabbing pain in my chest, I feel scared.</td></tr>
+  <tr><td><strong>Japanese:</strong> <a href="https://wotd.transparent.com/japanese/2021/words/JPNjp_00327.mp3">🔊</a></td><td>心臓病</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しんぞうびょう</td></tr>
+  <tr><td><strong>Part of speech:</strong></td><td>noun</td></tr>
+  <tr><td><strong>English:</strong></td><td>heart disease</td></tr>
+  <tr><td><strong>Example sentence:</strong> <a href="https://wotd.transparent.com/japanese/2021/sentences/JPNjp_00693.mp3">🔊</a></td><td>心臓病を起こして、心臓発作を起こさないか心配しています。</td></tr>
+  <tr><td><strong>Reading:</strong></td><td>しんぞうびょうをおこして、しんぞうほっさをおこさないかしんぱいしています。</td></tr>
+  <tr><td><strong>English:</strong></td><td>I worry that if I develop heart disease, I'll eventually have a heart attack.</td></tr>
 </table>
 <!-- END WORD OF THE DAY -->
 </div>
